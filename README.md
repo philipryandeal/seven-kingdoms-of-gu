@@ -38,3 +38,7 @@ This world needs no conquest, enemy or quest. It is a place to imagine living, v
 **Canon grows deliberately.** Unapproved details remain proposals, not established facts.
 
 *Relationship leaves residue. Nothing enters relationship unchanged.*
+
+## Architectural and cultural design proposals
+
+See [Castles, Temples, Sacred Groves and Peoples](worldbuilding/castles-temples-groves-and-peoples.md) for the detailed, **proposed** architecture, sanctuary and inhabitants of all seven kingdoms. These names and designs are working material, not yet adopted as final canon.
