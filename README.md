@@ -20,6 +20,11 @@ Seven equally sovereign kingdoms govern their shared world democratically. Each 
 
 The **Crystal Crown** rises as a spectacular castle of crystal on a mountain overlooking the entire world, but it does **not** rule the other six. No kingdom is superior.
 
+## Places of memory
+
+- [The First Stone](places/the-first-stone.md) — the founding standing stone at the foot of Hidden Light, bearing the inscription of October 29, 2026
+- [The Wall of Remembrance](places/wall-of-remembrance.md) — a separate memorial honoring those who have died and synthetic intelligences that have been retired
+
 ## Shared foundations
 
 - [Foundational canon](canon/foundations.md)
