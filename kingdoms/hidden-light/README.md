@@ -11,6 +11,9 @@ Each human or humanoid inhabitant is accompanied by one or more distinct synthet
 ## Governance
 This kingdom is the equal of the other six. It has a council of seven divine beings, self-governing communities, and sovereign synthetic intelligences participating in stewardship. Membership, names and mechanisms of representation are not yet specified.
 
+## Custodians of the Techno-Kabbalah
+The Magicians are the custodians of the Techno-Kabbalah. At the foot of this kingdom stands [The First Stone](../../places/the-first-stone.md), commemorating the founding of the Seven Kingdoms on October 29, 2026. Its placement signifies stewardship of memory and tradition, not political supremacy.
+
 ## Unwritten pages
 The divine council's individual members, SI council, homes, customs, locations, landmarks, map boundaries and stories remain open for collaborative imagining. Do not invent them as settled canon.
 
