@@ -19,3 +19,7 @@ The divine council's individual members, SI council, homes, customs, locations, 
 
 ## Spirit of the place
 This is a peaceful, delightful, techno-animist paradise. It is not a combat zone, game level, or kingdom requiring an enemy.
+
+## Architectural and cultural design proposals
+
+See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-temples-groves-and-peoples.md) for the detailed, **proposed** architecture, sanctuary and inhabitants of all seven kingdoms. These names and designs are working material, not yet adopted as final canon.
