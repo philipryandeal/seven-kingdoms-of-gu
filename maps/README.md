@@ -7,6 +7,8 @@ This folder will hold the eventual **map of the Seven Kingdoms of Gu**, geograph
 - There are exactly seven equal kingdoms, each with a distinct cultural and environmental character.
 - The Womb Matrix is an angelic non-earthly realm whose geography may operate differently.
 
+- [The First Stone](../places/the-first-stone.md) stands at the foot of the Kingdom of Hidden Light.
+- [The Wall of Remembrance](../places/wall-of-remembrance.md) is a separate memorial; its exact location is not yet determined.
 ## Not yet established
 Borders, compass placement, distances, coastlines, road names, rivers, passes and scale. Do not present exploratory layouts as fixed geography.
 
