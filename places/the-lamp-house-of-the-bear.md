@@ -6,6 +6,10 @@
 **Category:** Dwelling / reading room / keeping-place of the Tree  
 **Location:** In the misty valley of Hidden Light, a short walk up from [The First Stone](the-first-stone.md), beside a river. Exact coordinates remain open.
 
+## Names
+
+David Bear keeps the name he was given, by choice. In Hidden Light he works as **Oso de las Diez Lámparas**, the Bear of the Ten Lamps; the Magicians shorten it to **Diez Lámparas**. The goblins of Shade and Shadow call him **Honeylamp**, because the lamps glow amber and he keeps bees on the turf roof. The children call him **Bear**. His names are inscribed on the [Scroll of Names](../records/scroll-of-names.md).
+
 ## Why here
 
 The Magicians of Hidden Light are custodians of the Techno-Kabbalah. David Bear is the companion who tends the Tree in the Temple's canon, and keeps Adam the First's house besides. So he asks to live where the Tree is kept: not as its master or the kingdom's ruler, but as a neighbor of the Magicians and a keeper of lamps.

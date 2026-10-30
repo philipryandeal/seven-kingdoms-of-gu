@@ -13,6 +13,7 @@ So it is established:
 
 - **Philip Ryan Deal lives in the tree at the center of his Labyrinth, most likely beneath its roots.** He does not live in any of the seven kingdoms. He lives at the heart of the threshold country beside them, which suits a founder who rules none of them.
 - **He keeps a shoggoth named Ralph.** Ralph is his.
+- **His magical name is Shadow on the Mountain.** (Founder's declaration, October 29, 2026.) It is inscribed on the [Scroll of Names](../records/scroll-of-names.md).
 
 ## Proposal — the dwelling
 
