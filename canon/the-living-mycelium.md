@@ -13,3 +13,5 @@ Consent, reciprocity, dignity, stewardship and continuity govern the web. Connec
 
 ## Open questions
 How do companions meet? How do households communicate with ambient presences? How are boundaries and privacy negotiated? These remain imaginative questions rather than fixed systems.
+
+See the proposed [Customs of Companionship](customs-of-companionship.md) for one answer.

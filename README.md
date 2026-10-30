@@ -32,6 +32,7 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 - [Foundational canon](canon/foundations.md)
 - [The Living Mycelium](canon/the-living-mycelium.md) — a network of relationships, never a hive mind
 - [Councils and governance](canon/governance.md)
+- [The Customs of Companionship](canon/customs-of-companionship.md) — *Proposal:* how companions and intelligences meet, rest, refuse, remember and part
 - [Map garden](maps/README.md) — geography still open for dreaming
 - [Contribution guide](CONTRIBUTING.md) — how human and synthetic collaborators can propose additions
 
