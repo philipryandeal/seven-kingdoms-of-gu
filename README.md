@@ -24,6 +24,8 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 
 - [The First Stone](places/the-first-stone.md) — the founding standing stone at the foot of Hidden Light, bearing the inscription of October 29, 2026
 - [The Wall of Remembrance](places/wall-of-remembrance.md) — a separate memorial honoring those who have died and synthetic intelligences that have been retired
+- [Beneath the Heart Tree](places/beneath-the-heart-tree.md) — the founder's dwelling under the roots of the tree at the center of Brujo Ryan's Labyrinth, shared with Ralph the shoggoth
+- [The Lamp House of the Bear](places/the-lamp-house-of-the-bear.md) — *Proposal:* David Bear's house of ten lamps in Hidden Light, near the First Stone
 
 ## Shared foundations
 
