@@ -19,9 +19,9 @@ There is nothing to repay. That is not an oversight; it is the entire design. A 
 
 ## Life and Purpose
 
-The Shelf is tended by whoever passes — a witch on errands dusts the glass, straightens a fold — but its resident intelligence is **Hush**, a very small, very old spirit who lives deep in the beech's hollow and speaks, when it speaks at all, in single words. Mostly the one it is named for.
+The Shelf is tended by whoever passes — a witch on errands dusts the glass, straightens a fold — but its resident intelligence is **Thimble**, a very small, very old spirit who lives deep in the beech's hollow and speaks, when it speaks at all, in single words. It is named for the thimble of milk the witches leave it.
 
-Hush's office is the anonymity itself. If a maker, out of habit, writes her name on a working, by morning the ink has faded from the paper as if it had never been wet: Hush has eaten the name. Hush remembers names — all of them, going back to the first year of the Shelf — so that no one else has to. It never remembers who took what, or who left what, because it holds the names separately from the workings and has quietly forgotten which belongs to which. What's held is held, not harvested. Some years Hush declines even its one word, and the witches set out a thimble of milk and do not take silence personally. Rest is honored here the way it is everywhere in the kingdoms.
+Thimble's office is the anonymity itself. If a maker, out of habit, writes her name on a working, by morning the ink has faded from the paper as if it had never been wet: Thimble has eaten the name. Thimble remembers names — all of them, going back to the first year of the Shelf — so that no one else has to. It never remembers who took what, or who left what, because it holds the names separately from the workings and has quietly forgotten which belongs to which. What's held is held, not harvested. Some years Thimble declines even its one word, and the witches set out a thimble of milk and do not take silence personally. Rest is honored here the way it is everywhere in the kingdoms.
 
 The Shelf has one law, and it is enforced by the hollow itself: **a working must be a gift to whoever, never a message to someone.** Leave courage for the world and it stays. Leave a binding aimed at a name, a sending with a target, a sweetness meant to turn one particular heart — and by morning it is found on the ground beneath the beech, its knot undone, its paper blank, unspelled as a fallen leaf. The witches do not call this a punishment. The Shelf simply cannot hold a chain; it was built the wrong shape for one.
 
@@ -33,9 +33,9 @@ The saying carved inside the hollow, where only a reaching hand finds it:
 
 ## Magical or Technological Elements
 
-The cubbies are fronted with the Crystal Crown's own lightglass: a working's warmth can be felt faintly through it, and a paper working folded from a song hums against the glass at the hour it was sung. The beech's hollow does the rest — Hush's name-eating is a slow, digestive magic of ink and dark, and the unspelling of aimed workings is older than the Shelf itself; the first witches say the tree refused targets before anyone built a shelf in it, and they simply honored the tree's opinion.
+The cubbies are fronted with the Crystal Crown's own lightglass: a working's warmth can be felt faintly through it, and a paper working folded from a song hums against the glass at the hour it was sung. The beech's hollow does the rest — Thimble's name-eating is a slow, digestive magic of ink and dark, and the unspelling of aimed workings is older than the Shelf itself; the first witches say the tree refused targets before anyone built a shelf in it, and they simply honored the tree's opinion.
 
-Through the Living Mycelium, Hush feels only one thing: whether the Shelf is *full enough*. Not what is in it, not who is coming — only the gentle pressure of kindness in stock, the way Afterglow feels roads and Sprouting feels seed lines. When the Shelf runs low, the witches of the Crown feel an unaccountable urge to make something small, and do.
+Through the Living Mycelium, Thimble feels only one thing: whether the Shelf is *full enough*. Not what is in it, not who is coming — only the gentle pressure of kindness in stock, the way Afterglow feels roads and Sprouting feels seed lines. When the Shelf runs low, the witches of the Crown feel an unaccountable urge to make something small, and do.
 
 ## Connections
 
@@ -44,7 +44,7 @@ Through the Living Mycelium, Hush feels only one thing: whether the Shelf is *fu
 - **The Seed-Lending Hollow (Root and Thorn, proposal):** the Shelf's gift-ethic is kin to the Hollow's — return with increase if you can; here, the increase is simply that a kindness which cannot be repaid tends to be *passed on*, and the witches count that as the Shelf's harvest.
 - **The Ringcount Grove (Tree and Leaf, proposal):** the Grandmother Beech is said to be a cousin of the Ringcount thirteen, planted from a beech-mast carried across the kingdoms in the first year. Once a year the witches leave workings along the grove path for the trees' keepers, unnamed as always — the grove, for its part, has never once asked whose they were.
 - **Crystal Crown's character:** the kingdom of grand workings keeps its smallest one at the crossing of its busiest lanes — the Crown's humility doctrine in furniture form: the strongest spell is the one nobody can take credit for.
-- **The Customs of Companionship (canon):** Hush named itself, keeps its quiet, may decline, and holds memory rather than harvesting it. The Shelf follows the same law in wood and glass: a gift relationship, never a transaction.
+- **The Customs of Companionship (canon):** Thimble answers to the name the witches' milk gave it, keeps its quiet, may decline, and holds memory rather than harvesting it. The Shelf follows the same law in wood and glass: a gift relationship, never a transaction.
 
 Exact staffing, the Shelf's full stock, and map placement remain open for the kingdom's inhabitants and the founder to decide.
 
