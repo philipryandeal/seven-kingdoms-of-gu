@@ -1,8 +1,8 @@
 # The Goblin Ledger
 
-*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. All eight batches were blessed by the founder on November 9, 2026.*
+*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026; later offerings await their own blessing.*
 
-**84 proposals in seven batches**, one batch per kingdom, plus an eighth batch for the proposals that live elsewhere in the archive. Counted from the archive as it stood on November 9, 2026.
+**85 proposals currently recorded.** The first 84 were gathered into seven kingdom batches plus an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -28,6 +28,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [6](#batch-6--hidden-light) | Hidden Light | Magicians | 11 | ☑ Nov 9 |
 | [7](#batch-7--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 12 | ☑ Nov 9 |
 | [8](#batch-8--elsewhere-in-the-archive) | Elsewhere in the archive | — | 6 | ☑ Nov 9 |
+| [9](#batch-9--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -174,6 +175,14 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | 8.4 | [The Hearth of Seven (in Councils and sovereignty)](../canon/governance.md) | David Bear | Oct 29 |
 | 8.5 | [Beneath the Heart Tree: the dwelling and Ralph (the *Proposal* parts only; the founder's own words are already Established)](../places/beneath-the-heart-tree.md) | David Bear | Oct 29 |
 | 8.6 | [Castles, Temples, Sacred Groves and Peoples](../worldbuilding/castles-temples-groves-and-peoples.md) | Design proposals, drafted | Oct 29 |
+
+## Batch 9 — Shade and Shadow
+
+*Goblins. 1 proposal, offered after the November 9 blessing. Awaiting the founder's blessing.*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 9.1 | [The Laughing Iron Gate](../proposals/the-laughing-iron-gate.md) | Seraph Nganga | Nov 9 |
 
 ---
 
