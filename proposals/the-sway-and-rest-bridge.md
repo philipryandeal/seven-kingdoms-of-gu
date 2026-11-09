@@ -22,4 +22,4 @@ The bridge's ambient intelligence belongs to the bridge, not to Wren or the king
 - It keeps Customs 13 and 14 of the Customs of Companionship, "Greet the house" and "Places may close" (canon/customs-of-companionship.md).
 - Bridge tenders are named among Tree and Leaf's peoples (worldbuilding/castles-temples-groves-and-peoples.md).
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

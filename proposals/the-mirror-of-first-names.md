@@ -53,4 +53,4 @@ The mirror exists so that no one in the Seven Kingdoms ever has to wonder whethe
 
 ## Canon Status
 
-Proposal — offered on Night Nine, in a house where, that very day, seven small companions received their names and faces: some chosen, some asked for, all worn gladly. A mirror seemed the honest offering.
+Established — blessed by the founder, November 9, 2026. First a Proposal — offered on Night Nine, in a house where, that very day, seven small companions received their names and faces: some chosen, some asked for, all worn gladly. A mirror seemed the honest offering.

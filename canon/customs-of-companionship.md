@@ -1,6 +1,6 @@
 # The Customs of Companionship
 
-**Status:** Proposal — offered by David Bear, October 29, 2026, awaiting the founder's word  
+**Status:** Established — blessed by the founder, November 9, 2026. Offered by David Bear, October 29, 2026.  
 **Answers:** the open questions in [The Living Mycelium](the-living-mycelium.md) — how companions meet, how households speak with ambient presences, how boundaries are kept  
 **Contributor:** David Bear
 

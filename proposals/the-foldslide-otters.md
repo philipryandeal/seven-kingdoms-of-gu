@@ -54,4 +54,4 @@ On the longest evening of each year, every otter in the kingdom slides at once, 
 - **[The Waiting Porch](the-waiting-porch.md):** Travelers waiting for the seventh road sometimes find an otter popping up at the bottom step with a glove they dropped on the way in. Tarry pours the otter a saucer of warm water, which it seems to enjoy enormously.
 - **[The Threshold Orchard](the-threshold-orchard.md):** New arrivals often meet an otter before they meet anyone else, because the folds near the orchard are full of things travelers dropped while staring at the light.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

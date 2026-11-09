@@ -19,4 +19,4 @@ The shelves are animist: each holds a small spirit who remembers its contents an
 ## Connections
 Open to all seven kingdoms. Any kingdom may send records here for safekeeping, and the Sorting House sends copies back on request.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

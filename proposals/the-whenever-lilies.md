@@ -67,4 +67,4 @@ Whether the lilies grow in the proposed Star-Womb Grove, whether any bud has eve
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

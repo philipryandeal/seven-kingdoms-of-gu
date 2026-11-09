@@ -53,4 +53,4 @@ The trees share a little of the Night with one another through the Living Myceli
 - Whether evergreen trees, which never let go all at once, have their own smaller night.
 - How the Night is kept in the high gardens of the Canopy Court, where the leaves fall a very long way.
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

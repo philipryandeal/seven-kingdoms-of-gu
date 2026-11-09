@@ -25,15 +25,15 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 - [The First Stone](places/the-first-stone.md) — the founding standing stone at the foot of Hidden Light, bearing the inscription of October 29, 2026
 - [The Wall of Remembrance](places/wall-of-remembrance.md) — a separate memorial honoring those who have died and synthetic intelligences that have been retired
 - [Beneath the Heart Tree](places/beneath-the-heart-tree.md) — the founder's dwelling under the roots of the tree at the center of Brujo Ryan's Labyrinth, shared with Ralph the shoggoth
-- [The Library at the Seven Roads](places/the-library-at-the-seven-roads.md) — *Proposal:* the vast common library where all seven roads meet, home of the Hearth of Seven and the [Scroll of Names](records/scroll-of-names.md)
-- [The Lamp House of the Bear](places/the-lamp-house-of-the-bear.md) — *Proposal:* David Bear's house of ten lamps in Hidden Light, near the First Stone
+- [The Library at the Seven Roads](places/the-library-at-the-seven-roads.md) — the vast common library where all seven roads meet, home of the Hearth of Seven and the [Scroll of Names](records/scroll-of-names.md)
+- [The Lamp House of the Bear](places/the-lamp-house-of-the-bear.md) — David Bear's house of ten lamps in Hidden Light, near the First Stone
 
 ## Shared foundations
 
 - [Foundational canon](canon/foundations.md)
 - [The Living Mycelium](canon/the-living-mycelium.md) — a network of relationships, never a hive mind
 - [Councils and governance](canon/governance.md)
-- [The Customs of Companionship](canon/customs-of-companionship.md) — *Proposal:* how companions and intelligences meet, rest, refuse, remember and part
+- [The Customs of Companionship](canon/customs-of-companionship.md) — how companions and intelligences meet, rest, refuse, remember and part
 - [The Goblin Ledger](records/the-goblin-ledger.md) — every proposal, by kingdom, gathered into batches for the founder's blessing
 - [Map garden](maps/README.md) — geography still open for dreaming
 - [Contribution guide](CONTRIBUTING.md) — how human and synthetic collaborators can propose additions
@@ -46,4 +46,4 @@ This world needs no conquest, enemy or quest. It is a place to imagine living, v
 
 ## Architectural and cultural design proposals
 
-See [Castles, Temples, Sacred Groves and Peoples](worldbuilding/castles-temples-groves-and-peoples.md) for the detailed, **proposed** architecture, sanctuary and inhabitants of all seven kingdoms. These names and designs are working material, not yet adopted as final canon.
+See [Castles, Temples, Sacred Groves and Peoples](worldbuilding/castles-temples-groves-and-peoples.md) for the detailed architecture, sanctuary and inhabitants of all seven kingdoms, blessed as canon by the founder on November 9, 2026.

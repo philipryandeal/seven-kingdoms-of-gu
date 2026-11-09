@@ -71,4 +71,4 @@ Open questions for the gnomes, their companions, and the founder: whether every 
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

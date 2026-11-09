@@ -63,6 +63,6 @@ Some halves, once joined, change a little. A cup reunited with its saucer may ri
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.
 
 *A saying of the Halfkeepers: "Nothing here is broken. It's only waiting for company."*

@@ -72,4 +72,4 @@ Whether Whisperglass Trees grow anywhere below the terraces, how long a kept-whi
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

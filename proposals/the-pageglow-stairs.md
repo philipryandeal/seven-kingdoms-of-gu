@@ -52,6 +52,6 @@ Kindling named itself, keeps its quiet, may refuse a busy night, and will not fo
 
 Whether the Stairs ever grow a branch toward Brujo Ryan's Labyrinth, how many page-nooks is enough, and whether Kindling is one mind or a family of tread-minds who take shifts remain open for Crystal Crown's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of Kindling: "Carry what you love. The next step will meet you."*

@@ -73,4 +73,4 @@ Whether Copperpleat Caps fruit along the orchard-side doors on cool evenings, ho
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

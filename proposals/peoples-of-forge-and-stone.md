@@ -48,4 +48,4 @@ Arts include seam-poetry, gallery-glaze pottery slept beside newts, rune-commits
 - `proposals/the-banked-fire-galleries.md`, `proposals/the-mile-kettles-of-the-bronze-road.md`, `proposals/the-glasshouse-of-chosen-forms.md`, `proposals/the-gallery-of-living-runes.md`, `proposals/the-undertone-hall.md`, `proposals/the-deepstar-vault.md`, `proposals/the-sun-wells.md`
 - `places/the-library-at-the-seven-roads.md`
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

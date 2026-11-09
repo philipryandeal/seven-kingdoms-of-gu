@@ -65,4 +65,4 @@ The garden's keepers, its oldest planting, and its exact place on the map remain
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

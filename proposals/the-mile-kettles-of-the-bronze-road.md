@@ -26,4 +26,4 @@ The ember-pots are cut with tiny breath-gates, so each hut can ask its pot for a
 - The road ends at the bronze door of [The Library at the Seven Roads](../places/the-library-at-the-seven-roads.md), where copies of rune-commits from [The Gallery of Living Runes](the-gallery-of-living-runes.md) also travel.
 - Pace's honesty and refusal to keep watch follow the [Customs of Companionship](../canon/customs-of-companionship.md) (also a proposal).
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

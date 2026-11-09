@@ -72,4 +72,4 @@ The number of Step-Sitters, the Stair's precise placement, whether Echo-Who-Forg
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

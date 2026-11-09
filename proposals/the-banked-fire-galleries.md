@@ -50,6 +50,6 @@ When an ash-tender retires or a forge goes cold for good, its galleries are not 
 
 How many gallery runs there are, whether embertails live anywhere outside Forge and Stone, and how the first newts found their way into the ash remain open questions for the kingdom's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of the ash-tenders: "Anything can be made hot. It takes care to let a thing cool."*

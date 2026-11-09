@@ -69,4 +69,4 @@ The number of moss healers, the names of the seven mosses, the Green Sleeper's f
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

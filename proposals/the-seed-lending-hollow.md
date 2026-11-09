@@ -60,4 +60,4 @@ The keepers' rotation, the full set of seed lines, and the Hollow's map placemen
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

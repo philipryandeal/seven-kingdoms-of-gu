@@ -71,4 +71,4 @@ How many cooks keep the kitchen, how many supper-carts there are and what the ot
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

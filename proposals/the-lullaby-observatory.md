@@ -64,4 +64,4 @@ The Night-Hummers' customs, how often the dome appears, and its precise placemen
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

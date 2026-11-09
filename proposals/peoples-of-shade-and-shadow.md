@@ -49,4 +49,4 @@ Arts include crooked carpentry, fungus-glow craft, Book of Landings views, news-
 - `proposals/the-dawnlog-teahouse.md`, `proposals/the-guestcap-houses.md`, `proposals/the-stairwrights-undercroft.md`, `proposals/the-lantern-lending-shelf.md`, `proposals/the-lantern-roost.md`, `proposals/the-soft-seal-letterwarren.md`, `proposals/the-odd-halves-market.md`, `proposals/the-night-mending-stoop.md`, `proposals/the-glowtrail-snails.md`, `proposals/the-repeated-hour.md`
 - `places/beneath-the-heart-tree.md`, `places/the-library-at-the-seven-roads.md`
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

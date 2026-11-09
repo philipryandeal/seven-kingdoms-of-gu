@@ -60,6 +60,6 @@ The Undercroft also keeps a **Book of Landings**, a thick, chalk-smudged ledger 
 
 How many stairs the Warren really has, whether any stair has ever led somewhere no one expected (perhaps toward Brujo Ryan's Labyrinth, just beyond the kingdom), and who is right about the thirteenth step remain open questions for Shade and Shadow's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of the stairwrights: "The long way is an invitation. The short way is a promise."*

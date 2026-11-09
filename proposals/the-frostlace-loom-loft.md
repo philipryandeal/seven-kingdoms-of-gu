@@ -63,4 +63,4 @@ Whether other kingdoms keep looms of their own for frostlace, how the frost-patt
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

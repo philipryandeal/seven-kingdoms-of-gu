@@ -64,4 +64,4 @@ How many wells there are, how the light-wrights' guild governs itself, whether o
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

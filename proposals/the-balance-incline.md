@@ -26,4 +26,4 @@ The crystal cable stores the weight of every descent as soft light and spends it
 - The summit station opens onto the public terraces and processional stairs described in [Castles, Temples, Sacred Groves and Peoples](../worldbuilding/castles-temples-groves-and-peoples.md); those names remain proposals.
 - Hesper's rests follow the right to quiet in the [Customs of Companionship](../canon/customs-of-companionship.md) (also a proposal).
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

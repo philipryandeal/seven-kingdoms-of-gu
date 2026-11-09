@@ -47,4 +47,4 @@ Exact staffing, the order of the seven roads, and map placement remain open for 
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

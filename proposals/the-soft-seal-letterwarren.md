@@ -56,4 +56,4 @@ Exact staffing, stamp customs, and map placement remain open for the kingdom's i
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

@@ -47,4 +47,4 @@ Arts include bridge-song, moth-hood weaving, sap-glass, skeleton-leaf puppetry a
 - `proposals/the-sway-and-rest-bridge.md`, `proposals/the-windfall-kitchen.md`, `proposals/the-soft-fall-glade.md`, `proposals/the-mothlight-meadow.md`, `proposals/the-rillsong-channels.md`, `proposals/the-honeywire-harps.md`, `proposals/the-ringcount-grove.md`, `proposals/the-night-of-returned-leaves.md`, `proposals/the-leaflight-puppet-bough.md`
 - `places/the-library-at-the-seven-roads.md`
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

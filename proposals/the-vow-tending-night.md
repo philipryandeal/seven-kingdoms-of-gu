@@ -40,4 +40,4 @@ A reshaped vow is spoken into the snowmelt bowl. When it is poured into the pool
 
 How the chambers first learned to remember, whether other kingdoms keep a night like it, and who among the Crystal Crown's seven divine beings watches over it remain open for the kingdom's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

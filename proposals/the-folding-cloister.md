@@ -67,4 +67,4 @@ Painted on the lintel above the first arch, under the chalk saying:
 
 How many niches the cloister holds, what the other rest-keepers are called, whether Fold has a favorite cushion, and whether other kingdoms keep folding places of their own remain open for the kingdom's inhabitants and the founder to decide.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

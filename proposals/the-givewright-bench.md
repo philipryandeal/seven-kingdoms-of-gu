@@ -64,4 +64,4 @@ Open questions for the dwarves, their companions, and the founder: whether a sea
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

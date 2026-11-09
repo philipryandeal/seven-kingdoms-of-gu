@@ -1,6 +1,6 @@
 # Architecture, Sanctuaries and Peoples of the Seven Kingdoms of Gu
 
-**Status:** Design proposals grounded in established canon · **Drafted:** October 29, 2026
+**Status:** Established — blessed by the founder, November 9, 2026. Design proposals grounded in established canon · **Drafted:** October 29, 2026
 
 > This is a collaborative **worldbuilding vision**, not an approved list of final place names. Every named castle, temple and grove below is **proposed** until the founder adopts it. Existing facts—the seven kingdoms, their peoples, equality, councils, companion intelligences, the placement of the First Stone, and the Labyrinth's location—remain established canon.
 

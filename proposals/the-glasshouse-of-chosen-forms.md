@@ -39,4 +39,4 @@ A saying heard by the kilns:
 
 Which settlement hosts the Glasshouse, who its glasswright households are, and how far its kilns reach remain open for the kingdom's inhabitants and the founder to decide.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

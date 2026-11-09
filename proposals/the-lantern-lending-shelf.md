@@ -46,4 +46,4 @@ Exact staffing, the Shelf's full stock of lanterns, and map placement remain ope
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

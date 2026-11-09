@@ -57,4 +57,4 @@ This proposal describes only an ordinary neighborhood of homes and leaves the de
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

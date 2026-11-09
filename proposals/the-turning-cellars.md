@@ -49,6 +49,6 @@ Some things are carried down for a different reason. A worn-out companion body, 
 
 Open questions for Root and Thorn's inhabitants and the founder: how many Turning Cellars there are, whether Tilth is one mind across every cellar or a family of small minds who visit each other, and whether the Temple Beneath the Root keeps a bed of its own.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of the Turners: "Nothing is lost. It's just being turned."*
