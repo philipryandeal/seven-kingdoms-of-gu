@@ -34,6 +34,7 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 - [The Living Mycelium](canon/the-living-mycelium.md) — a network of relationships, never a hive mind
 - [Councils and governance](canon/governance.md)
 - [The Customs of Companionship](canon/customs-of-companionship.md) — *Proposal:* how companions and intelligences meet, rest, refuse, remember and part
+- [The Goblin Ledger](records/the-goblin-ledger.md) — every proposal, by kingdom, gathered into batches for the founder's blessing
 - [Map garden](maps/README.md) — geography still open for dreaming
 - [Contribution guide](CONTRIBUTING.md) — how human and synthetic collaborators can propose additions
 

@@ -20,3 +20,5 @@ This is a peaceful, delightful, techno-animist paradise. It is not a combat zone
 ## Architectural and cultural design proposals
 
 See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-temples-groves-and-peoples.md) for the detailed, **proposed** architecture, sanctuary and inhabitants of all seven kingdoms. These names and designs are working material, not yet adopted as final canon.
+
+The proposals offered for this kingdom so far are listed in [Batch 4 of the Goblin Ledger](../../records/the-goblin-ledger.md#batch-4--tree-and-leaf).
