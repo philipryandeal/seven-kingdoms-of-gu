@@ -57,4 +57,4 @@ The Quiet-Keepers' customs, the full list of named lights, the Vault's depth and
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

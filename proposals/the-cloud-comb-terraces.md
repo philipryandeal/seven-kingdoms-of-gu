@@ -41,4 +41,4 @@ The crystal veins in the terrace walls store the day's sunlight and give it back
 - Is there a festival for the first giving day of the year?
 - Could a cloud that passes through these combs reach the Womb Matrix, where the sky may not follow earthly rules? That is for Kore's canon to answer, not this terrace.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

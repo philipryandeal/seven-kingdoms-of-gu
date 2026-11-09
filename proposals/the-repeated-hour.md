@@ -46,4 +46,4 @@ The hour's exact scope — one kingdom or seven — and any exceptions the inhab
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

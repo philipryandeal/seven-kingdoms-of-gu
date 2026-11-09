@@ -61,6 +61,6 @@ Wintering companions use a slowing practice the elves call **sap-time**: their t
 
 Whether other kingdoms keep their own wintering places, whether a companion may winter outside Tree and Leaf, how many hollows the slope holds, and what exactly a companion dreams in sap-time remain open for Tree and Leaf's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of Nestle: "Sleep as long as you like. Spring will wait for you."*

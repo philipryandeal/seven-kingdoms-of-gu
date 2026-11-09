@@ -68,4 +68,4 @@ Exact glass count beyond the working seven, whether traveling span-glasses may b
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

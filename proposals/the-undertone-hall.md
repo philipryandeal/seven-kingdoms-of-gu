@@ -64,4 +64,4 @@ The Hall's keepers, the full repertoire of the Long Sing, and the cavern's exact
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

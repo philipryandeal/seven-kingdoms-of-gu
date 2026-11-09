@@ -66,4 +66,4 @@ Exact terrace count, fruit seasons, and whether Verd will ever choose a louder n
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

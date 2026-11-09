@@ -57,4 +57,4 @@ This proposal describes everyday weather, gardening, and custom. Why water rises
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

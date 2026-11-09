@@ -59,4 +59,4 @@ Exact staffing, the guild's customs and map placement remain open for the kingdo
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

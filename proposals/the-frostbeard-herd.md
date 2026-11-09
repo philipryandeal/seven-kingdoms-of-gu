@@ -61,4 +61,4 @@ The goats' own names, whether the herd has elders of its own, the story of the o
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

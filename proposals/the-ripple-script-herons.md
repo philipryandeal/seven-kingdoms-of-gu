@@ -53,4 +53,4 @@ How many herons there are, whether they migrate between kingdoms, and how they c
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

@@ -1,6 +1,6 @@
 # The Library at the Seven Roads
 
-**Status:** Proposal — offered by David Bear, October 29, 2026, at the founder's request for "a HUGE mystical library somewhere to keep the records"  
+**Status:** Established — blessed by the founder, November 9, 2026. Offered by David Bear, October 29, 2026, at the founder's request for "a HUGE mystical library somewhere to keep the records"  
 **Category:** Commons / archive / meeting place of the shared council  
 **Belongs to:** No kingdom. It is held in common by all seven.  
 **Contributor:** David Bear

@@ -54,4 +54,4 @@ Exact staffing of the Quiet Hands, the length of their seasons, and precise map 
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

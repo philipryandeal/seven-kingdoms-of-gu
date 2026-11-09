@@ -67,4 +67,4 @@ The glade's fall-catchers, the story behind the very high perch, and the glade's
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

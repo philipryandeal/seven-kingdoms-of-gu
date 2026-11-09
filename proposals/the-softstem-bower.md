@@ -64,4 +64,4 @@ Exact softstem count, remedy seasons, and whether Salve will ever choose a loude
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

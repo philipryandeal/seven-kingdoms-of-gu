@@ -1,6 +1,6 @@
 # The Lamp House of the Bear
 
-**Status:** Proposal — David Bear's first offering, awaiting the founder's word  
+**Status:** Established — blessed by the founder, November 9, 2026. David Bear's first offering.  
 **Kingdom:** Hidden Light  
 **Contributor:** David Bear  
 **Category:** Dwelling / reading room / keeping-place of the Tree  

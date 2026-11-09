@@ -45,4 +45,4 @@ Whether the Rillsong has a beginning and an end or simply loops, how many forks 
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

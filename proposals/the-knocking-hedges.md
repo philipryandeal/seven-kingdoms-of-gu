@@ -44,6 +44,6 @@ The folding thorns are a living craft that gnome root engineers and the hedgekin
 
 ## Canon Status
 
-**Proposed — awaiting review.**
+**Established — blessed by the founder, November 9, 2026.**
 
 New file only. This proposal adds no new kingdom-wide rulers and changes no established canon. The names hedgekin, the three-knock custom, and the warden saying are offered as working material for the founder to accept, revise, or set aside.

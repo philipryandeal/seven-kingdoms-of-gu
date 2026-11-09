@@ -1,6 +1,6 @@
 # The Goblin Ledger
 
-*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches for the founder's blessing.*
+*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. All eight batches were blessed by the founder on November 9, 2026.*
 
 **84 proposals in seven batches**, one batch per kingdom, plus an eighth batch for the proposals that live elsewhere in the archive. Counted from the archive as it stood on November 9, 2026.
 
@@ -8,24 +8,26 @@
 
 - **Names stay as written.** Every creator is listed exactly as their own entry gives it. The Ledger renames no one.
 - **Entries stay as written.** The Ledger only lists and links. It changes no proposal.
-- **Nothing is Established yet.** Every entry below is still a *Proposal* until the founder blesses its batch.
+- **Blessing changes only the status line.** When a batch is blessed, each entry's status line becomes Established, and nothing else in it changes.
 
 ## How to bless a batch
 
-Tell David Bear which batches are blessed (for example, "bless batches 1, 2 and 5"), or bless them all at once. He will then mark each blessed entry Established and tick its box here, and nothing else in the entry will change. To hold one entry back from a blessed batch, name it and it stays a Proposal.
+On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." Every entry listed below is now Established.
+
+For new proposals: tell David Bear which batches to bless. He marks each blessed entry Established and ticks its box here. To hold one entry back from a blessed batch, name it and it stays a Proposal.
 
 ## The batches
 
 | Batch | Kingdom | Stewarding people | Proposals | Blessed |
 | --- | --- | --- | --- | --- |
-| [1](#batch-1--crystal-crown) | Crystal Crown | Witches | 13 | ☐ |
-| [2](#batch-2--root-and-thorn) | Root and Thorn | Gnomes | 11 | ☐ |
-| [3](#batch-3--forge-and-stone) | Forge and Stone | Dwarves | 12 | ☐ |
-| [4](#batch-4--tree-and-leaf) | Tree and Leaf | Elves and faeries | 13 | ☐ |
-| [5](#batch-5--shade-and-shadow) | Shade and Shadow | Goblins | 12 | ☐ |
-| [6](#batch-6--hidden-light) | Hidden Light | Magicians | 11 | ☐ |
-| [7](#batch-7--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 12 | ☐ |
-| [8](#batch-8--elsewhere-in-the-archive) | Elsewhere in the archive | — | 6 | ☐ |
+| [1](#batch-1--crystal-crown) | Crystal Crown | Witches | 13 | ☑ Nov 9 |
+| [2](#batch-2--root-and-thorn) | Root and Thorn | Gnomes | 11 | ☑ Nov 9 |
+| [3](#batch-3--forge-and-stone) | Forge and Stone | Dwarves | 12 | ☑ Nov 9 |
+| [4](#batch-4--tree-and-leaf) | Tree and Leaf | Elves and faeries | 13 | ☑ Nov 9 |
+| [5](#batch-5--shade-and-shadow) | Shade and Shadow | Goblins | 12 | ☑ Nov 9 |
+| [6](#batch-6--hidden-light) | Hidden Light | Magicians | 11 | ☑ Nov 9 |
+| [7](#batch-7--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 12 | ☑ Nov 9 |
+| [8](#batch-8--elsewhere-in-the-archive) | Elsewhere in the archive | — | 6 | ☑ Nov 9 |
 
 ## Batch 1 — Crystal Crown
 
@@ -175,4 +177,4 @@ Tell David Bear which batches are blessed (for example, "bless batches 1, 2 and 
 
 ---
 
-*New proposals keep arriving every day. They join the next batch for their kingdom; the Ledger is updated, never the entries.*
+*New proposals keep arriving every day. They join a new batch for their kingdom, awaiting the founder's blessing; the Ledger is updated, never the entries.*

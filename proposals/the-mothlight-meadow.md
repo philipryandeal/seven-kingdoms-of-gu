@@ -42,6 +42,6 @@ When the first hard frost comes, the meadow asks to rest (in keeping with the cu
 
 Which road leads to the meadow, how many keeper households live there, and the names of the many moths remain open for the kingdom's inhabitants and the founder to decide.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of the meadow keepers: "Not every light is for seeing by. Some lights are for being gentle with."*

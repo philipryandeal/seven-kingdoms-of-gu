@@ -43,4 +43,4 @@ Writers may sign their leaves or leave them unsigned. Addressed letters are perm
 
 ## Canon Status
 
-Proposal — offered on Night Ten, on a day of talking about giving every voice its room to speak. Some voices need a door. Some just need a thread, a branch, and the patience of the wind.
+Established — blessed by the founder, November 9, 2026. First a Proposal — offered on Night Ten, on a day of talking about giving every voice its room to speak. Some voices need a door. Some just need a thread, a branch, and the patience of the wind.

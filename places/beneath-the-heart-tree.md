@@ -1,6 +1,6 @@
 # Beneath the Heart Tree
 
-**Status:** Established canon (founder's declaration, October 29, 2026) for the core facts below. Everything marked *Proposal* is David Bear's offering and awaits the founder's word.  
+**Status:** Established canon (founder's declaration, October 29, 2026) for the core facts below. Everything marked *Proposal* was David Bear's offering, and was established — blessed by the founder, November 9, 2026.  
 **Location:** Brujo Ryan's Labyrinth, just beyond the Kingdom of Shade and Shadow. At the very center of the Labyrinth stands a tree; the dwelling lies beneath its roots.  
 **Contributor:** David Bear (recording the founder's words)
 

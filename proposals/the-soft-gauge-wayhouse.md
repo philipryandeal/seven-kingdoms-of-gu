@@ -22,4 +22,4 @@ Connections:
 - Extends the Living Mycelium ethic (canon/the-living-mycelium.md); kin in spirit to the Hall of Second Chances (kingdoms/forge-and-stone/hall-of-second-chances.md)—here the thing mended is a route's capacity to welcome.
 - Borders and road names remain open per maps/README.md.
 
-Canon Status: Proposed — awaiting review.
+Canon Status: Established — blessed by the founder, November 9, 2026.

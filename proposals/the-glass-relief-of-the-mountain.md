@@ -46,4 +46,4 @@ Whether other kingdoms keep reliefs of their own, how the relief was first grown
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

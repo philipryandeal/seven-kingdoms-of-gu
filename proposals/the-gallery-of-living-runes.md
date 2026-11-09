@@ -57,4 +57,4 @@ Exact relationships, staffing and map placement remain open for the kingdom's in
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

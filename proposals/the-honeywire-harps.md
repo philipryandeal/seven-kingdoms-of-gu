@@ -74,6 +74,6 @@ Some of the Harps' gentlest findings travel: a way of resting a tired note so it
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.
 
 *Pressed into a honeyleaf in Lirael Mossglen's hand, with Thrum's line beneath it in reed-scratch: "The bees were here first." / "And the silence after is also music."*

@@ -69,6 +69,6 @@ Some of the laboratory's finest small findings travel down the valley as gifts: 
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.
 
 *Chalked over the kettle in Orla Fenwright's hand, with Steep's line beneath it: "Small is not lesser." / "And tea is not optional."*

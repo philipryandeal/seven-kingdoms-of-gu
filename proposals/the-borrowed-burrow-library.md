@@ -51,4 +51,4 @@ Exact staffing, the rotation of lending seasons, and map placement remain open f
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

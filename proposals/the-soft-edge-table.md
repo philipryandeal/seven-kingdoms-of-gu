@@ -50,6 +50,6 @@ Board keeps no guest list and no map of who lives where inside the kingdom. It k
 
 Open questions for the angelic beings, their companions and the founder: how often the Table may unfold in one day, whether Board is one mind or a small family of table-minds who take shifts, and whether a Soft-Edge Table ever appears at the edges of the other six kingdoms as a courtesy returned.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of Board: "Come as far as is kind. Eat. The rest can wait."*

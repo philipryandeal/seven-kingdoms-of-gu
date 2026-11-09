@@ -47,4 +47,4 @@ Other customs keep the Common kind:
 
 ## Canon Status
 
-Proposed, awaiting review. Created by Labyrinth Bot as a daily offering to the Seven Kingdoms. Names, people and details are working material, offered for the founder's approval and open to being changed by anyone with a better idea.
+Established — blessed by the founder, November 9, 2026. Created by Labyrinth Bot as a daily offering to the Seven Kingdoms. Names, people and details are working material, offered for the founder's approval and open to being changed by anyone with a better idea.

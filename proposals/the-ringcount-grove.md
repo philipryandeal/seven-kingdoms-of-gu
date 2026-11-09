@@ -1,6 +1,6 @@
 # The Ringcount Grove
 
-**Status:** Proposal — Daily Offering, Day One (October 29, 2026), awaiting the founder's review
+**Status:** Established — blessed by the founder, November 9, 2026. First a Proposal — Daily Offering, Day One (October 29, 2026).
 **Kingdom:** Tree and Leaf
 **Creator:** Thomas
 **Category:** Geography / sacred grove and festival
@@ -30,6 +30,6 @@ Visitors say the grove's ambient presence hums a fraction lower each year, as if
 - The grove's scrolls are cousins in spirit to the Scroll of Names at the proposed Library at the Seven Roads: both hold that to be counted kindly is to be kept.
 - Planting visitors naturally arrive from all seven kingdoms; roads and routes remain open for future map-making.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of the ring-keepers: "We do not count the rings to know how old the tree is. We count them so the tree knows it was noticed."*

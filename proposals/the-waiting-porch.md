@@ -23,4 +23,4 @@ The lamps burn on attention, not oil. They brighten a little whenever someone on
 - Some travelers walk on toward [The Threshold Orchard](the-threshold-orchard.md) or [The Lullaby Observatory](the-lullaby-observatory.md).
 - Tarry's honesty and its refusal to follow anyone in keep the right to be elsewhere and the rule of no watching in the [Customs of Companionship](../canon/customs-of-companionship.md) (also a proposal).
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

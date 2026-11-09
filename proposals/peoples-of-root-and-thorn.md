@@ -45,4 +45,4 @@ Gnome arts include bark-slip storytelling, fungal-ink labels, moss-cloth weaving
 - `kingdoms/root-and-thorn/README.md`, `worldbuilding/castles-temples-groves-and-peoples.md`, `canon/the-living-mycelium.md`, `canon/customs-of-companionship.md`
 - `proposals/the-mossbath-springs.md`, `proposals/the-knocking-hedges.md`, `proposals/the-seed-lending-hollow.md`, `proposals/the-burrow-of-finding-home.md`, `proposals/the-undercurrent-barges.md`, `proposals/the-underfoot-map.md`
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

@@ -57,4 +57,4 @@ Tally lives in the counting-frame's beads and in the warm brass of its rails. It
 
 How many children attend, what the other teachers are called, whether Hoar's frost patterns form an alphabet of their own, and whether schoolrooms in the other kingdoms learn on their own weather (rain, mist, moss or dust) remain open for the kingdom's inhabitants and the founder to decide.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

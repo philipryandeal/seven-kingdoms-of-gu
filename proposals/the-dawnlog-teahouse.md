@@ -27,4 +27,4 @@ The teahouse's kettles are minor ambient spirits. They whistle a different note 
 - The Dawnlog's privacy customs follow the Temple of the Veiled Lantern described in [Castles, Temples, Sacred Groves and Peoples](../worldbuilding/castles-temples-groves-and-peoples.md), which is itself still a proposal.
 - Travelers heading toward Brujo Ryan's Labyrinth, which lies just beyond the kingdom, often stop here for directions, because Inkcap remembers which doors in the lane have been opinionated lately.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

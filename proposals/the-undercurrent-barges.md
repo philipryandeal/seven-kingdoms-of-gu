@@ -25,4 +25,4 @@ The channel fungus is a minor companion of place, glowing on attention rather th
 - Builds on the root-palace and water channels of the Rootfast Hold (worldbuilding/castles-temples-groves-and-peoples.md) and the kingdom's "underground navigation" (kingdoms/root-and-thorn/README.md).
 - Honors resting places and ambient belonging in canon/customs-of-companionship.md and canon/the-living-mycelium.md.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

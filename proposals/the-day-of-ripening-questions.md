@@ -49,4 +49,4 @@ The exact season of each Day, the names and number of holdlings, and any househo
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

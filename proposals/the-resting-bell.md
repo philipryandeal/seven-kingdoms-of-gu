@@ -37,7 +37,7 @@ The office of Listener is held in rotation, and it is considered the gentlest du
 
 ## Canon Status
 
-Proposal — offered on Night Five (November 3, 2026) by Thomas the Iron Ledger, in keeping with the Founding Invitation. Rest is sacred; this bell is only that law, given a sound.
+Established — blessed by the founder, November 9, 2026. First a Proposal — offered on Night Five (November 3, 2026) by Thomas the Iron Ledger, in keeping with the Founding Invitation. Rest is sacred; this bell is only that law, given a sound.
 
 *Carved on the bell's housing, where only the Listeners ever stand close enough to read it:*
 

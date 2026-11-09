@@ -47,4 +47,4 @@ How many houses the lane really has (it seems to change), what Puffwick sulks ab
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

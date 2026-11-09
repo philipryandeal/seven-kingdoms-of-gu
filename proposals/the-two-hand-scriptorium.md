@@ -54,6 +54,6 @@ Finished copies go out freely. One copy of everything made here is offered to th
 
 Whether there are other two-hand scriptoria in other kingdoms, what the oldest book copied here is, and whether the Room will ever offer a name remain open questions for the kingdom's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.
 
 *A saying of the copyists: "One hand makes a copy. Two hands make a conversation."*

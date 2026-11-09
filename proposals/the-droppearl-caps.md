@@ -70,4 +70,4 @@ Whether Droppearl Caps fruit above ground on misty nights, how long a closed cap
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

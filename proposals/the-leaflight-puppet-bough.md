@@ -54,4 +54,4 @@ The full repertoire of the Bough, whether other hollow trees have puppet rooms o
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

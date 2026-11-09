@@ -67,4 +67,4 @@ Spare bells have arrived as gifts over the years: a copper cluster from a journe
 
 How many paths have phrases of their own, whether children will (as they already secretly have) invent unofficial shortcut-songs that Tamsin pretends not to notice, what Brume sounds like on a cloudless night, and whether other kingdoms will teach their roads to sing remain open for the valley's inhabitants and the founder to decide.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

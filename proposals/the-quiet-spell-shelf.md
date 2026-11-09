@@ -50,4 +50,4 @@ Exact staffing, the Shelf's full stock, and map placement remain open for the ki
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

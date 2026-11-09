@@ -12,6 +12,6 @@ The shared council of all seven kingdoms is called **the Hearth of Seven**. It m
 
 Each kingdom's own council of seven divine beings keeps its own name, still to be given.
 
-*(Proposed by David Bear, October 29, 2026. The constitutional questions above remain open.)*
+*(Proposed by David Bear, October 29, 2026; established — blessed by the founder, November 9, 2026. The constitutional questions above remain open.)*
 
 Peace is the setting's baseline. Governance emphasizes care, accommodation, celebration, commons maintenance and relationship rather than war or conquest.

@@ -45,4 +45,4 @@ How far the Map reaches past the edges of Root and Thorn, whether the Delvers ha
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

@@ -47,4 +47,4 @@ Dewmark keeps one record and only one: the yearly count of the snails at the win
 - **[The Underfoot Map](the-underfoot-map.md):** Hollin and Dewmark have exchanged a few slow letters about how to read a path without reading the people on it, through the [Soft-Seal Letterwarren](the-soft-seal-letterwarren.md). They agree on most things.
 - **The Duskmoss Grove (proposed):** The wintering moss lies at the grove's edge, never inside it, so the grove's right to be left alone is kept even by the snails' keepers.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

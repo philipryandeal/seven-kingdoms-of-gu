@@ -63,4 +63,4 @@ The Kitchen's exact tree, its other dishes, and whether other kingdoms keep wind
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

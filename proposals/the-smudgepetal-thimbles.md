@@ -70,4 +70,4 @@ Whether Smudgepetal Thimbles grow above ground in bright market squares on cloud
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.

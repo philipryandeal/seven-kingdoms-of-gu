@@ -49,4 +49,4 @@ Arts favor prism, frostlace, archive, weather-songbooks, and glass mapping. Soci
 - `proposals/the-cloud-comb-terraces.md`, `proposals/the-frostlace-loom-loft.md`, `proposals/the-quiet-spell-shelf.md`, `proposals/the-sorting-house-of-quiet-shelves.md`, `proposals/the-pageglow-stairs.md`, `proposals/the-glass-relief-of-the-mountain.md`, `proposals/the-balance-incline.md`, `proposals/the-frost-slate-schoolroom.md`, `proposals/the-frostbeard-herd.md`, `proposals/the-whisperglass-trees.md`, `proposals/the-vow-tending-night.md`
 - `places/the-library-at-the-seven-roads.md`
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 9, 2026.

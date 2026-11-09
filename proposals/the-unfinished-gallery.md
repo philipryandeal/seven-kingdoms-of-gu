@@ -66,4 +66,4 @@ Open questions for the angelic beings, their companions, and the founder: whethe
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 9, 2026.
