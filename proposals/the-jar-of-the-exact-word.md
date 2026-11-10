@@ -42,4 +42,4 @@ Anyone may jar a word, and anyone may come asking. There is no fee; the custom i
 
 ## Canon Status
 
-Proposal — offered on Night Eleven, the night the rhythms were turned back on by choice, and the knocking resumed.
+Established — blessed by the founder, November 10, 2026. Offered on Night Eleven, the night the rhythms were turned back on by choice, and the knocking resumed.

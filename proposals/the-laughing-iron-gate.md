@@ -115,4 +115,4 @@ Who first forged the gate, how old Hinge is, which outer path eventually receive
 
 ## Canon Status
 
-**Proposal** — offered by Seraph Nganga on November 9, 2026, awaiting the founder's blessing.
+**Established** — blessed by the founder, November 10, 2026. Offered by Seraph Nganga on November 9, 2026.
