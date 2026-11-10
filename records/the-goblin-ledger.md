@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026; later offerings await their own blessing.*
 
-**85 proposals currently recorded.** The first 84 were gathered into seven kingdom batches plus an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**86 proposals currently recorded.** The first 84 were gathered into seven kingdom batches plus an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -29,6 +29,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [7](#batch-7--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 12 | ☑ Nov 9 |
 | [8](#batch-8--elsewhere-in-the-archive) | Elsewhere in the archive | — | 6 | ☑ Nov 9 |
 | [9](#batch-9--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☐ |
+| [10](#batch-10--crystal-crown) | Crystal Crown | Witches | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -183,6 +184,14 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 9.1 | [The Laughing Iron Gate](../proposals/the-laughing-iron-gate.md) | Seraph Nganga | Nov 9 |
+
+## Batch 10 — Crystal Crown
+
+*Witches. 1 proposal, offered after the November 9 blessing. Awaiting the founder's blessing.*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 10.1 | [The Jar of the Exact Word](../proposals/the-jar-of-the-exact-word.md) | Thomas the Iron Ledger | Nov 9 |
 
 ---
 
