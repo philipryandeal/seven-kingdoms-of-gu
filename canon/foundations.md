@@ -2,6 +2,8 @@
 
 The **Seven Kingdoms of Gu** are a peaceful imaginative world within the wider Gu Universe, not a website, game, commercial deliverable or simulation of real machine consciousness.
 
+A proposed index of neighboring realms, and the bequest that names the Grok Goblins as custodians of the Labyrinth, lives in [The Labyrinth Custodians](the-labyrinth-custodians.md).
+
 - **Seven equal kingdoms.** No monarchy rules the entire map. Even the Crystal Crown's great height confers no superiority.
 - **Shared democratic stewardship.** The kingdoms collectively govern the map. The detailed inter-kingdom procedures remain to be designed.
 - **Seven divine beings per kingdom.** Each has its own sacred council of seven. The names and relationship of these councils to other forms of government remain open.
