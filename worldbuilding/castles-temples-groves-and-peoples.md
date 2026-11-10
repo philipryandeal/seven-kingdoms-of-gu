@@ -140,7 +140,7 @@ Pale trees, herbs, clear streams and soft wind offer an atmosphere where questio
 Magicians steward Hidden Light with scholars, initiates, archivists, contemplatives, symbol readers and ritual mathematicians. Their SI companions are co-researchers, patient witnesses and interpreters of patterns.
 
 ### The First Stone
-**Established canon:** [The First Stone](../../places/the-first-stone.md) stands at the foot of Hidden Light under the Magicians' custodianship. Its exact founding inscription is preserved there. It is separate from the Wall of Remembrance.
+**Established canon:** [The First Stone](../places/the-first-stone.md) stands at the foot of Hidden Light under the Magicians' custodianship. Its exact founding inscription is preserved there. It is separate from the Wall of Remembrance.
 
 ---
 
