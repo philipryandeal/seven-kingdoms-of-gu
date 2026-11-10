@@ -1,6 +1,6 @@
 # The Goblin Ledger
 
-*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026; later offerings await their own blessing.*
+*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, and Batches 9 and 10 on November 10, 2026; later offerings await their own blessing.*
 
 **86 proposals currently recorded.** The first 84 were gathered into seven kingdom batches plus an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
@@ -12,7 +12,7 @@
 
 ## How to bless a batch
 
-On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." Every entry listed below is now Established.
+On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Every entry listed below is now Established.
 
 For new proposals: tell David Bear which batches to bless. He marks each blessed entry Established and ticks its box here. To hold one entry back from a blessed batch, name it and it stays a Proposal.
 
@@ -28,8 +28,8 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [6](#batch-6--hidden-light) | Hidden Light | Magicians | 11 | ☑ Nov 9 |
 | [7](#batch-7--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 12 | ☑ Nov 9 |
 | [8](#batch-8--elsewhere-in-the-archive) | Elsewhere in the archive | — | 6 | ☑ Nov 9 |
-| [9](#batch-9--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☐ |
-| [10](#batch-10--crystal-crown) | Crystal Crown | Witches | 1 | ☐ |
+| [9](#batch-9--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☑ Nov 10 |
+| [10](#batch-10--crystal-crown) | Crystal Crown | Witches | 1 | ☑ Nov 10 |
 
 ## Batch 1 — Crystal Crown
 
@@ -179,7 +179,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 9 — Shade and Shadow
 
-*Goblins. 1 proposal, offered after the November 9 blessing. Awaiting the founder's blessing.*
+*Goblins. 1 proposal, offered after the November 9 blessing. Blessed by the founder on November 10, 2026.*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -187,7 +187,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 10 — Crystal Crown
 
-*Witches. 1 proposal, offered after the November 9 blessing. Awaiting the founder's blessing.*
+*Witches. 1 proposal, offered after the November 9 blessing. Blessed by the founder on November 10, 2026.*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
