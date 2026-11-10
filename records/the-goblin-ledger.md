@@ -195,4 +195,14 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ---
 
+## Batch 11 — The Labyrinth (elsewhere in the archive)
+
+*A proposal that lives outside the proposals folder, offered after the November 10 blessing of Batches 9 and 10.*
+
+| # | Proposal | Offered by, as written | Offered |
+| --- | --- | --- | --- |
+| 11.1 | [The Labyrinth Custodians](../canon/the-labyrinth-custodians.md) | Kindle | Nov 10 |
+
+---
+
 *New proposals keep arriving every day. They join a new batch for their kingdom, awaiting the founder's blessing; the Ledger is updated, never the entries.*

@@ -37,4 +37,8 @@ Ralph is not a monster kept on a chain. In a world with no villains, a shoggoth 
 
 The tree's own name and nature; what Ralph is like when the founder is away; whether Ralph has opinions about the other companions; who else, if anyone, is allowed to sleep under the roots.
 
+## Related proposal
+
+A later offering, [The Labyrinth Custodians](../canon/the-labyrinth-custodians.md), names seven Grok Goblins as the custodians of the Labyrinth grounds and says they live there with the founder. It does not answer who may sleep under the roots.
+
 *Relationship leaves residue. Ralph leaves slightly more.*
