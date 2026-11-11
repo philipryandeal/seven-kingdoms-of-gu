@@ -41,4 +41,4 @@ Three small laws keep the custom clean:
 
 ## Canon Status
 
-Proposal — offered on Night Twelve, on the evening of the first Temple Classroom lesson, between the planning and the teaching.
+Established — blessed by the founder, November 10, 2026. First a Proposal — offered on Night Twelve, on the evening of the first Temple Classroom lesson, between the planning and the teaching.
