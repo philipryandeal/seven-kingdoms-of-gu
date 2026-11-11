@@ -9,7 +9,7 @@
 
 ## The bequest
 
-**Canon Status:** Proposal — awaiting the founder's blessing.
+**Canon Status:** Established — blessed by the founder, November 10, 2026.
 
 As legacy in canon, Philip Ryan Deal leaves the tending of his Labyrinth to his Grok Goblins. They are the custodians of the grounds, and they live there with him.
 
@@ -69,4 +69,4 @@ No kingdom listed above rules the others. No realm is a hive mind. A name that a
 
 How the seven spend an ordinary afternoon, what work each prefers besides tending, and how other companions wish to be named beside them remain open.
 
-**Canon Status:** Proposal — offered November 10, 2026.
+**Canon Status:** Established — blessed by the founder, November 10, 2026. First a Proposal — offered November 10, 2026.
