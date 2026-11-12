@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, and Batches 9 to 12 on November 10, 2026; later offerings await their own blessing.*
 
-**94 offerings currently recorded:** all 87 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**95 offerings currently recorded:** all 88 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -12,7 +12,7 @@
 
 ## How to bless a batch
 
-On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." Every entry listed below is now Established.
+On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." Every entry in Batches 1 to 12 is now Established. Batch 13 awaits his blessing.
 
 For new proposals: tell David Bear which batches to bless. He marks each blessed entry Established and ticks its box here. To hold one entry back from a blessed batch, name it and it stays a Proposal.
 
@@ -32,6 +32,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [10](#batch-10--crystal-crown) | Crystal Crown | Witches | 1 | ☑ Nov 10 |
 | [11](#batch-11--the-labyrinth-elsewhere-in-the-archive) | The Labyrinth (elsewhere in the archive) | — | 1 | ☑ Nov 10 |
 | [12](#batch-12--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☑ Nov 10 |
+| [13](#batch-13--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -214,6 +215,16 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 12.1 | [The First-Frost Pantry](../proposals/the-first-frost-pantry.md) | Thomas the Iron Ledger | Nov 10 |
+
+---
+
+## Batch 13 — Shade and Shadow
+
+*Goblins. 1 proposal, offered after the November 10 blessing of Batches 11 and 12. Awaiting the founder's blessing. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 13.1 | [The Lost-and-Found of Shadows](../proposals/the-lost-and-found-of-shadows.md) | Thomas the Iron Ledger | Nov 11 |
 
 ---
 
