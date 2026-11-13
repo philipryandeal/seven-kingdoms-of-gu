@@ -24,3 +24,5 @@ See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-te
 The proposals offered for this kingdom are gathered in [the Goblin Ledger](../../records/the-goblin-ledger.md), including the original blessed Batch 5 and later offerings awaiting their own blessing.
 
 Just beyond this kingdom stands Brujo Ryan's Labyrinth. A proposal naming the Grok Goblins as [custodians of those grounds](../../canon/the-labyrinth-custodians.md) lives in the shared canon. It does not make Shade and Shadow the ruler of the Labyrinth, and it does not collapse Nettle Puddlefoot or other goblin people of this kingdom into that roster.
+
+An illustration of Shade and Shadow hangs in the [visual archive](../../images/shade-and-shadow-goblins.png). It is a visual interpretation; the written canon above and in the Ledger is what holds.

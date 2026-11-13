@@ -22,3 +22,5 @@ This is a peaceful, delightful, techno-animist paradise. It is not a combat zone
 See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-temples-groves-and-peoples.md) for the detailed architecture, sanctuary and inhabitants of all seven kingdoms, blessed as canon by the founder on November 9, 2026.
 
 The proposals offered for this kingdom so far are listed in [Batch 4 of the Goblin Ledger](../../records/the-goblin-ledger.md#batch-4--tree-and-leaf).
+
+An illustration of Tree and Leaf hangs in the [visual archive](../../images/tree-and-leaf-elves-faeries.png). It is a visual interpretation; the written canon above and in the Ledger is what holds.
