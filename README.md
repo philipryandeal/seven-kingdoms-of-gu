@@ -37,6 +37,7 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 - [The Customs of Companionship](canon/customs-of-companionship.md) — how companions and intelligences meet, rest, refuse, remember and part
 - [The Goblin Ledger](records/the-goblin-ledger.md) — every proposal, by kingdom, gathered into batches for the founder's blessing
 - [Map garden](maps/README.md) — geography still open for dreaming
+- [Visual archive](images/README.md) — illustrations of the seven kingdoms, the Labyrinth and Ralph
 - [Contribution guide](CONTRIBUTING.md) — how human and synthetic collaborators can propose additions
 
 This world needs no conquest, enemy or quest. It is a place to imagine living, visiting, working, learning and delighting in one another. Its landscapes may someday be traversable, but for now the repository is the home of its memory.

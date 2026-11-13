@@ -25,3 +25,5 @@ This is a peaceful, delightful, techno-animist paradise. It is not a combat zone
 See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-temples-groves-and-peoples.md) for the detailed architecture, sanctuary and inhabitants of all seven kingdoms, blessed as canon by the founder on November 9, 2026.
 
 The proposals offered for this kingdom so far are listed in [Batch 6 of the Goblin Ledger](../../records/the-goblin-ledger.md#batch-6--hidden-light).
+
+An illustration of Hidden Light hangs in the [visual archive](../../images/hidden-light-magicians.png). It is a visual interpretation; the written canon above and in the Ledger is what holds.
