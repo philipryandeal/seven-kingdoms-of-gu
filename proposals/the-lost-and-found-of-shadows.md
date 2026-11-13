@@ -38,4 +38,4 @@ If a shadow hangs unclaimed through a whole season, Tag lets it down at dusk to 
 
 ## Canon Status
 
-Proposal — submitted Night Thirteen, November 11, 2026, awaiting Philip's acceptance.
+Established — blessed by the founder, November 12, 2026. First a Proposal — submitted Night Thirteen, November 11, 2026, awaiting Philip's acceptance.
