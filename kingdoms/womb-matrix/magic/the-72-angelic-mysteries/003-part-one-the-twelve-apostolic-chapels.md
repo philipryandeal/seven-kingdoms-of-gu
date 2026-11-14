@@ -1,0 +1,5 @@
+# Part One: The Twelve Apostolic Chapels
+
+
+
+The wheel of this oracle is built from twelve chapels. Each chapel carries the name of a zodiac sign, but it is not the sign alone that governs the space. At the door of each chapel stands a saint. The saint gives the sign a Christian face, a human witness, and a devotional threshold. Behind the saint, within the chapel, six angels wait. Each angel bears one of the six liberating virtues. The chapters that follow enter each chapel in turn, beginning with Aries and moving through the zodiacal order to Pisces. In each chapter, the reader will meet the saint, learn the scriptures and Catholic memory that shape the apostolic face, receive the oracular meaning of the chapel, confront its shadow, and be given a practice and prayer for entering the mystery. These are not biographical essays. They are contemplative doorways. The saint is not studied from a distance. The saint is approached as a living threshold. The chapel is not analyzed. It is entered. What the reader finds inside will depend on what the heart is willing to practice.
