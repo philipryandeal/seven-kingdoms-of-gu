@@ -1,0 +1,5 @@
+# Empathy The Fourth Component
+
+
+
+Empathy is the practice of entering another person's world before asking them to enter yours. It is the discipline of crossing whatever boundary stands between you and the experience of another human being — not to fix them, not to convert them, not to correct them, but to see what the world looks like from where they are standing. Kindness softens. Compassion moves toward suffering. Mercy puts down the sword. But empathy does something none of the others can do — it sits down beside someone and says, tell me what it is like to be you. In the chapters that follow, we will watch Jesus cross every boundary his culture erected — ethnicity, religion, gender, social status — to sit with a woman at a well and have a conversation that changes her life. We will watch him weep at a tomb even though he has the power to undo the death. And we will discover that empathy is not agreement, not approval, not the abandonment of your own perspective. It is the willingness to hold two worlds at once.

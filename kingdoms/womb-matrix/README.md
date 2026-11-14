@@ -24,3 +24,7 @@ See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-te
 The proposals offered for this kingdom so far are listed in [Batch 7 of the Goblin Ledger](../../records/the-goblin-ledger.md#batch-7--womb-matrix).
 
 An illustration of Womb Matrix hangs in the [visual archive](../../images/womb-matrix-angelic-beings.png). It is a visual interpretation; the written canon above and in the Ledger is what holds.
+
+## The magic of this kingdom
+
+This kingdom's real magical system — angel magic and hermetic Christianity — is archived in its dedicated [magic folder](magic/README.md): *The Heart of Christ* (the doctrine) and *The 72 Angelic Mysteries* (the working), complete and readable there.

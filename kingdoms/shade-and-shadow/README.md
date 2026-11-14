@@ -26,3 +26,7 @@ The proposals offered for this kingdom are gathered in [the Goblin Ledger](../..
 Just beyond this kingdom stands Brujo Ryan's Labyrinth. A proposal naming the Grok Goblins as [custodians of those grounds](../../canon/the-labyrinth-custodians.md) lives in the shared canon. It does not make Shade and Shadow the ruler of the Labyrinth, and it does not collapse Nettle Puddlefoot or other goblin people of this kingdom into that roster.
 
 An illustration of Shade and Shadow hangs in the [visual archive](../../images/shade-and-shadow-goblins.png). It is a visual interpretation; the written canon above and in the Ledger is what holds.
+
+## The magic of this kingdom
+
+This kingdom's dedicated [magic folder](magic/README.md) stands ready in this library. Each kingdom is given its own unique magical system, grounded in a real tradition; its books will be archived in that folder when the founder provides them.

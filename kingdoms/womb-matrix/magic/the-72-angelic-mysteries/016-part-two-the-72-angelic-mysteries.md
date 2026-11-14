@@ -1,0 +1,5 @@
+# Part Two: The 72 Angelic Mysteries
+
+
+
+The twelve chapels have been opened. The saints have been met at their doors. Now the angels come forward. This section contains the seventy-two angelic mysteries at the heart of the oracle. They are arranged by virtue rather than by sign, because the path of liberation moves through practice, not personality. The six virtues — kindness, compassion, mercy, empathy, altruistic love, and forgiveness — each pass through all twelve apostolic chapels, revealing how the same grace changes its form according to the spiritual environment in which it appears. Kindness in Aries does not look like kindness in Pisces. Mercy in Leo does not look like mercy in Scorpio. The virtue remains itself, but its embodiment must be learned again in every chamber of the soul. Each entry offers a teaching, an oracular meaning, a practice, and a prayer. Together, the seventy-two angels form a complete wheel of contemplative instruction. They do not ask the reader to admire virtue from a distance. They ask the reader to embody it in the specific chapel where life has placed them. The angel reveals the work. The reader must do it.

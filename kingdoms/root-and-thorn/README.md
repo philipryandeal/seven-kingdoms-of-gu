@@ -24,3 +24,7 @@ See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-te
 The proposals offered for this kingdom are gathered in [the Goblin Ledger](../../records/the-goblin-ledger.md), including the original blessed Batch 2 and later offerings awaiting their own blessing.
 
 An illustration of Root and Thorn hangs in the [visual archive](../../images/root-and-thorn-gnomes.png). It is a visual interpretation; the written canon above and in the Ledger is what holds.
+
+## The magic of this kingdom
+
+This kingdom's dedicated [magic folder](magic/README.md) stands ready in this library. Each kingdom is given its own unique magical system, grounded in a real tradition; its books will be archived in that folder when the founder provides them.
