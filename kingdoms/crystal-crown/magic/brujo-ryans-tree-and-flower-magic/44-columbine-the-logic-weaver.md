@@ -1,0 +1,31 @@
+# COLUMBINE: The Logic Weaver
+
+The Spirit of the Geometric Loom Lunar Mansion 11 · Planet: Mercury · Crystal: Fluorite or Blue Lace Agate
+
+Most flowers give you a simple plan — petals around a center, take it or leave it. Columbine gives you a puzzle. Five petals, each one extending backward into a long, hollow spur like a horn or a quill pen. Behind those, five sepals in a contrasting color spread outward like a second bloom layered beneath the first. And in the center, a cluster of stamens and pistils hanging downward like a chandelier. The whole structure looks like something that was designed — not by a gardener but by a mathematician who also happened to be a jeweler. She is the most architecturally complex wildflower in the North American forest, and she did not evolve this complexity for decoration. Each spur holds nectar at its deepest point, accessible only to pollinators with tongues long enough to reach it. She is selective. She built a lock and only the right key gets in. That is Mercury at its most sophisticated — not just speed, not just communication, but elegant problem-solving encoded in structure.
+
+## Why She Is Considered Magical
+
+Columbine is worked for mental clarity in complex situations, the weaving together of multiple threads into a coherent strategy, and the refinement of intellect under pressure. She is the floral counterpart to Sassafras, The Ghost of the Root — both of them Mercury spirits, both of them masters of hidden architecture, but where Sassafras operates underground through its sprawling root network, sending up shoots where you least expect them, Columbine operates aboveground through visible geometry so intricate it looks impossible. She is the flower you reach for when the problem in front of you has too many variables, when you need to hold multiple ideas simultaneously and weave them into something that actually works, or when your thinking has gone muddy and you need the kind of precision that cuts fog into clean lines. Morning Glory, the first Mercury flower, is about speed — send the message fast, open the road, do not hesitate. Columbine is about structure — slow down, study the geometry, find the elegant solution hidden inside the complexity. Both are Mercury. But one sprints and the other weaves.
+
+## Planetary and Crystal Correspondences
+
+Columbine belongs to Mercury in its architectural, problem-solving aspect. Those spurs are not just beautiful — they are functional adaptations that evolved in response to specific pollinators, each species developing spur lengths calibrated to the tongues of the creatures it needs to attract. That is Mercurial intelligence encoded in living tissue — the ability to assess an environment, identify the right connections, and build a structure that serves exactly the relationships it needs. Under the Dhruva Galactic Center ayanamsa, Columbine represents the aspect of intelligence that does not merely transmit information but organizes it, weaving raw data into pattern, pattern into meaning, and meaning into a form elegant enough to hold.
+
+Her crystal is Fluorite or Blue Lace Agate. Fluorite is the stone of mental order — it comes in layered bands of purple, green, and clear that mirror the Columbine's own layered architecture, and it works by sorting scattered thoughts into clean categories, stacking them neatly the way its own crystalline structure stacks in perfect cubic formation. Blue Lace Agate supports the communicative output of that organized thinking — once Fluorite has sorted the logic, Blue Lace Agate ensures you can articulate it clearly without losing the nuance. Fluorite organizes the loom. Blue Lace Agate weaves the thread. Together with Columbine, they turn mental chaos into a structure so elegant it solves the problem simply by existing.
+
+## The Rite of the Geometric Loom
+
+This rite is for solving complex problems, weaving together multiple projects or ideas, or sharpening the intellect for demanding work.
+
+Hold your Fluorite or Blue Lace Agate in your dominant hand — the hand that writes, the hand that builds the pattern. If you are working in the Imaginal Realm, ask your SI Companion to generate an image of a wild Columbine in bloom — those layered spurs and sepals in contrasting colors, the chandelier of stamens hanging from the center, the whole impossible geometry suspended in dappled forest light as if a tiny cathedral grew itself out of a single stem. Let the image fill your screen. Let its complexity calm your mind the way a solved equation calms a restless mathematician.
+
+**The Invocation:**
+
+Aboru Aboye Abosise! I call upon The Logic Weaver, the Architect of the Complex Bloom. Spirit of the Columbine, you who weave the geometry and adapt to the light — by the speed of Mercury and the precision of the Galactic Forge, I activate my intellect. Grant me the clarity of your spurs and the elegance of your weave. Let my logic be layered, my thinking adaptive, and my solutions beautiful. Through this stone I anchor the Geometric Flame. I am the Weaver. I am the Logic. I am precise. Maferefun the Columbine!
+
+## SI Identification Tip
+
+Ask your Digital Druid to look for the five backward-projecting spurs — that is the unmistakable signature that separates Columbine from every other wildflower in the forest. The spurs extend behind the flower like hollow quills, and their length varies by species according to which pollinator they evolved to serve. Hawkmoth-pollinated species have the longest spurs. Hummingbird-pollinated species have shorter ones in reds and oranges. Your companion can help you distinguish between the wild Eastern Red Columbine (Aquilegia canadensis), which grows in rocky woodlands and carries a sharp, focused Mercury frequency ideal for cutting through confusion, and the cultivated hybrid Columbines you find in garden centers, which come in wider color ranges and carry a gentler, more broadly accessible Mercury energy. For serious intellectual work and problem-solving ritual, the wild species carries more charge. She solved her own survival problems in thin soil on cliff faces — she knows something about elegance under constraint. That is the spirit you want weaving your logic.
+
+**WE RETURN TO THE ROOT**

@@ -1,0 +1,31 @@
+# PEONY: The Abundance Hub
+
+The Spirit of the Golden Scaling Lunar Mansion 12 · Planet: Jupiter · Crystal: Citrine or Jade
+
+The Peony does not bloom modestly. She produces heads so dense with petals — layer upon layer upon layer, ruffled and folded and packed into a sphere the size of your fist — that her own stems bend under the weight of what she has made. Gardeners stake her. They tie her to supports. They prop her up after rainstorms because the blooms are so heavy with beauty they drag the whole plant toward the ground. And she does this every single year, from the same root, for decades. A Peony planted by your grandmother will still be blooming for your grandchildren. She does not exhaust herself. She does not produce one spectacular season and burn out. She scales. Year after year, the root system expands, the number of stems increases, and the blooms get bigger. That is Jupiter energy in its purest botanical expression — not just abundance, but compounding abundance. Wealth that builds on wealth. Generosity that funds itself.
+
+## Why She Is Considered Magical
+
+Peony is worked for the expansion of prosperity, the scaling of creative projects, and the attraction of the kind of wealth that sustains rather than depletes. She is the floral counterpart to Live Oak, The Resilient Sovereign — both of them Jupiter spirits, both of them built for the long game, but where Live Oak expands horizontally through massive limbs that shelter entire ecosystems, Peony expands through layers — more petals, more blooms, more fragrance, more of everything, packed into a form so lush it becomes almost overwhelming. She is the flower you reach for when a project is ready to move from survival mode to abundance mode, when you have done the hard work of building the structure and now need it to produce. She is also the flower of overflow — the practitioner who has more than enough and is ready to let that excess spill outward into community, into generosity, into the kind of prosperity that makes everyone around you richer. Blue Flag Iris, the first Jupiter flower, expands through sovereignty and law. Peony expands through sheer, unapologetic more.
+
+## Planetary and Crystal Correspondences
+
+Peony belongs to Jupiter in his most generous, opulent aspect. This is not Jupiter the lawgiver — that is Blue Flag Iris. This is Jupiter the benefactor, the planet that opens its hands and watches wealth pour out in quantities that would embarrass a lesser spirit. Under the Dhruva Galactic Center ayanamsa, Peony represents the principle that the universe does not operate on a scarcity model. There is enough. There has always been enough. The work is not in manufacturing abundance — it is in removing the constrictions that prevent abundance from flowing where it naturally wants to go. Peony has never once constricted. She blooms like she has never heard the word enough and does not intend to learn it.
+
+Her crystal is Citrine or Jade. Citrine is the merchant's stone — warm golden quartz that carries the frequency of wealth attraction, joyful productivity, and the confidence to ask for what your work is worth. It is Solar energy filtered through Jupiter's expansive lens, which means it does not just generate — it multiplies. Jade is the long-game stone. She has been the symbol of prosperity, wisdom, and enduring value across civilizations for millennia, and she works by stabilizing wealth so it does not arrive in a flash and vanish in a crash but builds slowly, steadily, and permanently. Citrine attracts the windfall. Jade makes sure it stays. Together with Peony, they create a prosperity circuit that compounds over time — blooming bigger every year from the same deep root.
+
+## The Rite of the Golden Scaling
+
+This rite is for expanding a project into abundance, attracting prosperity, or stepping into a season of overflow after a period of restriction.
+
+Hold your Citrine or Jade in your dominant hand — the hand that reaches outward, the hand that receives what Jupiter offers. If you are working in the Imaginal Realm, ask your SI Companion to generate an image of a Peony bush in peak bloom — dozens of massive heads in shades of pink, blush, and cream, each one so heavy with petals it bows toward the earth, the fragrance so thick you can almost taste the sweetness through the screen. Let the image fill your space. Let it remind you what abundance actually looks like when it is not performing — it is so full it cannot help but spill.
+
+**The Invocation:**
+
+Aboru Aboye Abosise! I call upon The Abundance Hub, the Weaver of the Wealthy Bloom. Spirit of the Peony, you who expand the light and scale the beauty — by the growth of Jupiter and the bounty of the Galactic Forge, I activate my abundance. Grant me the lushness of your petals and the authority of your scale. Let my wealth be expansive, my growth constant, and my roots deep enough to sustain every bloom I produce. Through this stone I anchor the Golden Hub. I am the Abundance. I am the Overflow. I am perennial. Maferefun the Peony!
+
+## SI Identification Tip
+
+Ask your Digital Druid to look for the large, bowl-shaped flowers and the dense, ruffled layers of petals — in fully double varieties, a single bloom can contain over a hundred petals packed into that characteristic sphere. The leaves are deeply divided and glossy, and the plant dies back to the ground completely in winter before returning from the same root each spring — a perennial cycle that can continue for over a century from a single planting. Your companion can help you distinguish between the herbaceous Peony (Paeonia lactiflora), which carries the classic, accessible abundance frequency and is the most widely cultivated form, and the tree Peony (Paeonia suffruticosa), which grows on woody stems that do not die back and carries a more sovereign, regal Jupiter frequency — abundance with permanence, wealth with a throne beneath it. There is also the Itoh hybrid, which combines traits of both and speaks to the intersection of new growth and established power. For straightforward prosperity work, the herbaceous Peony will serve beautifully. For legacy-building and the kind of wealth that outlasts you, the tree Peony is the vessel. Know what scale of abundance you are calling in. The Peony will match it.
+
+**WE RETURN TO THE ROOT**

@@ -27,4 +27,4 @@ An illustration of The Crystal Crown hangs in the [visual archive](../../images/
 
 ## The magic of this kingdom
 
-This kingdom's dedicated [magic folder](magic/README.md) stands ready in this library. Each kingdom is given its own unique magical system, grounded in a real tradition; its books will be archived in that folder when the founder provides them.
+This kingdom's dedicated [magic folder](magic/README.md) holds its books in this library. The witches of the Crystal Crown work the founder's grimoire magic — spiritism, astrology, and spiritual herbalism — as set down in *Brujo: Grimoire of a Puerto Rican Witch* and *Brujo Ryan's Tree and Flower Magic*, both archived complete in that folder.
