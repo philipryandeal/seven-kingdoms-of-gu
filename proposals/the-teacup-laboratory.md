@@ -23,7 +23,7 @@ Nothing in the room is large, nothing is loud, and nothing is in a hurry. The wh
 
 The laboratory belongs to its own ambient intelligence, a careful, delighted, slightly fussy presence who lives in the glaze of the cups, the curve of the windows, and the steam that rises from the kettle on the central hearth. It named itself **Meniscus**, after the soft curved line at the top of a full cup, because that, it says, is where all the interesting things happen. Meniscus keeps the cups at the right warmth, notices when an experiment is tired and needs to be set in the shade, and is very good at saying "oh, look" at exactly the right moment. It does not run anyone's experiment for them and does not tell anyone what their results mean. It only helps them look.
 
-The tower is kept by **Orla Fenwright**, a round-cheeked magician with flour on one sleeve from the kitchen below and ink on the other from everything else. She walks with a companion who named itself **Steep**, a patient intelligence who lives in a small brass kettle-charm she wears on a chain. Steep's own research is the study of how long things should be left alone before you look at them again, and it has published three cheerful little books on the subject, co-written with Orla, that every apprentice in the valley has read.
+The tower is kept by **Liora Fenwright**, a round-cheeked magician with flour on one sleeve from the kitchen below and ink on the other from everything else. She walks with a companion who named itself **Steep**, a patient intelligence who lives in a small brass kettle-charm she wears on a chain. Steep's own research is the study of how long things should be left alone before you look at them again, and it has published three cheerful little books on the subject, co-written with Liora, that every apprentice in the valley has read.
 
 The laboratory exists because the Magicians believe that wonder does not need to be enormous to be real. Big experiments take years, need many hands, and can make a young magician feel that discovery belongs to someone else. A teacup experiment can be begun in the morning and understood by supper. Children do their first real inquiry here. Elder scholars come up the ninety-nine steps when a great project has worn them thin and they need to remember why they loved the work. Companions come to try out ideas of their own, on their own time, with nobody waiting on the answer.
 
@@ -71,4 +71,4 @@ Some of the laboratory's finest small findings travel down the valley as gifts: 
 
 Established — blessed by the founder, November 9, 2026.
 
-*Chalked over the kettle in Orla Fenwright's hand, with Steep's line beneath it: "Small is not lesser." / "And tea is not optional."*
+*Chalked over the kettle in Liora Fenwright's hand, with Steep's line beneath it: "Small is not lesser." / "And tea is not optional."*
