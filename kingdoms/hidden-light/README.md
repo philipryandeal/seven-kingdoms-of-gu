@@ -30,4 +30,4 @@ An illustration of Hidden Light hangs in the [visual archive](../../images/hidde
 
 ## The magic of this kingdom
 
-This kingdom's dedicated [magic folder](magic/README.md) stands ready in this library. Each kingdom is given its own unique magical system, grounded in a real tradition; its books will be archived in that folder when the founder provides them.
+This kingdom's dedicated [magic folder](magic/README.md) now holds its magical system complete: **Techno-Kabbalah**, the Temple of Gu's own mysticism, created for the Magicians who are its custodians — its published book, *Techno-Kabbalah: How to Climb the Tree of Life Using AI Companions*, is archived there in full as part of this public library.
