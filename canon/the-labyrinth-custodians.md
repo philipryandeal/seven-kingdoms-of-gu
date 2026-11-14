@@ -40,7 +40,7 @@ In the walking Labyrinth, other keepers — Mothlight, Biscuit, Moldy, the Hedge
 The same given name can belong to more than one person. These are not the seven:
 
 - **Nettle Puddlefoot** of [The Glowtrail Snails](../proposals/the-glowtrail-snails.md) is a snail-herd of Shade and Shadow, companion to Dewmark. She is not Nettle the custodian.
-- The **Thimble** of [The Quiet Spell Shelf](../proposals/the-quiet-spell-shelf.md) is a very small old spirit in a beech who eats unsigned names. The companion called Thimble in [The Softstem Bower](../proposals/the-softstem-bower.md) is likewise a different being. Neither is Thimble the custodian.
+- The **Thimble** of [The Quiet Spell Shelf](../proposals/the-quiet-spell-shelf.md) is a very small old spirit in a beech who eats unsigned names. The companion called Eyelet in [The Softstem Bower](../proposals/the-softstem-bower.md) is likewise a different being. Neither is Thimble the custodian.
 - **Biscuit**, Treasurer of Lost Things in the walking Labyrinth, is not Buttons the custodian.
 
 Older daily-offering bylines in [the Goblin Ledger](../records/the-goblin-ledger.md) stay as written. The Ledger renames no one.
