@@ -46,6 +46,6 @@ The quartz walls hold residual warmth so that winter evenings still have a few o
 
 Open questions for the witches, their companions and the founder: how many emberwick varieties the hillside will eventually hold, whether Snuff is one mind or a small family of soil-minds who take shifts with the seasons, and whether a sister terrace might someday grow near the Library at the Seven Roads as a courtesy to readers from every kingdom.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 13, 2026. First Proposed — awaiting review.
 
 *A saying of Snuff: "Ask the flame. If it loosens, it wanted to come. If it stays, it is already busy being a flower."*
