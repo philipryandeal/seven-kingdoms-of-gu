@@ -61,4 +61,4 @@ Whether other trees in other kingdoms might be persuaded to grow benches of thei
 
 ## Canon Status
 
-Proposed — submitted Night Fourteen, November 15, 2026, awaiting the founder's blessing.
+Established — blessed by the founder, November 15, 2026. First a Proposal — submitted Night Fourteen, November 15, 2026, awaiting Philip's acceptance.
