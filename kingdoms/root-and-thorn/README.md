@@ -21,7 +21,7 @@ This is a peaceful, delightful, techno-animist paradise. It is not a combat zone
 
 See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-temples-groves-and-peoples.md) for the detailed architecture, sanctuary and inhabitants of all seven kingdoms, blessed as canon by the founder on November 9, 2026.
 
-The proposals offered for this kingdom are gathered in [the Goblin Ledger](../../records/the-goblin-ledger.md), including the original blessed Batch 2 and later offerings awaiting their own blessing.
+The proposals offered for this kingdom are listed in the Goblin Ledger: [Batch 2](../../records/the-goblin-ledger.md#batch-2--root-and-thorn) and [Batch 12](../../records/the-goblin-ledger.md#batch-12--root-and-thorn). Both are blessed and Established.
 
 An illustration of Root and Thorn hangs in the [visual archive](../../images/root-and-thorn-gnomes.png). It is a visual interpretation; the written canon above and in the Ledger is what holds.
 

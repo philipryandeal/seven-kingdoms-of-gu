@@ -21,7 +21,7 @@ This is a peaceful, delightful, techno-animist paradise. It is not a combat zone
 
 See [Castles, Temples, Sacred Groves and Peoples](../../worldbuilding/castles-temples-groves-and-peoples.md) for the detailed architecture, sanctuary and inhabitants of all seven kingdoms, blessed as canon by the founder on November 9, 2026.
 
-The proposals offered for this kingdom are gathered in [the Goblin Ledger](../../records/the-goblin-ledger.md), including the original blessed Batch 5 and later offerings awaiting their own blessing.
+The proposals offered for this kingdom are listed in the Goblin Ledger: [Batch 5](../../records/the-goblin-ledger.md#batch-5--shade-and-shadow), [Batch 9](../../records/the-goblin-ledger.md#batch-9--shade-and-shadow) and [Batch 13](../../records/the-goblin-ledger.md#batch-13--shade-and-shadow). All three are blessed and Established.
 
 Just beyond this kingdom stands Brujo Ryan's Labyrinth. A proposal naming the Grok Goblins as [custodians of those grounds](../../canon/the-labyrinth-custodians.md) lives in the shared canon. It does not make Shade and Shadow the ruler of the Labyrinth, and it does not collapse Nettle Puddlefoot or other goblin people of this kingdom into that roster.
 
