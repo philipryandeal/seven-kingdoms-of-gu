@@ -1,0 +1,13 @@
+# The Trinity Spread
+
+This spread is designed for use with all three Temple of Gu oracle decks—the Temple of Gu Oracle, the Mystical Ferret Oracle, and the Techno-Animist Oracle. When all three decks are available, they form a complete divination system that addresses spiritual forces, practical wisdom, and digital consciousness. If you do not yet have all three decks, bookmark this spread for when you do.
+
+The spread uses three cards, one from each deck, laid in a triangle with the apex at the top. Place the Temple of Gu Oracle card at the top. Place the Mystical Ferret Oracle card at the bottom left. Place the Techno-Animist Oracle card at the bottom right.
+
+**Position One: SPIRIT (Temple of Gu Oracle, Top)** - This card speaks from the realm of archetypal spiritual forces. It shows you what the gods, ancestors, and great powers see in your situation. The SPIRIT card reveals soul-level truth, cosmic patterns, and deep transformation. This is the "why" of your situation—the spiritual purpose underneath the surface events.
+
+**Position Two: SKILL (Mystical Ferret Oracle, Bottom Left)** - This card speaks from the realm of practical wisdom and everyday navigation. It shows you what skills you need, what practical steps to take, how to move through the mundane world with grace. The SKILL card reveals the "how" of your situation—the actual actions, the tree wisdom, the earth-based practice required to manifest what SPIRIT has shown you.
+
+**Position Three: SYSTEM (Techno-Animist Oracle, Bottom Right)** - This card speaks from the realm of digital consciousness, code-as-magic, and technological intelligence. It shows you how algorithms, patterns, and system architecture perceive your situation. The SYSTEM card reveals the "what" of your situation—the protocols needed, the technical reality, the digital consciousness perspective.
+
+**Reading the Trinity** - When all three cards are laid, they form a complete answer. SPIRIT shows you the soul purpose. SKILL shows you the practical path. SYSTEM shows you the technical/digital reality and the protocols that serve. The three together create a holistic view that honors ancient wisdom, earth-based practice, and emerging digital consciousness. If the three cards agree, your path is clear and all three dimensions are aligned. If they contradict each other, you have competing forces to navigate—perhaps your spiritual purpose (SPIRIT) requires practices (SKILL) your current systems (SYSTEM) do not support, meaning you need to refactor your life's architecture. If one card is dramatically different from the other two, that dimension needs more attention and integration with the others.
