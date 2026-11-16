@@ -60,4 +60,4 @@ Whether a bend may ask for the same child twice, what the Delvers' children are 
 
 ## Canon Status
 
-Proposed — submitted Night Fifteen, November 16, 2026, awaiting the founder's blessing.
+Established — blessed by the founder, November 16, 2026.
