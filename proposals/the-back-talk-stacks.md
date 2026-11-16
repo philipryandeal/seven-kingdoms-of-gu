@@ -46,6 +46,6 @@ Caret holds where conversations are, not what they say. It never reads a folded-
 
 How many floors the tower has, whether any book has ever had its margins answered all the way to the last page, and whether other kingdoms might keep their own answering rooms remain open for Shade and Shadow's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 15, 2026. First Proposed — awaiting review.
 
 *Carved over the tower door, a little crooked:* "A book read alone is half a conversation."
