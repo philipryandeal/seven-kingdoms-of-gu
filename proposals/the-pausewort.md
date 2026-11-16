@@ -70,4 +70,4 @@ Whether the Pausewort grows on roads in other kingdoms, what a cushion shows to 
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 15, 2026. First Proposed — awaiting review.

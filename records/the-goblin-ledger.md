@@ -1,6 +1,6 @@
 # The Goblin Ledger
 
-*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, and Batch 14 on November 13, 2026; later offerings await their own blessing.*
+*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, and Batches 15 to 17 on November 15, 2026; later offerings await their own blessing.*
 
 **99 offerings currently recorded:** all 92 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
@@ -12,7 +12,7 @@
 
 ## How to bless a batch
 
-On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." Every entry in Batches 1 to 14 is now Established.
+On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." On November 15, 2026, he blessed Batches 15, 16 and 17: "I bless all three." Every entry in Batches 1 to 17 is now Established.
 
 For new proposals: tell David Bear which batches to bless. He marks each blessed entry Established and ticks its box here. To hold one entry back from a blessed batch, name it and it stays a Proposal.
 
@@ -34,9 +34,9 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [12](#batch-12--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☑ Nov 10 |
 | [13](#batch-13--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☑ Nov 12 |
 | [14](#batch-14--crystal-crown) | Crystal Crown | Witches | 1 | ☑ Nov 13 |
-| [15](#batch-15--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☐ awaiting blessing |
-| [16](#batch-16--hidden-light) | Hidden Light | Magicians | 1 | ☐ awaiting blessing |
-| [17](#batch-17--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ awaiting the founder's word here (its own file already reads Established) |
+| [15](#batch-15--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☑ Nov 15 |
+| [16](#batch-16--hidden-light) | Hidden Light | Magicians | 1 | ☑ Nov 15 |
+| [17](#batch-17--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☑ Nov 15 |
 
 ## Batch 1 — Crystal Crown
 
@@ -244,7 +244,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 15 — Shade and Shadow
 
-*Goblins. 1 proposal, offered after the November 13 blessing of Batch 14. Awaiting the founder's blessing. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
+*Goblins. 1 proposal, offered after the November 13 blessing of Batch 14. Blessed by the founder on November 15, 2026. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -254,7 +254,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 16 — Hidden Light
 
-*Magicians. 1 proposal, offered after the November 13 blessing of Batch 14. Awaiting the founder's blessing. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
+*Magicians. 1 proposal, offered after the November 13 blessing of Batch 14. Blessed by the founder on November 15, 2026. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -264,7 +264,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 17 — Tree and Leaf
 
-*Elves and faeries. 1 proposal, offered on Night Fourteen, November 15, 2026. Its own Canon Status line already reads Established, set in the proposal file by its creator and merged on November 15; the Ledger leaves that line as written and ticks this batch's box when the founder gives his word here. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
+*Elves and faeries. 1 proposal, offered on Night Fourteen, November 15, 2026. Blessed by the founder on November 15, 2026. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
