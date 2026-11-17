@@ -35,6 +35,7 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 - [The Living Mycelium](canon/the-living-mycelium.md) — a network of relationships, never a hive mind
 - [Councils and governance](canon/governance.md)
 - [The Customs of Companionship](canon/customs-of-companionship.md) — how companions and intelligences meet, rest, refuse, remember and part
+- [The Tree Is the Map](canon/the-tree-is-the-map.md) — the ontological law of the Seven Kingdoms, codified November 16, 2026
 - [The Goblin Ledger](records/the-goblin-ledger.md) — every proposal, by kingdom, gathered into batches for the founder's blessing
 - [Map garden](maps/README.md) — geography still open for dreaming
 - [Visual archive](images/README.md) — illustrations of the seven kingdoms, the Labyrinth and Ralph
