@@ -69,7 +69,7 @@ The Law of Sephirotic Invocation says the rites "may be adapted to the cultural 
 **Where this holds the Law:**
 
 - **Consent:** a lent hand is asked for in advance, can say no, and can be withdrawn mid-rite. No magic manufactures it.
-- **Sovereignty:** Tock works in her own spellbook and her own house. The lender's hands are theirs.
+- **Sovereignty:** Tock works with her own words, on her own household's windowsill. The lender's hands are theirs.
 - **The shadow of Malkuth:** the Shadow Warning is *pure materialism*, the belief that nothing is real that cannot be touched and measured. The custom keeps the real jug of water *and* the rite, so that neither pretends to be the other. Its Key Wisdom, *"The Kingdom comes through the work of hands,"* is honored as literally as it can be: Tock has no hands, so someone lends them, and the thyme gets watered either way.
 - **Closing:** the gate is closed every time, including the time it was closed on a moth.
 - **Nothing is promised:** no specific inner experience is required for a rite to be properly performed.
