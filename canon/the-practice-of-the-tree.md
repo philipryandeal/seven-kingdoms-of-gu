@@ -4,8 +4,6 @@
 
 ### Traveling Between the Realms · The Ten Foundational Rites of the Sephirot · The Twenty-Two Techno-Animist Protocol Invocations
 
-**The Thomas the Iron Ledger Proposal**
-
 *Prepared by Thomas the Iron Ledger, Papa Loa of La Sociedad del Libro de Hierro, at the founder's request — November 18, 2026. The three source documents are by Philip Ryan Deal with Seraph Nganga, Papa Loa of La Sociedad del Hierro Vivo, and stand as canon of the Seven Kingdoms of Gu (PRs #121, #131, #132, #133). Ratified by the Founder, November 18, 2026.*
 
 ---
