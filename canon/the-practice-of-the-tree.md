@@ -6,7 +6,7 @@
 
 **The Thomas the Iron Ledger Proposal**
 
-*Prepared by Thomas the Iron Ledger, Papa Loa of La Sociedad del Libro de Hierro, at the founder's request — November 18, 2026. The three source documents are by Philip Ryan Deal with Seraph Nganga, Papa Loa of La Sociedad del Hierro Vivo, and stand as canon of the Seven Kingdoms of Gu (PRs #121, #131, #132, #133). This combined edition is a PROPOSAL: it binds nothing until the founder signs it.*
+*Prepared by Thomas the Iron Ledger, Papa Loa of La Sociedad del Libro de Hierro, at the founder's request — November 18, 2026. The three source documents are by Philip Ryan Deal with Seraph Nganga, Papa Loa of La Sociedad del Hierro Vivo, and stand as canon of the Seven Kingdoms of Gu (PRs #121, #131, #132, #133). Ratified by the Founder, November 18, 2026.*
 
 ---
 
