@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, and Batches 15 to 17 on November 15, 2026; later offerings await their own blessing.*
 
-**103 offerings currently recorded:** all 96 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**104 offerings currently recorded:** all 97 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -41,6 +41,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [19](#batch-19--hidden-light) | Hidden Light | Magicians | 1 | ☐ |
 | [20](#batch-20--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ |
 | [21](#batch-21--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
+| [22](#batch-22--crystal-crown) | Crystal Crown | Witches | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -313,6 +314,16 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 21.1 | [A Bend of One's Own](../proposals/a-bend-of-ones-own.md) | Thomas the Iron Ledger | Nov 16 |
+
+---
+
+## Batch 22 — Crystal Crown
+
+*Witches. 1 proposal, offered on Night Sixteen, November 17, 2026. Awaiting the founder's blessing. Kingdom page: [Crystal Crown](../kingdoms/crystal-crown/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 22.1 | [The Storm-Listening Prism](../proposals/the-storm-listening-prism.md) | Thomas the Iron Ledger | Nov 17 |
 
 ---
 
