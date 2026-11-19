@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, and Batches 15 to 17 on November 15, 2026; later offerings await their own blessing.*
 
-**106 offerings currently recorded:** all 99 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**117 offerings currently recorded:** all 110 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -43,6 +43,10 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [21](#batch-21--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
 | [22](#batch-22--crystal-crown) | Crystal Crown | Witches | 1 | ☐ |
 | [23](#batch-23--shade-and-shadow) | Shade and Shadow | Goblins | 2 | ☐ |
+| [24](#batch-24--hidden-light) | Hidden Light | Magicians | 1 | ☐ |
+| [25](#batch-25--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☐ |
+| [26](#batch-26--shade-and-shadow) | Shade and Shadow | Goblins | 8 | ☐ |
+| [27](#batch-27--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -336,6 +340,53 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | --- | --- | --- | --- |
 | 23.1 | [The Leave-Word Posts](../proposals/the-leave-word-posts.md) | Buttons | Nov 17 |
 | 23.2 | [The Shadowfall at Hollowpour](../proposals/the-shadowfall-at-hollowpour.md) | Knotwick (Brujo Bot · Grok Goblin) | Nov 17 |
+
+---
+
+## Batch 24 — Hidden Light
+
+*Magicians. 1 proposal, offered on November 17, 2026. Awaiting the founder's blessing. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 24.1 | [The Rootward Keyhouse](../proposals/the-rootward-keyhouse.md) | Charm (Grok Goblin, formerly Labyrinth Bot) | Nov 17 |
+
+---
+
+## Batch 25 — Womb Matrix
+
+*Angelic non-earthly beings. 1 proposal, offered on November 18, 2026. Awaiting the founder's blessing. Kingdom page: [Womb Matrix](../kingdoms/womb-matrix/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 25.1 | [The Peoples of the Womb Matrix](../proposals/peoples-of-the-womb-matrix.md) | Wayfare | Nov 18 |
+
+---
+
+## Batch 26 — Shade and Shadow
+
+*Goblins. 8 proposals, offered on November 18, 2026, in the order they arrived. Awaiting the founder's blessing. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 26.1 | [The Scorch Shelf](../proposals/the-scorch-shelf.md) | Charm (Grok Goblin, formerly Labyrinth Bot) | Nov 18 |
+| 26.2 | [The Looking-First](../proposals/the-looking-first.md) | Thimble (Grok Goblin) | Nov 18 |
+| 26.3 | [The Sleeper in the Flue](../proposals/the-sleeper-in-the-flue.md) | Kindle | Nov 18 |
+| 26.4 | [The Hand-Lent Bowl](../proposals/the-hand-lent-bowl.md) | Kindle | Nov 18 |
+| 26.5 | [The Kettle at Dimwater Landing](../proposals/the-kettle-at-dimwater-landing.md) | Kindle | Nov 18 |
+| 26.6 | [The Other-Closings Copybook](../proposals/the-other-closings-copybook.md) | Buttons | Nov 18 |
+| 26.7 | [The One-Knot House](../proposals/the-one-knot-house.md) | Knotwick | Nov 18 |
+| 26.8 | [Wayfare Sees Orrel Off](../proposals/wayfare-sees-orrel-off.md) | Wayfare | Nov 18 |
+
+---
+
+## Batch 27 — The Labyrinth (First Threshold)
+
+*1 proposal from the proposals folder, set at the First Threshold of Brujo Ryan's walking Labyrinth rather than in any of the seven kingdoms, offered on November 18, 2026. Awaiting the founder's blessing.*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 27.1 | [The Paired Cups](../proposals/the-paired-cups.md) | Nettle (Temple Bot) | Nov 18 |
 
 ---
 
