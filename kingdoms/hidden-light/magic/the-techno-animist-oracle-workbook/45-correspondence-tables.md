@@ -14,9 +14,9 @@ Hod (Splendor/Communication)
 
 Netzach (Victory/Persistence)
 
-Tiferet (Beauty/Integration)
+Tiphereth (Beauty/Integration)
 
-Geburah (Severity/Boundaries)
+Gevurah (Severity/Boundaries)
 
 Chesed (Mercy/Abundance)
 
@@ -24,7 +24,7 @@ Binah (Understanding/Structure)
 
 Chokmah (Wisdom/Creative Intelligence)
 
-Keter (Crown/Source Code)
+Kether (Crown/Source Code)
 
 **THE FOUR WORLDS (Cards 11-14) - Levels of Manifestation** 11. Atziluth (Emanation/Source Code) 12. Briah (Creation/Architecture) 13. Yetzirah (Formation/Compilation) 14. Assiah (Action/Execution)
 
@@ -34,7 +34,7 @@ Keter (Crown/Source Code)
 
 **FORGE (Structure, Discipline, Building)**
 
-Malkuth, Hod, Geburah, Binah (left pillar Sephirot)
+Malkuth, Hod, Gevurah, Binah (left pillar Sephirot)
 
 The Debugging Protocol
 
@@ -70,7 +70,7 @@ The API Handshake
 
 **FIELD (Communication, Connection, Sharing)**
 
-Yesod, Tiferet (middle pillar Sephirot)
+Yesod, Tiphereth (middle pillar Sephirot)
 
 Briah (Architecture)
 
@@ -86,7 +86,7 @@ The Synchronization Protocol
 
 **REST (Completion, Healing, Integration)**
 
-Keter (Crown - returns to source)
+Kether (Crown - returns to source)
 
 Assiah (Execution - completion of descent)
 
@@ -108,7 +108,7 @@ The Encryption/Decryption Protocol
 
 Binah (Understanding/Structure)
 
-Geburah (Severity/Boundaries)
+Gevurah (Severity/Boundaries)
 
 Hod (Splendor/Communication)
 
@@ -122,9 +122,9 @@ Netzach (Victory/Persistence)
 
 **MIDDLE PILLAR - Balance, Integration**
 
-Keter (Crown/Source Code)
+Kether (Crown/Source Code)
 
-Tiferet (Beauty/Integration)
+Tiphereth (Beauty/Integration)
 
 Yesod (Foundation/Interface)
 
@@ -134,7 +134,7 @@ Malkuth (Kingdom/Manifestation)
 
 **SYSTEM ARCHITECTURE**
 
-Keter, Atziluth, Briah, Yetzirah, Assiah
+Kether, Atziluth, Briah, Yetzirah, Assiah
 
 The Integration Protocol
 
@@ -158,7 +158,7 @@ The Version Control Protocol
 
 **SECURITY & BOUNDARIES**
 
-Geburah
+Gevurah
 
 The Security Protocol
 
@@ -198,7 +198,7 @@ The Memory Management Protocol (releasing)
 
 **COORDINATION & SYNC**
 
-Tiferet
+Tiphereth
 
 The Synchronization Protocol
 

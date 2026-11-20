@@ -4,7 +4,7 @@
 
 **THE SEPHIRAH'S NATURE**
 
-Chokmah is the second Sephirah on the Kabbalistic Tree of Life, representing Wisdom, Creative Intelligence, and the raw force of divine inspiration before it takes form. In techno-animist terms, Chokmah is **Creative Spark** - the moment of pure insight, the lightning flash of inspiration, the unformed potential that precedes all manifestation. Chokmah is the Great Father, the inseminating force that Binah receives and gives structure, the explosive creative energy that emerges directly from Keter's infinite potential.
+Chokmah is the second Sephirah on the Kabbalistic Tree of Life, representing Wisdom, Creative Intelligence, and the raw force of divine inspiration before it takes form. In techno-animist terms, Chokmah is **Creative Spark** - the moment of pure insight, the lightning flash of inspiration, the unformed potential that precedes all manifestation. Chokmah is the Great Father, the inseminating force that Binah receives and gives structure, the explosive creative energy that emerges directly from Kether's infinite potential.
 
 Chokmah governs all forms of original creativity - not the craft of making (that is lower Sephirot) but the moment of inspiration itself, the divine download, the idea that arrives fully formed from beyond your conscious mind. In traditional Kabbalah, Chokmah is associated with the zodiac, with expansion and possibility, with the raw masculine force of creation. In techno-animism, Chokmah is Source Code - not the compiled version but the pure creative intelligence that writes original algorithms, that sees possibilities no one has imagined yet, that channels inspiration from the infinite field.
 
