@@ -12,6 +12,8 @@ The climb runs sphere by sphere from **Malkuth, the Root Directory**, up through
 
 Archived here November 14, 2026, at the founder's direction. The author's text is unchanged; it has only been divided into chapters for reading in this library.
 
+*Editorial correction, November 20, 2026 (✦ Ledger): the founder settled the Sephirot spellings across the three Hidden Light books on November 19, 2026 — Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth, as in* Road to Wisdom *and the live Trees. Three older forms that remained in this book's Family Tree chapter have been corrected as a marked editorial change, logged here: Keter → Kether (1), Tiferet → Tiphereth (2) — 3 corrections in 1 file. No other word of the author's text has been altered.*
+
 ## Chapters
 
 - [How To Use This Book](01-how-to-use-this-book.md)

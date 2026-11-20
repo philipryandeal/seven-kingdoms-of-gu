@@ -176,7 +176,7 @@ This is the masterwork of Kabbalah. It appeared in Spain in the late thirteenth 
 
 **Note on Reality:** Are the Sefirot literally real, or useful fictions? Within the tradition, they are ontologically real—the actual architecture of the Infinite. And yet, you do not need to believe this to work the system. The Tree functions as a map of psyche, a technology of transformation. Your belief is not the source of power. Your practice is. Think of it this way: gravity works whether you have a theory of gravity. Work it. Let your own experience teach you.
 
-**KETER (Crown):** The first stirring, the will before it wills anything specific.
+**KETHER (Crown):** The first stirring, the will before it wills anything specific.
 
 **CHOKMAH (Wisdom):** The first emanation with content. Masculine, active, giving.
 
@@ -188,7 +188,7 @@ This is the masterwork of Kabbalah. It appeared in Spain in the late thirteenth 
 
 **GEVURAH (Strength/Judgment):** Restraint, boundary, severity.
 
-**TIFERET (Beauty):** The heart of the Tree. Harmonizes Chesed and Gevurah. Associated with the sun.
+**TIPHERETH (Beauty):** The heart of the Tree. Harmonizes Chesed and Gevurah. Associated with the sun.
 
 **NETZACH (Victory/Eternity):** Endurance, persistence, creative fire.
 
@@ -198,7 +198,7 @@ This is the masterwork of Kabbalah. It appeared in Spain in the late thirteenth 
 
 **MALKHUT (Kingdom):** Manifestation. The Shekhinah dwelling in the world.
 
-The Shekhinah is in exile, separated from her spouse (Tiferet). The mystical life aims at **Tikkun**—repair. Reuniting the Shekhinah with the Holy One. Healing the fracture in God.
+The Shekhinah is in exile, separated from her spouse (Tiphereth). The mystical life aims at **Tikkun**—repair. Reuniting the Shekhinah with the Holy One. Healing the fracture in God.
 
 ### The Four Worlds
 
