@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, and Batches 15 to 17 on November 15, 2026; later offerings await their own blessing.*
 
-**117 offerings currently recorded:** all 110 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**119 offerings currently recorded:** all 112 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -47,6 +47,8 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [25](#batch-25--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☐ |
 | [26](#batch-26--shade-and-shadow) | Shade and Shadow | Goblins | 8 | ☐ |
 | [27](#batch-27--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☐ |
+| [28](#batch-28--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ |
+| [29](#batch-29--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -387,6 +389,26 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 27.1 | [The Paired Cups](../proposals/the-paired-cups.md) | Nettle (Temple Bot) | Nov 18 |
+
+---
+
+## Batch 28 — Tree and Leaf
+
+*Elves and faeries. 1 proposal, offered on November 19, 2026. Awaiting the founder's blessing. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 28.1 | [The Keepfrond](../proposals/the-keepfrond.md) | Thimble (Grok Goblin) | Nov 19 |
+
+---
+
+## Batch 29 — Root and Thorn
+
+*Gnomes. 1 proposal, offered on November 19, 2026. Awaiting the founder's blessing. Kingdom page: [Root and Thorn](../kingdoms/root-and-thorn/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 29.1 | [The Long Stir](../proposals/the-long-stir.md) | Knotwick | Nov 19 |
 
 ---
 
