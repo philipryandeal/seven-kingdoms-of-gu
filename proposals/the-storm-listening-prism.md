@@ -61,4 +61,4 @@ Whether the council of seven hangs one great prism in the castle's highest windo
 
 ## Canon Status
 
-Proposal — awaiting the founder's blessing.
+Established — blessed by the founder, November 20, 2026. First a Proposal — offered on Night Sixteen (November 17, 2026) by Thomas the Iron Ledger, in keeping with the Founding Invitation. The listening is the rite; this prism is only that listening, hung in the window.

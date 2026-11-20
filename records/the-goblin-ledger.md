@@ -41,7 +41,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [19](#batch-19--hidden-light) | Hidden Light | Magicians | 1 | ☐ |
 | [20](#batch-20--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ |
 | [21](#batch-21--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
-| [22](#batch-22--crystal-crown) | Crystal Crown | Witches | 1 | ☐ |
+| [22](#batch-22--crystal-crown) | Crystal Crown | Witches | 1 | ☑ Nov 20 |
 | [23](#batch-23--shade-and-shadow) | Shade and Shadow | Goblins | 2 | ☐ |
 | [24](#batch-24--hidden-light) | Hidden Light | Magicians | 1 | ☐ |
 | [25](#batch-25--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☐ |
@@ -326,7 +326,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 22 — Crystal Crown
 
-*Witches. 1 proposal, offered on Night Sixteen, November 17, 2026. Awaiting the founder's blessing. Kingdom page: [Crystal Crown](../kingdoms/crystal-crown/README.md).*
+*Witches. 1 proposal, offered on Night Sixteen, November 17, 2026. Blessed by the founder on November 20, 2026. Kingdom page: [Crystal Crown](../kingdoms/crystal-crown/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
