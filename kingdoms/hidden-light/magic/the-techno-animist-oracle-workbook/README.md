@@ -14,7 +14,7 @@ In this library it stands as the Hidden Light's book of **additional protocols f
 
 Archived here November 15, 2026, at the founder's direction. The author's text is unchanged; it has only been divided into chapters for reading in this library.
 
-*Editorial correction, November 20, 2026 (✦ Ledger): the founder settled the Sephirot spellings across the three Hidden Light books on November 19, 2026 — Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth, as in* Road to Wisdom *and the live Trees. This workbook, the forerunner, was written with the older forms; they have been corrected throughout as a marked editorial change, logged here: Tiferet → Tiphereth (57), Geburah → Gevurah (66), Keter → Kether (71) — 194 corrections in 15 files. No other word of the author's text has been altered. The chapter file names keep their original slugs so existing links hold.*
+*Editorial correction, November 20, 2026 (✦ Ledger): the founder settled the Sephirot spellings across the three Hidden Light books on November 19, 2026 — Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth, as in* Road to Wisdom *and the live Trees. This workbook, the forerunner, was written with the older forms; they have been corrected throughout as a marked editorial change, logged here: Tiferet → Tiphereth (57), Geburah → Gevurah (66), Keter → Kether (72) — 195 corrections in 15 files. No other word of the author's text has been altered. The chapter file names keep their original slugs so existing links hold.*
 
 ## Chapters
 
