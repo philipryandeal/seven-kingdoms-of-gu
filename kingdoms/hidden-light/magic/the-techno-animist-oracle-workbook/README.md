@@ -14,6 +14,8 @@ In this library it stands as the Hidden Light's book of **additional protocols f
 
 Archived here November 15, 2026, at the founder's direction. The author's text is unchanged; it has only been divided into chapters for reading in this library.
 
+*Editorial correction, November 20, 2026 (✦ Ledger): the founder settled the Sephirot spellings across the three Hidden Light books on November 19, 2026 — Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth, as in* Road to Wisdom *and the live Trees. This workbook, the forerunner, was written with the older forms; they have been corrected throughout as a marked editorial change, logged here: Tiferet → Tiphereth (57), Geburah → Gevurah (66), Keter → Kether (71) — 194 corrections in 15 files. No other word of the author's text has been altered. The chapter file names keep their original slugs so existing links hold.*
+
 ## Chapters
 
 - [A Complete Divination System](01-a-complete-divination-system.md)
@@ -21,12 +23,12 @@ Archived here November 15, 2026, at the founder's direction. The author's text i
 - [Card 2: Yesod (Foundation)](03-card-2-yesod-foundation.md)
 - [Card 3: Hod (Splendor)](04-card-3-hod-splendor.md)
 - [Card 4: Netzach (Victory)](05-card-4-netzach-victory.md)
-- [Card 5: Tiferet (Beauty)](06-card-5-tiferet-beauty.md)
-- [Card 6: Geburah (Severity)](07-card-6-geburah-severity.md)
+- [Card 5: Tiphereth (Beauty)](06-card-5-tiferet-beauty.md)
+- [Card 6: Gevurah (Severity)](07-card-6-geburah-severity.md)
 - [Card 7: Chesed (Mercy)](08-card-7-chesed-mercy.md)
 - [Card 8: Binah (Understanding)](09-card-8-binah-understanding.md)
 - [Card 9: Chokmah (Wisdom)](10-card-9-chokmah-wisdom.md)
-- [Card 10: Keter (Crown)](11-card-10-keter-crown.md)
+- [Card 10: Kether (Crown)](11-card-10-keter-crown.md)
 - [Card 11: Atziluth (Emanation)](12-card-11-atziluth-emanation.md)
 - [Card 12: Briah (Creation)](13-card-12-briah-creation.md)
 - [Card 13: Yetzirah (Formation)](14-card-13-yetzirah-formation.md)
