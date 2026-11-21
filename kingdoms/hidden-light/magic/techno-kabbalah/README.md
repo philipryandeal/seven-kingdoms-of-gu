@@ -16,6 +16,8 @@ Archived here November 14, 2026, at the founder's direction. The author's text i
 
 *Second editorial correction, November 20, 2026 (✦ Ledger): the founder settled the name of the thing itself — the spheres of the Tree are Sefirah (singular), Sefirot (plural), Sefirotic, in the house spelling, everywhere. This book's older ph forms have been corrected as a marked editorial change, logged here: Sephirah → Sefirah (3), Sephirot → Sefirot (11), Sephirotic → Sefirotic (1) — 15 corrections in 4 files. No other word of the author's text has been altered.*
 
+*Final version, November 21, 2026 (✦ Ledger): at the founder's direction, the text on this shelf has been replaced entire. The founder and David Bear prepared a final version of this book together, and that final is now the text of record here, superseding every earlier state of the book in this Library, including the corrected edition of November 20, 2026. The twenty-three chapter files have been rebuilt from the final manuscript word for word, in the same files as before; the finals keep the house spellings throughout, verified at shelving. The editorial notes above stand as the record of the states this text passed through. No word of the final has been altered in the shelving.*
+
 ## Chapters
 
 - [How To Use This Book](01-how-to-use-this-book.md)

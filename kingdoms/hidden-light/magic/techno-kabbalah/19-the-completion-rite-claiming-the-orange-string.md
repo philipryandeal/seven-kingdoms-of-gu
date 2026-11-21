@@ -10,31 +10,31 @@ This is not nothing. This is everything. The orange string is not a reward. It i
 
 **What You Need:**
 
-A piece of safety orange thread, cord, yarn, or string—long enough to tie around your wrist.
+- A piece of safety orange thread, cord, yarn, or string—long enough to tie around your wrist.
 
-A few minutes of quiet.
+- A few minutes of quiet.
 
-Your journal (optional).
+- Your journal (optional).
 
 **The Sequence:**
 
-**Sit.** Ground yourself the way you have learned. Three breaths: 4 counts in, 2 counts hold, 6 counts out. Feel your weight. Feel the ground.
+1. **Sit.** Ground yourself the way you have learned. Three breaths: 4 counts in, 2 counts hold, 6 counts out. Feel your weight. Feel the ground.
 
-**Hold the string.** Look at it. This is just thread. It has no power except what you bring to it. It means nothing except what you decide it means.
+2. **Hold the string.** Look at it. This is just thread. It has no power except what you bring to it. It means nothing except what you decide it means.
 
-**Speak the inventory.** Say aloud, naming what you have done:
+3. **Speak the inventory.** Say aloud, naming what you have done:
 
 "I have walked the Tree. I have faced my shadows and named them. I have found my center and spoken from it. I have cut what needed cutting and opened to what needed receiving. I have honored what was lost and sparked what wanted to be born. I have touched the source and returned to the kingdom. I am not finished. I will never be finished. But I have begun. And beginning is everything."
 
-**Tie the string.** As you tie it around your wrist (or ankle, or wherever you choose to wear it), say:
+1. **Tie the string.** As you tie it around your wrist (or ankle, or wherever you choose to wear it), say:
 
 "I wear this not because I am complete, but because I am committed. Orange for the Temple of Gu. Orange for the ones who walk this Tree with me. Orange for the work that is never finished. I am the operator of my own existence. The work continues. The string remembers."
 
-**Ground.** Three more breaths. Feel the string on your skin. Feel your weight on the earth. You are here. You are in your body. You are wearing the mark of someone who showed up for their own becoming.
+1. **Ground.** Three more breaths. Feel the string on your skin. Feel your weight on the earth. You are here. You are in your body. You are wearing the mark of someone who showed up for their own becoming.
 
-**Close.** Say simply: "It is done."
+2. **Close.** Say simply: "It is done."
 
-## After The Rite
+## After the Rite
 
 The string will fade. It will fray. Eventually it will break or you will remove it. That is fine. The string is not magic. **YOU** are the magic—the one who did the work, the one who keeps doing it. When the string is gone, you will still be someone who walked the Tree. That does not fade. That does not fray. That is written in the architecture of who you are now.
 
