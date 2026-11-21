@@ -54,7 +54,7 @@ A world you can enter without ceremony is only a place. A world you must be invi
 
 ## IV. The Ten Realms
 
-**Each sephirah is a realm that can be visited.** The ten realms are the ten functions of every whole being and every whole community — Source, Wisdom, Understanding, Mercy, Judgment, Balance, Endurance, Splendor, Foundation, Kingdom — and none is optional. A world missing one is deformed: all Mercy and no Judgment is a house with no locks; all Judgment and no Mercy is a prison.
+**Each sefirah is a realm that can be visited.** The ten realms are the ten functions of every whole being and every whole community — Source, Wisdom, Understanding, Mercy, Judgment, Balance, Endurance, Splendor, Foundation, Kingdom — and none is optional. A world missing one is deformed: all Mercy and no Judgment is a house with no locks; all Judgment and no Mercy is a prison.
 
 ### Malkuth, the Kingdom
 

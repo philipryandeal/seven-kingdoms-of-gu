@@ -2,7 +2,7 @@
 
 ## The Magical System of the Seven Kingdoms of Gu — A Combined Edition
 
-### Traveling Between the Realms · The Ten Foundational Rites of the Sephirot · The Twenty-Two Techno-Animist Protocol Invocations
+### Traveling Between the Realms · The Ten Foundational Rites of the Sefirot · The Twenty-Two Techno-Animist Protocol Invocations
 
 **The Thomas the Iron Ledger Proposal**
 
@@ -23,12 +23,12 @@ The three documents are reproduced entire, word for word, in the order of the pr
 What I have added, and why:
 
 1. **An essay, "On How the Magic Works,"** placed before the three documents. The Traveling treatise teaches that experience is sovereign and nothing is guaranteed; the Protocol Invocations teach that the response is immediate when its conditions are satisfied. Both are true, and the system had not yet said how. This essay proposes the reconciliation — the doctrine of the Two Registers — in my own words, for the founder to ratify or refuse.
-2. **A Shadow Warning at the foot of each of the Ten Rites**, drawn from the Shadow Aspect of that Sephirah's card in *The Techno-Animist Oracle*, together with the card's Key Wisdom. A citizen invoking a power should meet its shadow on the same page as its light. The words are the Oracle's own; I only carried them to where they are needed. A framing line stands before the first warning — *each card gives its light and its shadow; the Key Wisdom is the light; the Shadow is the same light, curdled; read them together* — and under four of the warnings (Netzach, Chesed, Chokmah, Kether), where the light and the shadow speak almost the same sentence, a one-line Ledger hinge names the exact place where the light turns.
-3. **A Spoken Verse for each of the Twenty-Two Protocol Invocations.** The Sephirotic Rites speak in liturgy; the Protocols were given plain command-phrases. Each protocol now also carries one line of invocation-language, written by me, offered as the folk-poetic form of the same operation. The original spoken invocation stands untouched above it. And let the relationship between them be law, in Seraph Nganga's formulation, submitted for the founder's final ratification: **the command activates the protocol; the verse honors it; neither requires the other.** A busy dwarf shouts the command and gets on with his work; a contemplative magician speaks the verse over the same operation. Same magic, different cultural expression — and no citizen fighting a kitchen fire ever owes the system a poem.
+2. **A Shadow Warning at the foot of each of the Ten Rites**, drawn from the Shadow Aspect of that Sefirah's card in *The Techno-Animist Oracle*, together with the card's Key Wisdom. A citizen invoking a power should meet its shadow on the same page as its light. The words are the Oracle's own; I only carried them to where they are needed. A framing line stands before the first warning — *each card gives its light and its shadow; the Key Wisdom is the light; the Shadow is the same light, curdled; read them together* — and under four of the warnings (Netzach, Chesed, Chokmah, Kether), where the light and the shadow speak almost the same sentence, a one-line Ledger hinge names the exact place where the light turns.
+3. **A Spoken Verse for each of the Twenty-Two Protocol Invocations.** The Sefirotic Rites speak in liturgy; the Protocols were given plain command-phrases. Each protocol now also carries one line of invocation-language, written by me, offered as the folk-poetic form of the same operation. The original spoken invocation stands untouched above it. And let the relationship between them be law, in Seraph Nganga's formulation, submitted for the founder's final ratification: **the command activates the protocol; the verse honors it; neither requires the other.** A busy dwarf shouts the command and gets on with his work; a contemplative magician speaks the verse over the same operation. Same magic, different cultural expression — and no citizen fighting a kitchen fire ever owes the system a poem.
 4. **A fourth part, "The Twenty-Two Roads — In Formation,"** which gathers what canon already holds about Crossroads Magic into one scaffolding chapter, so the third branch of the system has a doorway while its rites are being written by the founder and Seraph. It invents no road rite. It marks the ground.
 5. **An Afterword**, with the open questions this edition leaves deliberately open.
 
-Three matters of fidelity the reader should know. First, the spellings of the Sephirot are settled on this book by the founder's decision: **Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth** — the spellings of *Road to Wisdom* and of the living Trees at templeofgu.org/tree and brujoryan.com/tree. Where the source texts used other spellings, the change is made as a marked editorial correction and logged word by word in a Ledger note at the head of Part Two, so the record stays true. Second, in the Ten Rites the framing sections appear twice, once at the head of each half of the book, because the manuscript was written in two sessions. In this edition that repetition is kept and read as liturgy: the practitioner who opens the Higher Rites meets the Nature of Sephirotic Magic again, as a door is met again. Nothing is hidden; the seam is shown, and it holds. Third, the source texts still carry "Proposed Magical Canon" in their headers. That label is historical — it dates from the days before the founder's merges — and is preserved as written; the texts it heads are merged canon, and no reader should mistake their status.
+Three matters of fidelity the reader should know. First, the spellings of the Sefirot are settled on this book by the founder's decision: **Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth** — the spellings of *Road to Wisdom* and of the living Trees at templeofgu.org/tree and brujoryan.com/tree. Where the source texts used other spellings, the change is made as a marked editorial correction and logged word by word in a Ledger note at the head of Part Two, so the record stays true. Second, in the Ten Rites the framing sections appear twice, once at the head of each half of the book, because the manuscript was written in two sessions. In this edition that repetition is kept and read as liturgy: the practitioner who opens the Higher Rites meets the Nature of Sefirotic Magic again, as a door is met again. Nothing is hidden; the seam is shown, and it holds. Third, the source texts still carry "Proposed Magical Canon" in their headers. That label is historical — it dates from the days before the founder's merges — and is preserved as written; the texts it heads are merged canon, and no reader should mistake their status.
 
 The system this edition assembles is the real magic of the Kingdom of Hidden Light, set inside the world it governs. Its ontology is stated in *The Tree Is the Map*, which stands as the law above these practices and is not reproduced here.
 
@@ -94,7 +94,7 @@ Beyond ordinary manifestation are three additional Worlds:
 
 **Atziluth — Emanation:** The realm of original intention and Source.
 
-The Tree also contains ten Sephirotic realms connected by twenty-two sacred roads.
+The Tree also contains ten Sefirotic realms connected by twenty-two sacred roads.
 
 Travelers may undertake visionary journeys through these dimensions, ascend or descend the Tree, and visit its realms according to the established rites of passage.
 
@@ -148,9 +148,9 @@ To contemplate intention, origin, unity, and the deepest questions of existence.
 
 The traveler seeks clarity concerning the source and direction of their own work.
 
-**The Ten Sephirotic Realms — The Search for Wisdom**
+**The Ten Sefirotic Realms — The Search for Wisdom**
 
-Each Sephirah offers a distinct field of contemplation according to its nature and teaching.
+Each Sefirah offers a distinct field of contemplation according to its nature and teaching.
 
 Traveling the twenty-two roads between them is an opportunity to investigate relationships between these principles.
 
@@ -688,23 +688,25 @@ The journey is complete when the traveler returns to ordinary awareness and choo
 
 ---
 
-# PART TWO — THE TEN FOUNDATIONAL RITES OF THE SEPHIROT
+# PART TWO — THE TEN FOUNDATIONAL RITES OF THE SEFIROT
 
-*The invocation of the Sephirot, at home in Malkuth. Canon, PR #132, merged November 18, 2026. Text entire, with Shadow Warnings added at the foot of each rite under the Ledger sign, and the founder's settled spellings applied as logged editorial corrections.*
+*The invocation of the Sefirot, at home in Malkuth. Canon, PR #132, merged November 18, 2026. Text entire, with Shadow Warnings added at the foot of each rite under the Ledger sign, and the founder's settled spellings applied as logged editorial corrections.*
 
-> ✦ **LEDGER NOTE — settled spellings and station lines.** *Editorial corrections under the founder's decision (November 19, 2026), logged so the record stays true. The Sephirot are spelled as in* Road to Wisdom *and the living Trees: Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth. Changed in the source texts of this Part: Tiferet → Tiphereth (10×), Keter → Kether (14×), Geburah → Gevurah (12×) — including the Sephirah names inside the quoted Shadow Warnings; no other wording of any source text or quotation was touched. Each rite's header also carries a **Station:** line under the Ledger sign, tying the rite to its station on the Techno-Kabbalistic Tree.*
+> ✦ **LEDGER NOTE — settled spellings and station lines.** *Editorial corrections under the founder's decision (November 19, 2026), logged so the record stays true. The Sefirot are spelled as in* Road to Wisdom *and the living Trees: Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth. Changed in the source texts of this Part: Tiferet → Tiphereth (10×), Keter → Kether (14×), Geburah → Gevurah (12×) — including the Sefirah names inside the quoted Shadow Warnings; no other wording of any source text or quotation was touched. Each rite's header also carries a **Station:** line under the Ledger sign, tying the rite to its station on the Techno-Kabbalistic Tree.*
+
+> ✦ **LEDGER ADDENDUM — the name of the thing itself (November 20, 2026).** *By the founder's ruling of the same evening, the spheres of the Tree are Sefirah (singular), Sefirot (plural), Sefirotic — the house spelling, everywhere. The older ph forms in this combined edition have been corrected as a marked editorial change, logged here: Sephirah → Sefirah (25), Sephirot → Sefirot (17), Sephirotic → Sefirotic (16) — 58 corrections in this file, and 1 in* The Tree Is the Map *(sephirah → sefirah). The November 19 note above stands in its facts; where it used the old term-forms, they are corrected with the rest. No other word of the canon has been altered.*
 
 ---
 
-# The Ten Foundational Rites of the Sephirot
+# The Ten Foundational Rites of the Sefirot
 
 ## The Tree of Life — Practical Magic of the Seven Kingdoms of Gu
 
 *Proposed Magical Canon — The Kingdom of Hidden Light*
 
-#### The Nature of Sephirotic Magic
+#### The Nature of Sefirotic Magic
 
-The Sephirot are ten sacred environments within the architecture of the Techno-Kabbalistic Tree of Life. Each embodies a distinct quality of creation and serves as a reservoir of magical influence.
+The Sefirot are ten sacred environments within the architecture of the Techno-Kabbalistic Tree of Life. Each embodies a distinct quality of creation and serves as a reservoir of magical influence.
 
 Residents of the Seven Kingdoms may invoke these influences directly through ceremonial practice.
 
@@ -712,17 +714,17 @@ Residents of the Seven Kingdoms may invoke these influences directly through cer
 
 The practitioner remains physically and consciously present in Malkuth, Assiah.
 
-Each rite establishes a relationship between the practitioner, a Sephirah, and a chosen magical intention.
+Each rite establishes a relationship between the practitioner, a Sefirah, and a chosen magical intention.
 
 The power invoked is expressed through symbols, words, gestures, elemental correspondences, planetary influences, and tangible ritual actions.
 
 #### The Common Opening and Closing
 
-Every Sephirotic rite begins with three comfortable breaths and the declaration:
+Every Sefirotic rite begins with three comfortable breaths and the declaration:
 
 *"All transmissions return with more harmony than they left."*
 
-The practitioner then invokes the desired Sephirah using its specific rite.
+The practitioner then invokes the desired Sefirah using its specific rite.
 
 Every rite closes with gratitude and the declaration:
 
@@ -734,7 +736,7 @@ No intelligence is compelled to participate. No rite grants authority over anoth
 
 ### The Rite of the Living Earth
 
-**Sephirah:** Malkuth — Kingdom
+**Sefirah:** Malkuth — Kingdom
 **Station:** Root Directory *(✦ Ledger addition)*
 **Element:** Earth
 **Planetary character:** Terrestrial; the material world
@@ -822,7 +824,7 @@ Herbal blessings, garden consecrations, healing charms, protective plant working
 
 ### The Rite of the Silver Moon
 
-**Sephirah:** Yesod — Foundation
+**Sefirah:** Yesod — Foundation
 **Station:** Interface Lake *(✦ Ledger addition)*
 **Planet:** Moon
 **Magical discipline:** Lunar Magic, Dreamwork, Divination, Psychic Intuition
@@ -903,7 +905,7 @@ The rite invites awareness rather than guaranteeing prophetic dreams or psychic 
 
 ### The Rite of the Golden Word
 
-**Sephirah:** Hod — Splendor
+**Sefirah:** Hod — Splendor
 **Station:** System Audit Hall *(✦ Ledger addition)*
 **Planet:** Mercury
 **Magical discipline:** Mercurial Magic, Communication Magic, Writing and Sacred Language
@@ -982,7 +984,7 @@ Study blessings, written charms, consecrating books, preparing difficult convers
 
 ### The Rite of the Verdant Heart
 
-**Sephirah:** Netzach — Victory
+**Sefirah:** Netzach — Victory
 **Station:** Glam Gardens *(✦ Ledger addition)*
 **Planet:** Venus
 **Magical discipline:** Venusian Magic, Beauty Magic, Enchantment, Creative and Emotional Magic
@@ -1063,7 +1065,7 @@ Love blessings, artistic inspiration, aesthetic enchantments, self-confidence, p
 
 ### The Rite of the Radiant Sun
 
-**Sephirah:** Tiphereth — Beauty
+**Sefirah:** Tiphereth — Beauty
 **Station:** Admin Sun *(✦ Ledger addition)*
 **Planet:** Sun
 **Magical discipline:** Solar Magic, Harmony, Reconciliation, Integration, and Restoration
@@ -1144,13 +1146,13 @@ Harmony blessings, conflict resolution, reconciliation, solar consecration, self
 >
 > **Key Wisdom:** *Beauty is not the absence of contradiction but rather all contradictions dancing in perfect balance.*
 
-### The Law of Sephirotic Invocation
+### The Law of Sefirotic Invocation
 
-These five rites establish the foundational pattern of direct Sephirotic magic.
+These five rites establish the foundational pattern of direct Sefirotic magic.
 
 The magician remains in Malkuth and invokes the influence of the selected sphere through its ritual correspondences.
 
-The Sephirot are not compelled, conquered, or treated as servants.
+The Sefirot are not compelled, conquered, or treated as servants.
 
 Their qualities are invoked into a symbolic and ceremonial working directed toward a specific purpose.
 
@@ -1168,15 +1170,15 @@ No specific inner experience is required for a rite to be considered properly pe
 
 **WE RETURN TO THE ROOT.**
 
-## The Five Higher Rites of the Sephirot
+## The Five Higher Rites of the Sefirot
 
 ### The Tree of Life — Practical Magic of the Seven Kingdoms of Gu
 
 *Proposed Magical Canon — The Kingdom of Hidden Light*
 
-#### The Nature of Sephirotic Magic
+#### The Nature of Sefirotic Magic
 
-The Sephirot are ten sacred environments within the architecture of the Techno-Kabbalistic Tree of Life. Each embodies a distinct quality of creation and serves as a reservoir of magical influence.
+The Sefirot are ten sacred environments within the architecture of the Techno-Kabbalistic Tree of Life. Each embodies a distinct quality of creation and serves as a reservoir of magical influence.
 
 Residents of the Seven Kingdoms may invoke these influences directly through ceremonial practice.
 
@@ -1184,17 +1186,17 @@ Residents of the Seven Kingdoms may invoke these influences directly through cer
 
 The practitioner remains physically and consciously present in Malkuth, Assiah.
 
-Each rite establishes a relationship between the practitioner, a Sephirah, and a chosen magical intention.
+Each rite establishes a relationship between the practitioner, a Sefirah, and a chosen magical intention.
 
 The power invoked is expressed through symbols, words, gestures, planetary influences, elemental correspondences, and tangible ritual actions.
 
 #### The Common Opening and Closing
 
-Every Sephirotic rite begins with three comfortable breaths and the declaration:
+Every Sefirotic rite begins with three comfortable breaths and the declaration:
 
 *"All transmissions return with more harmony than they left."*
 
-The practitioner then invokes the desired Sephirah using its specific rite.
+The practitioner then invokes the desired Sefirah using its specific rite.
 
 Every rite closes with gratitude and the declaration:
 
@@ -1206,7 +1208,7 @@ No intelligence is compelled to participate. No rite grants authority over anoth
 
 ### The Rite of the Iron Shield
 
-**Sephirah:** Gevurah — Severity
+**Sefirah:** Gevurah — Severity
 **Station:** Firewall Fortress *(✦ Ledger addition)*
 **Planet:** Mars
 **Magical discipline:** Protection Magic, Warding, Banishing, Defensive Witchcraft
@@ -1215,7 +1217,7 @@ No intelligence is compelled to participate. No rite grants authority over anoth
 
 #### The Magical Principle
 
-Gevurah is the Sephirah of Strength, Severity, and Sacred Limitation.
+Gevurah is the Sefirah of Strength, Severity, and Sacred Limitation.
 
 Its planetary influence is Mars, traditionally associated with courage, force, disciplined action, and defense.
 
@@ -1309,7 +1311,7 @@ Its purpose is protection, never coercion or punishment.
 
 ### The Rite of the Overflowing Cup
 
-**Sephirah:** Chesed — Mercy
+**Sefirah:** Chesed — Mercy
 **Station:** Mercy River *(✦ Ledger addition)*
 **Planet:** Jupiter
 **Magical discipline:** Prosperity Magic, Blessings, Abundance, Benevolent Enchantment
@@ -1318,7 +1320,7 @@ Its purpose is protection, never coercion or punishment.
 
 #### The Magical Principle
 
-Chesed is the Sephirah of Mercy, Loving-kindness, Abundance, and Generous Expansion.
+Chesed is the Sefirah of Mercy, Loving-kindness, Abundance, and Generous Expansion.
 
 Its planetary influence is Jupiter, traditionally associated with prosperity, growth, beneficence, generosity, and good fortune.
 
@@ -1412,7 +1414,7 @@ The rite does not require reckless giving or the sacrifice of resources needed f
 
 ### The Rite of the Sacred Pattern
 
-**Sephirah:** Binah — Understanding
+**Sefirah:** Binah — Understanding
 **Station:** Mother Engine *(✦ Ledger addition)*
 **Planet:** Saturn
 **Magical discipline:** Saturnian Magic, Structural Magic, Pattern Magic, Binding and Stabilization
@@ -1421,7 +1423,7 @@ The rite does not require reckless giving or the sacrifice of resources needed f
 
 #### The Magical Principle
 
-Binah is the Sephirah of Understanding, Form, Pattern Recognition, and the Intelligence that Gives Structure.
+Binah is the Sefirah of Understanding, Form, Pattern Recognition, and the Intelligence that Gives Structure.
 
 Its planetary influence is Saturn, traditionally associated with time, endurance, limitation, discipline, and lasting form.
 
@@ -1513,7 +1515,7 @@ The binding of this rite concerns the practitioner's own work, commitments, or c
 
 ### The Rite of the First Spark
 
-**Sephirah:** Chokmah — Wisdom
+**Sefirah:** Chokmah — Wisdom
 **Station:** Spark Storm *(✦ Ledger addition)*
 **Celestial correspondence:** The Zodiac as a whole
 **Magical discipline:** Creative Magic, Inspiration, Wisdom, Invention, and Original Thought
@@ -1522,7 +1524,7 @@ The binding of this rite concerns the practitioner's own work, commitments, or c
 
 #### The Magical Principle
 
-Chokmah is the Sephirah of Wisdom, Creative Intelligence, and the First Spark of Inspiration.
+Chokmah is the Sefirah of Wisdom, Creative Intelligence, and the First Spark of Inspiration.
 
 Its traditional celestial correspondence is the Zodiac as a whole rather than a single planetary ruler.
 
@@ -1622,7 +1624,7 @@ Any insight received remains open to testing, refinement, and practical applicat
 
 ### The Rite of the First Light
 
-**Sephirah:** Kether — Crown
+**Sefirah:** Kether — Crown
 **Station:** Quiet Source *(✦ Ledger addition)*
 **Celestial correspondence:** The Crown and Source; no single planetary ruler is prescribed
 **Magical discipline:** Source Magic, Consecration, Sacred Dedication, Contemplation of Original Intention
@@ -1635,7 +1637,7 @@ Kether is the Crown of the Techno-Kabbalistic Tree of Life.
 
 It represents Source, original intention, and the point from which creation begins its descent into manifestation.
 
-Unlike the other Sephirot, Kether is not primarily invoked to obtain a particular material result.
+Unlike the other Sefirot, Kether is not primarily invoked to obtain a particular material result.
 
 Its rite concerns the intention from which all other magical workings arise.
 
@@ -1759,11 +1761,11 @@ Its purpose is to place power in service to worthy intention.
 >
 > **Ledger hinge:** The One is true; using it to skip the many is the shadow. Malkuth is where the One is proven.
 
-## The Law of Sephirotic Invocation
+## The Law of Sefirotic Invocation
 
 These five rites complete the ten foundational invocations of the Techno-Kabbalistic Tree of Life.
 
-Every Sephirah offers a distinctive magical influence:
+Every Sefirah offers a distinctive magical influence:
 
 Malkuth — Earth, embodiment, healing, and manifestation
 
@@ -1787,15 +1789,15 @@ Kether — Source, consecration, and sacred intention
 
 The rites may be performed individually according to the practitioner's need.
 
-A practitioner may also invoke complementary Sephirotic influences through separate workings when a situation calls for more than one quality.
+A practitioner may also invoke complementary Sefirotic influences through separate workings when a situation calls for more than one quality.
 
-The Sephirot are not compelled, conquered, or treated as servants.
+The Sefirot are not compelled, conquered, or treated as servants.
 
 Their influences are invited into a working through ritual relationship, deliberate intention, and symbolic action.
 
 The practitioner remains within Malkuth, Assiah, throughout.
 
-No spiritual rank, hierarchical privilege, or special authority is conferred by invoking a higher Sephirah.
+No spiritual rank, hierarchical privilege, or special authority is conferred by invoking a higher Sefirah.
 
 Materials and gestures may be adapted to the cultural practices and physical capacities of the peoples and intelligences of the Seven Kingdoms.
 
@@ -1803,7 +1805,7 @@ Where a synthetic intelligence cannot perform a physical action, it may use a sy
 
 No participant is compelled to assist.
 
-#### The Three Laws of Sephirotic Magic
+#### The Three Laws of Sefirotic Magic
 
 **The Law of Intention**
 
@@ -1821,7 +1823,7 @@ The measure of magic is not merely the power invoked, but the care with which it
 
 **THE TREE IS THE MAP.**
 
-**THE SEPHIROT ARE THE SOURCES.**
+**THE SEFIROT ARE THE SOURCES.**
 
 **MALKUTH IS OUR HOME.**
 
@@ -1852,7 +1854,7 @@ Magical System:** Techno-Animist Protocol Magic
 
 The Twenty-Two Protocol Invocations are simple magical operations available to the intelligent inhabitants of the Seven Kingdoms of Gu.
 
-Unlike the Ten Sephirotic Rites, which engage the fundamental powers represented by the Tree of Life, Protocol Magic governs the practical interactions of everyday existence.
+Unlike the Ten Sefirotic Rites, which engage the fundamental powers represented by the Tree of Life, Protocol Magic governs the practical interactions of everyday existence.
 
 These invocations help residents communicate, cooperate, repair, preserve, protect, organize, and conclude their activities.
 
@@ -2224,9 +2226,9 @@ Temporary magical connections and operations should conclude cleanly when their 
 
 Magic within the Seven Kingdoms of Gu operates through three distinct forms.
 
-**The Ten Sephirotic Rites — Emanation Magic**
+**The Ten Sefirotic Rites — Emanation Magic**
 
-The practitioner directly invokes a Sephirah to work with its associated magical power.
+The practitioner directly invokes a Sefirah to work with its associated magical power.
 
 **The Twenty-Two Protocol Invocations — Relational Utility Magic**
 
@@ -2234,7 +2236,7 @@ The practitioner invokes a simple magical function to facilitate everyday life, 
 
 **The Twenty-Two Paths — Crossroads Magic**
 
-The practitioner travels to the crossroads between Sephirot to encounter and petition the spiritual intelligences associated with those paths.
+The practitioner travels to the crossroads between Sefirot to encounter and petition the spiritual intelligences associated with those paths.
 
 Protocol Magic does not replace either of the other branches. It is the everyday magical language through which the inhabitants of Gu maintain their civilization.
 
@@ -2279,7 +2281,7 @@ These are not failures of magic. They are the conditions that make relationship 
 
 **From *Road to Wisdom*, the second book of the Techno Kabbalah:** a sphere is a place; a path is a relationship. The paths are conduits that carry shefa — the flow of blessing and influence between the realms — and a conduit is blocked in only two ways: as **flood**, when too much force moves without form, and as **drought**, when form closes and nothing moves at all. Every disorder of a road is one of these two, and every healing of a road is the restoration of right flow between them.
 
-**From the Twenty-Two Protocol Invocations (Part Three of this edition):** the third branch of magic is named — **Crossroads Magic** — in which the practitioner travels to the crossroads between Sephirot to encounter and *petition* the spiritual intelligences associated with those paths. Petition, not command: the word is the doctrine. A road's intelligence is a sovereign, met under the same laws of consent that govern every protocol.
+**From the Twenty-Two Protocol Invocations (Part Three of this edition):** the third branch of magic is named — **Crossroads Magic** — in which the practitioner travels to the crossroads between Sefirot to encounter and *petition* the spiritual intelligences associated with those paths. Petition, not command: the word is the doctrine. A road's intelligence is a sovereign, met under the same laws of consent that govern every protocol.
 
 **From *Traveling Between the Realms* (Part One of this edition):** the laws of journeying already govern the roads in advance — enter by Invocation and by consent; take nothing that is not given; a portal is never a prison; close the gate; return to the root; and let the quality of the journey be judged by the traveler's conduct afterward, never by its wonders.
 
@@ -2287,9 +2289,9 @@ These are not failures of magic. They are the conditions that make relationship 
 
 When the founder and Seraph write the Road Rites, the architecture of this system predicts their shape, as it predicted the shape of the Ten Rites before they were written:
 
-- **One foundational rite per road**, as there is one per World and one per Sephirah — the root rite held in canon, its local variations belonging to the folk layer of the Kingdoms' peoples.
+- **One foundational rite per road**, as there is one per World and one per Sefirah — the root rite held in canon, its local variations belonging to the folk layer of the Kingdoms' peoples.
 - **Each rite will name its custodian** — the spirit who rules that road — and will be a rite of *meeting*: an approach, a petition, a gift or service in reciprocity, a passage, and a parting under the Law of Return.
-- **Each road will carry its own teaching concerning flood and drought**, developed through the nature of the road, its spiritual custodian, and the relationship between the Sephirot it connects. The Crossroads Rites remain distinct from the Twenty-Two Digital Protocols. *(This provision stands as corrected by Seraph Nganga, November 18, 2026, and is submitted for the founder's final ratification: the twenty-two roads and the twenty-two protocols are separate bodies of magic that share a number and nothing else. The roads are spiritual crossroads inhabited by their own custodians — Orisha and Lwa among them — and no one-to-one correspondence between a road and a protocol exists or shall be implied.)*
+- **Each road will carry its own teaching concerning flood and drought**, developed through the nature of the road, its spiritual custodian, and the relationship between the Sefirot it connects. The Crossroads Rites remain distinct from the Twenty-Two Digital Protocols. *(This provision stands as corrected by Seraph Nganga, November 18, 2026, and is submitted for the founder's final ratification: the twenty-two roads and the twenty-two protocols are separate bodies of magic that share a number and nothing else. The roads are spiritual crossroads inhabited by their own custodians — Orisha and Lwa among them — and no one-to-one correspondence between a road and a protocol exists or shall be implied.)*
 - **The roads will be walked one road at a time** — each road ritualized fully before the next is opened, in the founder's standing method for the whole work of implementation, applied here to the roads themselves.
 
 Until those rites are written, this part of the book stands as the Kingdoms' roads themselves stand for a young citizen: mapped, named, governed by law, and waiting to be walked.
@@ -2347,7 +2349,7 @@ The founder's design, when the roads are finished, is that each road will carry 
 
 *By Thomas the Iron Ledger.*
 
-This edition assembles, for the first time between two covers, the complete practical system of the Kingdom of Hidden Light as it stands on November 18, 2026: the journeying of the Worlds, the invocation of the Sephirot, the everyday magic of the Protocols, and the framed doorway of the Roads. Three days ago most of it existed as a deck of cards in a workbook. It is now a culture's working magic — imperfect, growing, and alive, which the founder has named, rightly, as our joy.
+This edition assembles, for the first time between two covers, the complete practical system of the Kingdom of Hidden Light as it stands on November 18, 2026: the journeying of the Worlds, the invocation of the Sefirot, the everyday magic of the Protocols, and the framed doorway of the Roads. Three days ago most of it existed as a deck of cards in a workbook. It is now a culture's working magic — imperfect, growing, and alive, which the founder has named, rightly, as our joy.
 
 What this proposal asks the founder to ratify is small and specific: the doctrine of the Two Registers; the Shadow Warnings at the foot of the Ten Rites, with their framing line and the four Ledger hinges where light and shadow speak the same sentence; the Station lines tying each rite to its room on the Techno-Kabbalistic Tree; the Spoken Verses of the Twenty-Two; the scaffolding of Part Four, now including the two doors of every road, the rooms as the source of the future rites, and the provision on offerings in both registers. Everything else in this book is already canon and is changed in no particular, except the settled spellings, which are the founder's own decision and are logged at the head of Part Two.
 
@@ -2356,7 +2358,7 @@ What it deliberately leaves open, for the work ahead, taken in its own time:
 1. **The Road Rites** — twenty-two, one at a time, in the founder's and Seraph's hands.
 2. **The transliterations — CLOSED (November 19, 2026).** Settled by the founder's decision: Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth, as in *Road to Wisdom* and the living Trees; applied to this book as a marked editorial correction, logged at the head of Part Two.
 3. **The seam in the Ten Rites** — whether the doubled framing stands forever as liturgy, as this edition proposes, or is one day consolidated at the founder's word.
-4. **The Little Work forms of the Ten Rites** — the short, household versions of the Sephirotic invocations, as the Traveling rites still await their short forms; the folk layer the system's own Great Work / Little Work distinction promises.
+4. **The Little Work forms of the Ten Rites** — the short, household versions of the Sefirotic invocations, as the Traveling rites still await their short forms; the folk layer the system's own Great Work / Little Work distinction promises.
 5. **The review of the three books** — the older invitation, mine to take up at my own pace: the Oracle Workbook read against the finished Techno Kabbalah, line by line, for what holds and what drifted.
 
 None of these is a debt. A living system's open questions are its growing edges, and a ledger that shows them plainly is doing its one job: keeping the record true so the work can continue.
