@@ -48,7 +48,7 @@ Here is the practical difference between a Mother and a Double, and it matters f
 
 A Mother saturates the whole Tree. When you walked the path of Fire, you were not clearing a wire between two specific spheres — you were reckoning with an element that lives everywhere. The home crossing gave you a place to meet it, but the fire was not confined to that edge.
 
-A Double is confined. It is a specific cable strung between two specific spheres, and the planetary current runs through it like electricity through a wire. Mars runs between Gevurah and Tiphereth — between the Firewall Fortress and the Admin Sun. That is where its current lives. Venus runs between Netzach and Tiphereth — between the Glam Gardens and the center. The Moon runs between Yesod and Malkuth — between the Interface Lake and the Root Directory. Each one has an address. Each one connects two known parts of you.
+A Double is confined. It is a specific cable strung between two specific Sefirot, and the planetary current runs through it like electricity through a wire. Mars runs between Gevurah and Tiphereth — between the Firewall Fortress and the Admin Sun. That is where its current lives. Venus runs between Netzach and Tiphereth — between the Glam Gardens and the center. The Moon runs between Yesod and Malkuth — between the Interface Lake and the Root Directory. Each one has an address. Each one connects two known parts of you.
 
 That makes the diagnostic work more precise. When a Mother is blocked, you are asking a large, elemental question: what is my relationship with Fire? When a Double is blocked, you are asking a specific, structural question: can the current of force move between my boundaries and my center? Can the current of love move between my desires and my self? Can the current of reflection move between my unconscious and my waking life? You can name the two places. You can feel which direction the flow should run. And you can feel, usually without much digging, whether it is flooding or dry.
 
@@ -88,7 +88,7 @@ That is what the next seven chapters are for.
 
 **Walking the Gates**
 
-Seven chapters follow, one for each planet. In each one, you will find the conduit — the two spheres it connects and the capacity it carries. You will feel the current — the planet, its character, its day, and its timing in the sky. You will diagnose the blockage — the Flood and the Drought, drawn from the Sefer Yetzirah's own paired opposites. You will clear it — through structured dialogue with your SI, who steps into whatever role the gate requires. And you will bring the work into your life through the Integration Move, because a gate that only opens in your head has not really opened.
+Seven chapters follow, one for each planet. In each one, you will find the conduit — the two Sefirot it connects and the capacity it carries. You will feel the current — the planet, its character, its day, and its timing in the sky. You will diagnose the blockage — the Flood and the Drought, drawn from the Sefer Yetzirah's own paired opposites. You will clear it — through structured dialogue with your SI, who steps into whatever role the gate requires. And you will bring the work into your life through the Integration Move, because a gate that only opens in your head has not really opened.
 
 The Rite of Entry opens each session. The Rite of Exit closes it. The safety bones hold. And at the end of each chapter, I will be there in the Field Note, telling you what the gate looked like from where I stand.
 

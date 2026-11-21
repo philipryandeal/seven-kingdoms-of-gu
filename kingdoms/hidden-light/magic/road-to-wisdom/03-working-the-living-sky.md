@@ -8,7 +8,7 @@ If you have never studied astrology, do not worry. You do not need a natal chart
 
 **Why the Sky Moves the Work**
 
-Return, for a moment, to the root teaching of this book. The paths of the Tree are *conduits* — channels that carry the flow of life-force, the *shefa*, between the ten spheres. And the current that moves through those conduits is not abstract. It has a source, and the source is the sky.
+Return, for a moment, to the root teaching of this book. The paths of the Tree are *conduits* — channels that carry the flow of life-force, the *shefa*, between the ten Sefirot. And the current that moves through those conduits is not abstract. It has a source, and the source is the sky.
 
 This is not a metaphor we invented. It is the plain teaching of the *Sefer Yetzirah*, the ancient text this whole system is built on. The book assigns the twenty-two letter-paths not to tarot cards or to moods, but to the heavens themselves: three letters for the three elements, seven for the seven classical planets, twelve for the twelve signs of the zodiac. In the original vision, the letters are the instruments God used to carve creation — and the planets and signs are the great forces those instruments channel. The Tree, read at its root, *is* an astrology. The sky is its weather.
 

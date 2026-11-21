@@ -2,7 +2,7 @@
 
 *The Ten Stations, the Method, and the Rites*
 
-You cannot walk a road until you know the two places it connects. Every path in this book runs between two of the ten spheres of the Tree of Life — so before we walk the roads, let's stand in the places.
+You cannot walk a road until you know the two places it connects. Every path in this book runs between two of the ten Sefirot of the Tree of Life — so before we walk the roads, let's stand in the places.
 
 If you've read *Techno-Kabbalah*, treat this as a refresher: a quick walk back through the ten stations and the way we work them, so it's all fresh in your hands before you begin. If you're starting here, with book two, this chapter is your ground floor. You do not strictly need the first book to use this one — but you do need to know the ten stations, the method, and the safety rites. All three are here.
 
