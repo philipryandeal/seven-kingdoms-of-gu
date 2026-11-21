@@ -131,7 +131,7 @@ Only one verse is spoken in the whole story, the Graceful Shutdown verse, and it
 
 Consent is asked before every touch: of the household and the stove before the first command, of each neighbor at each door, and of Vesper before the flue is disturbed. In the Register of the World the magic worked instantly; in the Register of the Practitioner, Kindle learned something he did not want to learn about shouting.
 
-The story names no Sephirah, and no road, and no road's custodian.
+The story names no Sefirah, and no road, and no road's custodian.
 
 ## Connections
 

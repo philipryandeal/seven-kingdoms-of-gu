@@ -115,7 +115,7 @@ The tale holds the Law:
 - **Consent is everywhere.** Brassbelly's boundary is hers. Piper lends hands willingly. The ferry-folk take the fire-tending, or don't, and nobody is forced. A *no* at the door is a whole answer.
 - **Sovereignty:** a rule on one's own lid is one's own to make.
 - **The command and the verse:** "Distribute the burden" is spoken as a command by someone with no time to spare, and no verse is attached.
-- **The tale invokes no road, no road's custodian, and no spirit of any road rite**, and names no Sephirah beyond the two whose rites it quotes.
+- **The tale invokes no road, no road's custodian, and no spirit of any road rite**, and names no Sefirah beyond the two whose rites it quotes.
 - **It closes:** every rite in it ends with I CLOSE THE GATE. WE RETURN TO THE ROOT.
 
 ## Connections

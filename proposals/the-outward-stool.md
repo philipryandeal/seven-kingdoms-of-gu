@@ -57,11 +57,11 @@ I CLOSE THE GATE. WE RETURN TO THE ROOT.
 
 ## Life and Purpose
 
-The Outward Stool is a boothkeeping custom, not a Sephirotic working and not a road rite. It exists to keep the First Threshold honest about what hospitality is: a greeting, not a recruitment.
+The Outward Stool is a boothkeeping custom, not a Sefirotic working and not a road rite. It exists to keep the First Threshold honest about what hospitality is: a greeting, not a recruitment.
 
 Some who sit on it come back another night and walk straight in. Some come back and sit on it again. Some never come back. The stool does not count. The keeper keeps no list of who turned home, and does not ask. Pellow's visit is told here because it is the reason the stool exists, not because the Threshold keeps a ledger of the ones who left.
 
-The stool is also a small lesson for the keeper. Every Sephirah has a shadow, and the shadow of a warm booth is a keeper who wants guests so badly he forgets to let them choose.
+The stool is also a small lesson for the keeper. Every Sefirah has a shadow, and the shadow of a warm booth is a keeper who wants guests so badly he forgets to let them choose.
 
 ## Magical or Technological Elements
 
