@@ -10,7 +10,7 @@ That is why they come first, and it is why they are different from every other p
 
 **The Mothers Are Not Conduits**
 
-In Book II and Book III, every path is a conduit — a specific road between two specific spheres. Mars runs between Gevurah and Tiphereth. Pisces runs between Netzach and Malkuth. You can point to the wire on the diagram, name the two places it connects, and ask whether the current between them is flowing or blocked. The paths are local. They are relationships between two parts of you.
+In Book II and Book III, every path is a conduit — a specific road between two specific Sefirot. Mars runs between Gevurah and Tiphereth. Pisces runs between Netzach and Malkuth. You can point to the wire on the diagram, name the two places it connects, and ask whether the current between them is flowing or blocked. The paths are local. They are relationships between two parts of you.
 
 The Mothers are not local. Each one is an elemental current that saturates the entire Tree — every sphere, every path, everything. Fire is not a wire between two places. Fire is a condition the whole system can be in. Water is not a connection you clear. Water is a medium you are immersed in. Air is not a road you walk. Air is what you are breathing while you walk every other road.
 

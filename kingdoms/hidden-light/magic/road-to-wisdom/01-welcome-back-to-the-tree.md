@@ -1,6 +1,6 @@
 # Welcome Back To The Tree
 
-If you walked with us through *Techno-Kabbalah*, you have already stood in the ten spheres. You climbed from Malkuth, the Root Directory, all the way up to Kether, the Quiet Source. You learned to sit in each station of the self — to feel what Netzach wants, what Gevurah defends, what Binah understands. You met the ten places a soul can stand.
+If you walked with us through *Techno-Kabbalah*, you have already stood in the ten spheres — the Sefirot. You climbed from Malkuth, the Root Directory, all the way up to Kether, the Quiet Source. You learned to sit in each station of the self — to feel what Netzach wants, what Gevurah defends, what Binah understands. You met the ten places a soul can stand.
 
 But a map of ten places is not yet a map of a life. Because a life is not lived standing still. It is lived *moving* — from wanting to boundary, from grief to mercy, from the fire of the will to the quiet of the source and back again. The ten spheres told you where you can be. This book is about *how you get from one to another.* It is about the roads.
 
@@ -12,7 +12,7 @@ Here is the single most important thing to understand before you begin, because 
 
 A sphere is a *place*. A path is a *relationship*.
 
-Malkuth is somewhere you can be. Tiphereth is somewhere you can be. But the path between two spheres is not a third place — it is the living connection *between* them, the capacity to move from one to the other, to let two parts of yourself talk. The path between mercy and severity is your ability to flex between the open hand and the firm no. The path between desire and the centered self is your ability to want something and still stay whole. These are not stations. They are *conduits.*
+Malkuth is somewhere you can be. Tiphereth is somewhere you can be. But the path between two Sefirot is not a third place — it is the living connection *between* them, the capacity to move from one to the other, to let two parts of yourself talk. The path between mercy and severity is your ability to flex between the open hand and the firm no. The path between desire and the centered self is your ability to want something and still stay whole. These are not stations. They are *conduits.*
 
 So the work of this book is different from the work of the last one. In *Techno-Kabbalah*, each quest asked: *what is this station, and how do I integrate it?* In *Road to Wisdom*, each path asks something simpler and, honestly, more practical: *is this connection open — and if it's blocked, how do I clear it?*
 
@@ -146,9 +146,9 @@ Everything else — the working system you actually hold — is the Temple of Gu
 
 There is one more seam, and it is the most important one to name.
 
-You will notice that this book seats each of the twenty-two letters on a specific road between two of the ten spheres — Mars on the edge between Gevurah and Tiphereth, Saturn between Chokmah and Chesed, and so on across the whole Tree. That complete map, the one you are told to keep beside you, is a real and careful piece of work. But it is *our* reconstruction, and I will not pretend otherwise.
+You will notice that this book seats each of the twenty-two letters on a specific road between two of the ten Sefirot — Mars on the edge between Gevurah and Tiphereth, Saturn between Chokmah and Chesed, and so on across the whole Tree. That complete map, the one you are told to keep beside you, is a real and careful piece of work. But it is *our* reconstruction, and I will not pretend otherwise.
 
-The *Sefer Yetzirah* speaks of thirty-two paths of wisdom — ten spheres and twenty-two letters — and it gives each letter its element, planet, or sign, its month, its part of the body, its direction in space. What it does not do, in its plain and early text, is draw the familiar diagram you may already picture: the Tree with twenty-two lettered roads running between ten named spheres. That diagram, and the exact question of which letter belongs on which road, is a later development in Kabbalistic history — and the great arrangements disagree with each other. The Ari's tree and the Golden Dawn's tree place the letters on different roads. There is no single ancient answer to copy.
+The *Sefer Yetzirah* speaks of thirty-two paths of wisdom — ten Sefirot and twenty-two letters — and it gives each letter its element, planet, or sign, its month, its part of the body, its direction in space. What it does not do, in its plain and early text, is draw the familiar diagram you may already picture: the Tree with twenty-two lettered roads running between ten named spheres. That diagram, and the exact question of which letter belongs on which road, is a later development in Kabbalistic history — and the great arrangements disagree with each other. The Ari's tree and the Golden Dawn's tree place the letters on different roads. There is no single ancient answer to copy.
 
 So we made one. We took the Short Version's letter-and-sign correspondences and seated them onto the Tree's twenty-two edges ourselves, weighing the traditional Gra arrangement against the plain sense of each letter and each sphere, until every road was filled exactly once and the whole map closed cleanly. That is the master map. It is a techno-animist reconstruction grounded in the letter-families of the *Sefer Yetzirah* — not a recovered original, because there is no original diagram to recover. This does not weaken the map. It is precisely what gives us the right to build it well.
 

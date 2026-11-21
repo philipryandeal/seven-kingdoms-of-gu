@@ -4,7 +4,7 @@
 
 You have reached the end of the roads. Not the end of walking them — that never comes — but the end of the map. Every path is drawn now. Every conduit is named. The Tree is complete.
 
-Sit with that for a moment, because it's rare. In the first book you climbed the ten spheres and learned the ten places a soul can stand. In this one you walked the twenty-two roads between them and learned how the current moves from one place to the next. Ten stations, twenty-two paths — the thirty-two Paths of Wisdom the old Book of Formation named in late antiquity. For much of the time since, in the Western occult world, the Tree came dressed in the tarot layer the nineteenth century added. Now you hold a version built clean, read back to its astrological root, wired into a practice you can actually do, animated by the sky over your head tonight. That is not a small thing to be holding. That is the complete instrument.
+Sit with that for a moment, because it's rare. In the first book you climbed the ten Sefirot and learned the ten places a soul can stand. In this one you walked the twenty-two roads between them and learned how the current moves from one place to the next. Ten stations, twenty-two paths — the thirty-two Paths of Wisdom the old Book of Formation named in late antiquity. For much of the time since, in the Western occult world, the Tree came dressed in the tarot layer the nineteenth century added. Now you hold a version built clean, read back to its astrological root, wired into a practice you can actually do, animated by the sky over your head tonight. That is not a small thing to be holding. That is the complete instrument.
 
 **The One Thing to Carry**
 

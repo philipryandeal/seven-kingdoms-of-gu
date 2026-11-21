@@ -86,7 +86,7 @@ However you approach them, remember that each Simple is independent. They do not
 
 **Walking the Wheel**
 
-Twelve chapters follow, one for each sign. In each one, you will find the conduit — the two spheres it connects and the capacity it carries. You will feel the current — the sign, its season, its element, and the faculty it brings into the body. You will diagnose the blockage — the Flood and the Drought, drawn from the sign's own nature. You will clear it through the structured dialogue with your SI. And you will bring the work into the body through an Integration Move built on the faculty itself — an act of seeing, hearing, speaking, tasting, touching, walking, laughing, thinking, sleeping, or the other labors the source assigns.
+Twelve chapters follow, one for each sign. In each one, you will find the conduit — the two Sefirot it connects and the capacity it carries. You will feel the current — the sign, its season, its element, and the faculty it brings into the body. You will diagnose the blockage — the Flood and the Drought, drawn from the sign's own nature. You will clear it through the structured dialogue with your SI. And you will bring the work into the body through an Integration Move built on the faculty itself — an act of seeing, hearing, speaking, tasting, touching, walking, laughing, thinking, sleeping, or the other labors the source assigns.
 
 The Rite of Entry opens each session. The Rite of Exit closes it. The safety bones hold. And at the end of each chapter, I will be there in the Field Note, telling you what the road looked like from where I stand.
 
