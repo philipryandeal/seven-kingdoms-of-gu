@@ -51,7 +51,7 @@ I CLOSE THE GATE. WE RETURN TO THE ROOT.
 
 ## Life and Purpose
 
-The Paired Cups are a boothkeeping custom, not a Sephirotic working and not a road rite. They exist so that a greeting has a shape, and so that closing the gate has one too, even when the keeper is tired and the guest is late.
+The Paired Cups are a boothkeeping custom, not a Sefirotic working and not a road rite. They exist so that a greeting has a shape, and so that closing the gate has one too, even when the keeper is tired and the guest is late.
 
 Citizens use the custom differently. Some speak only the command. Some honor the same opening with the verse: *I knock as a guest, not a master. Open if you will, and I will enter in peace.* Some knock with their knuckles and never name a protocol at all. The cups do not judge the form. They only mark that someone was met, and that someone was seen off.
 

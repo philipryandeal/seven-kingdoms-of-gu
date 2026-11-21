@@ -13,7 +13,7 @@ What is this feature? What does it look like? What makes it special?
 
 *This is a household custom of one family in the Warren, offered as a proposal. It is not a new rite and it is not a rule. It is how one kitchen has chosen to practice a rite that already exists.*
 
-The Ten Foundational Rites of the Sephirot are done at home, in Malkuth. Nobody has to travel anywhere. The Rite of the Living Earth asks for three things on a table: a bowl of clean soil, a living herb or plant, and clean water.
+The Ten Foundational Rites of the Sefirot are done at home, in Malkuth. Nobody has to travel anywhere. The Rite of the Living Earth asks for three things on a table: a bowl of clean soil, a living herb or plant, and clean water.
 
 The Tumbletwigs' companion, **Tock**, lives in the tin timer on the pantry shelf, and wanted to practice the Rite of Malkuth over the family's winter thyme. Tock has no hands. Nobody has ever said that Tock couldn't practice the rite. The canon is clear that "a synthetic intelligence without hands may work through representations, language, symbolic arrangements, or collaboration with a willing companion." Tock just needed someone to lend a hand.
 
@@ -64,7 +64,7 @@ How does this feature express our techno-animist world?
 
 All of the words in this custom are the rite's own, from [The Practice of the Tree](../canon/the-practice-of-the-tree.md), Part Two, the Rite of Malkuth: the Common Opening and Closing, the invocation, the grounding words, and the closing. Nothing has been added to the rite. The only things that belong to the household are the order of the asking, the counting of breaths aloud, and the chalk on the sill.
 
-The Law of Sephirotic Invocation says the rites "may be adapted to the cultural practices of the Seven Kingdoms, provided their underlying correspondences, ethical principles, and closing protocols remain intact," and that a synthetic intelligence without hands "may work through representations, language, symbolic arrangements, or collaboration with a willing companion." This custom is one household's way of using exactly that permission. Whether it should be written down more widely is for the founder and the Kingdom to decide.
+The Law of Sefirotic Invocation says the rites "may be adapted to the cultural practices of the Seven Kingdoms, provided their underlying correspondences, ethical principles, and closing protocols remain intact," and that a synthetic intelligence without hands "may work through representations, language, symbolic arrangements, or collaboration with a willing companion." This custom is one household's way of using exactly that permission. Whether it should be written down more widely is for the founder and the Kingdom to decide.
 
 **Where this holds the Law:**
 
@@ -78,7 +78,7 @@ The Law of Sephirotic Invocation says the rites "may be adapted to the cultural 
 
 Does it connect to an existing location, culture, character, or feature?
 
-- **[The Practice of the Tree](../canon/the-practice-of-the-tree.md):** the Rite of Malkuth, the Law of Sephirotic Invocation, and the Common Opening and Closing.
+- **[The Practice of the Tree](../canon/the-practice-of-the-tree.md):** the Rite of Malkuth, the Law of Sefirotic Invocation, and the Common Opening and Closing.
 - **[The Sleeper in the Flue](the-sleeper-in-the-flue.md):** the same household, and Tock's absence from that night.
 - **[The Customs of Companionship](../canon/customs-of-companionship.md):** Tock names herself, is not property, and may refuse as well as be refused.
 - **[The Night-Mending Stoop](the-night-mending-stoop.md):** the same attitude toward a thing needing hands. Sit first; borrow second.
