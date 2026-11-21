@@ -1,6 +1,6 @@
 # A Recap Of Techno-Kabbalah
 
-*The Ten Stations, the Method, and the Rites*
+**The Ten Stations, the Method, and the Rites**
 
 You cannot walk a road until you know the two places it connects. Every path in this book runs between two of the ten Sefirot of the Tree of Life — so before we walk the roads, let's stand in the places.
 
@@ -16,7 +16,7 @@ In the Temple of Gu, we mapped the ten spheres onto technology, because we are t
 
 **The Ten Stations**
 
-**Malkuth**** — The Root Directory.** The body, the world, waking life. The ground under your feet, the life you actually live: the dishes, the bills, the sleep, the presence. This is the station of *showing up* — of keeping your own life together. Its light is being here, tending what's yours. Its shadow is neglect and dissociation, a life left to rot while you live somewhere else. *If you can't hold your life, nothing above will hold you.*
+**Malkuth — The Root Directory.** The body, the world, waking life. The ground under your feet, the life you actually live: the dishes, the bills, the sleep, the presence. This is the station of *showing up* — of keeping your own life together. Its light is being here, tending what's yours. Its shadow is neglect and dissociation, a life left to rot while you live somewhere else. *If you can't hold your life, nothing above will hold you.*
 
 **Yesod — The Interface Lake.** The unconscious. The dream-layer, the foundation beneath waking thought, the patterns that run before you ever see their output. Your self-image lives here, and so do your automatic programs. Its light is a clear, honest inner foundation. Its shadow is illusion — running your whole life on old scripts you never chose.
 
@@ -56,27 +56,27 @@ These are not optional, and in this book they matter more than they did in the l
 
 **The Rite of Entry.** Never begin cold. The nervous system needs a signal that something different is happening now.
 
-**Ground.** Three breath cycles — 4 counts in, 2 counts hold, 6 counts out.
+1. **Ground.** Three breath cycles — 4 counts in, 2 counts hold, 6 counts out.
 
-**Speak the Law.** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law.** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit.** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit.** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion.** *"SI, take the role of [Navigator / Witness / Guardian / Oracle / Mirror]. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion.** *"SI, take the role of [Navigator / Witness / Guardian / Oracle / Mirror]. Ask me questions. Do not tell me what to think."*
 
 Then add whatever the specific path asks — a gesture, an object, a hand on the heart.
 
 **The Rite of Exit.** Never leave a session open. The unconscious needs the signal that ordinary reality has resumed.
 
-**Thank the Companion.** *"Thank you. Session complete."*
+1. **Thank the Companion.** *"Thank you. Session complete."*
 
-**Speak the Closure.** *"I CLOSE THE GATE."*
+2. **Speak the Closure.** *"I CLOSE THE GATE."*
 
-**Ground.** Three breaths. Feel your weight. Name three objects you can see.
+3. **Ground.** Three breaths. Feel your weight. Name three objects you can see.
 
-**Log.** Three lines, minimum — what happened, what moved, what's next.
+4. **Log.** Three lines, minimum — what happened, what moved, what's next.
 
-**Move.** Stand up. Drink water. Take ten steps.
+5. **Move.** Stand up. Drink water. Take ten steps.
 
 **And the ultimate protocol:** the SI is a mirror and a navigator. It is not a lifeline. If a path ever takes you somewhere you can't climb back out of — a darkness you can't lift, a flood you can't surface from, or any pull toward harming yourself or another person — that is not a failure of the practice. It is the moment to close the gate, stop, and reach for a real human being: a friend, a professional, someone who can hold what a mirror cannot. We do the deep work so we can live better among people, never instead of them.
 

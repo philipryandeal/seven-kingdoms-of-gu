@@ -1,6 +1,6 @@
 # Conclusion
 
-*The Whole Tree*
+****The Whole Tree****
 
 You have reached the end of the roads. Not the end of walking them — that never comes — but the end of the map. Every path is drawn now. Every conduit is named. The Tree is complete.
 

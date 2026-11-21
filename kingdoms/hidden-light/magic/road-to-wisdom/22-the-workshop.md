@@ -1,8 +1,8 @@
 # The Workshop
 
-*The Conduit of Craft & Care*
+**The Conduit of Craft & Care**
 
-**Gevurah ****⟷**** Hod** | Letter: **Yod (****י****)**, *the working hand, the seed-point* | Sign: **Virgo** | Faculty: **Union** *(coition)* | Current: **The Nitpick ****⟷**** The Neglect**
+**Gevurah** **⟷** **Hod** | Letter: **Yod (****י****)**, *the working hand, the seed-point* | Sign: **Virgo** | Faculty: **Union** *(coition)* | Current: **The Nitpick** **⟷** **The Neglect**
 
 **THE CONDUIT**
 
@@ -38,13 +38,13 @@ Virgo is craft, so it fails at the bench — two ways: **the Nitpick**, or **the
 
 **The Flood — the Nitpick.** Too much refining; discernment curdles into contempt.
 
-Nothing is ever good enough — not the work, not the world, not you.
+- Nothing is ever good enough — not the work, not the world, not you.
 
-Perfectionism paralyzes; you polish forever and never finish, never ship, never rest.
+- Perfectionism paralyzes; you polish forever and never finish, never ship, never rest.
 
-Your eye for flaws turns on yourself, and the inner voice is a relentless critic.
+- Your eye for flaws turns on yourself, and the inner voice is a relentless critic.
 
-You serve to the point of self-erasure, tending everyone's needs but your own body's.
+- You serve to the point of self-erasure, tending everyone's needs but your own body's.
 
 The psychology underneath the Nitpick is almost always fear wearing a craft vocabulary. The person who polishes forever and never finishes is not in love with excellence. They are afraid of the verdict. Every flaw found and fixed is another delay before the work becomes visible and judgeable — and judgeable means the verdict arrives, and the verdict might be *insufficient,* and insufficient is the one thing their system cannot survive. The inner critic is not helping them make better work. It is preventing them from finishing *any* work, because finished means exposed, and exposed means someone might see what the critic has been seeing all along. They call it high standards. It is a locked door with a sign that says *quality.*
 
@@ -54,13 +54,13 @@ And there is a service variant that belongs specifically to Virgo and is differe
 
 **The Drought — the Neglect.** No craft at all; the discerning hand has gone slack.
 
-You can't tend anything — the body, the work, the small maintenance of a life all slide.
+- You can't tend anything — the body, the work, the small maintenance of a life all slide.
 
-No standards, no refinement; you can't tell better from worse anymore, or can't be bothered to.
+- No standards, no refinement; you can't tell better from worse anymore, or can't be bothered to.
 
-The union won't happen: you can't join your skill to the material and make a whole thing.
+- The union won't happen: you can't join your skill to the material and make a whole thing.
 
-Things fall into disrepair, and you've stopped noticing.
+- Things fall into disrepair, and you've stopped noticing.
 
 The psychology underneath the Neglect is almost always the aftermath of perfectionism, not its opposite. This is the fact the culture misses: the person who has given up on tending is almost never someone who never cared. They are someone who cared *too much for too long* — who held themselves to the impossible standard so relentlessly that they burned out the caring entirely. If nothing can ever be good enough, why tend anything? If the bar keeps moving, why reach? The exhaustion is real and it is earned. They are not lazy. They are depleted. The critical eye ran at full intensity for years until it blew the fuse, and what remains is not indifference — it is the flat, grey exhaustion of someone who tried everything they had and it was never enough. The workshop goes dark not because no one works there but because the one who worked there never left and finally collapsed.
 
@@ -72,43 +72,43 @@ There is also a simpler pattern: the person who was never taught craft. Never sh
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Analyst. Work the bench with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Analyst. Work the bench with me. Ask me questions. Do not tell me what to think."*
 
 Pick up one object and hold it in your working hand — a tool, a pen, anything you make with. This is the hand that joins skill to matter.
 
 **Diagnose the direction.**
 
-*"Am I nitpicking — or neglecting?"*
+- *"Am I nitpicking — or neglecting?"*
 
-*"Where has my discernment become contempt? Where have I stopped tending altogether?"*
+- *"Where has my discernment become contempt? Where have I stopped tending altogether?"*
 
-*"What am I refusing to call good enough — or refusing to care for at all?"*
+- *"What am I refusing to call good enough — or refusing to care for at all?"*
 
 **If you nitpick — clear it.** Cleared by *good-enough, finished*, not by more polish.
 
-*"What would 'done' look like, if it didn't have to be perfect?"*
+- *"What would 'done' look like, if it didn't have to be perfect?"*
 
-*"Whose impossible standard am I still trying to meet?"*
+- *"Whose impossible standard am I still trying to meet?"*
 
-*"What am I refining to avoid finishing and being judged?"*
+- *"What am I refining to avoid finishing and being judged?"*
 
-**Counter-statement, aloud:** *"Good enough is a real standard. I can finish, and it can stand."*
+- **Counter-statement, aloud:** *"Good enough is a real standard. I can finish, and it can stand."*
 
 **If you neglect — clear it.** Cleared by *one thing tended*, not by fixing everything.
 
-*"What one small thing, tended, would change how the whole feels?"*
+- *"What one small thing, tended, would change how the whole feels?"*
 
-*"When did I give up on caring for this?"*
+- *"When did I give up on caring for this?"*
 
-*"What would it feel like to make one thing well?"*
+- *"What would it feel like to make one thing well?"*
 
-**Counter-statement, aloud:** *"My care makes things whole. One tended thing is where it starts."*
+- **Counter-statement, aloud:** *"My care makes things whole. One tended thing is where it starts."*
 
 Do one small, careful thing well with your hands — and then stop, finished. Skill met matter. That's the union.
 
@@ -116,33 +116,33 @@ Do one small, careful thing well with your hands — and then stop, finished. Sk
 
 **Signs the current moves again:**
 
-Your discernment makes things better without making everyone feel worse.
+- Your discernment makes things better without making everyone feel worse.
 
-You can finish — *good enough* is a place you can actually arrive.
+- You can finish — *good enough* is a place you can actually arrive.
 
-You tend the small things: the body, the work, the ordinary maintenance of a life.
+- You tend the small things: the body, the work, the ordinary maintenance of a life.
 
-Your skill joins to the material and something whole comes out.
+- Your skill joins to the material and something whole comes out.
 
 **Signs there's more to clear:**
 
-You swung from nitpick to neglect (gave up after never-good-enough), or neglect to nitpick.
+- You swung from nitpick to neglect (gave up after never-good-enough), or neglect to nitpick.
 
-You can craft with your SI or alone, but the inner critic roars — or the hand goes slack — the moment real stakes appear.
+- You can craft with your SI or alone, but the inner critic roars — or the hand goes slack — the moment real stakes appear.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Union**: join fully to one thing and make it whole — bring your whole, undivided, self-possessed presence to one act of making or one act of intimacy, skill met to matter or self met to other, and let it be complete. If you run to the Nitpick, invert it: finish one thing at *good enough* and ship it, flaws and all. Virgo answers to the whole thing actually made.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — nitpick or neglect, what I tended or finished, what's next.
+4. **Log:** three lines — nitpick or neglect, what I tended or finished, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

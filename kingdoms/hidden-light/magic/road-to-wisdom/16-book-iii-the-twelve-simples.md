@@ -1,6 +1,6 @@
-# Book Iii — The Twelve SImples
+# Book III — The Twelve Simples
 
-*The Zodiacal Body*
+**The Zodiacal Body**
 
 You have come through the elements and walked the planetary gates. Fire, Water, and Air remade your relationship with the three primordial forces. The seven Doubles tested the great drives that structure a life — force and selfhood, love and mind, structure and abundance and reflection. Now the work comes all the way down.
 

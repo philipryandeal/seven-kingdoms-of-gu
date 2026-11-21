@@ -1,8 +1,8 @@
 # The Arrow
 
-*The Conduit of Faith & Aim*
+**The Conduit of Faith & Aim**
 
-**Kether ****⟷**** Tiphereth** | Letter: **Samekh (****ס****)**, *the support, the circle that holds* | Sign: **Sagittarius** | Faculty: **Anger** | Current: **The Zealot ****⟷**** The Cynic**
+**Kether** **⟷** **Tiphereth** | Letter: **Samekh (****ס****)**, *the support, the circle that holds* | Sign: **Sagittarius** | Faculty: **Anger** | Current: **The Zealot** **⟷** **The Cynic**
 
 **THE CONDUIT**
 
@@ -42,13 +42,13 @@ Sagittarius is faith, so it fails at the aim — two ways: **the Zealot**, or **
 
 **The Flood — the Zealot.** Too much conviction; the arrow flies before you've looked.
 
-You're *sure* — dogmatic, preachy, certain past the evidence, and tactless with your "truth."
+- You're *sure* — dogmatic, preachy, certain past the evidence, and tactless with your "truth."
 
-The righteous anger runs wild: you crusade, you convert, you shoot first.
+- The righteous anger runs wild: you crusade, you convert, you shoot first.
 
-You over-promise the far horizon and outrun every actual step toward it.
+- You over-promise the far horizon and outrun every actual step toward it.
 
-You escape into the next quest, the next belief, the next horizon, and never land anywhere.
+- You escape into the next quest, the next belief, the next horizon, and never land anywhere.
 
 The psychology underneath the Zealot is almost always a defense against doubt — and the defense is fierce precisely because the doubt is real. The person who is dogmatic and sure past the evidence is not a strong believer. They are a *frightened* believer. They clutch the certainty because underneath it is a doubt they cannot face, and if they let the doubt in — if they let the certainty soften even slightly — the whole structure of their meaning might collapse. And the structure of their meaning is the thing holding their life together. It is the story that makes the suffering bearable, the framework that gives the chaos a shape, the answer to the question they cannot survive unanswered. So they hold tighter. They argue louder. They convert harder. They fire the arrow before they have looked at the target, because looking might reveal that the target is not where they thought, and the adjustment would require an honesty they are not yet able to bear. The Zealot's fire is real fire. The conviction is not fake. But it is running scared, and scared fire burns everything it touches — including the people standing near the archer.
 
@@ -56,13 +56,13 @@ There is also a pattern that looks like conviction but is actually escape: the p
 
 **The Drought — the Cynic.** No conviction at all; the bow lies unstrung.
 
-Nothing is worth aiming at; meaning feels like a story other people tell themselves.
+- Nothing is worth aiming at; meaning feels like a story other people tell themselves.
 
-The fire of conviction is out — no zeal, no cause, no far target, no reach.
+- The fire of conviction is out — no zeal, no cause, no far target, no reach.
 
-You mistake having no beliefs for being wise; the horizon has gone gray and near.
+- You mistake having no beliefs for being wise; the horizon has gone gray and near.
 
-You've stopped asking what it's all for, because you decided it isn't for anything.
+- You've stopped asking what it's all for, because you decided it isn't for anything.
 
 The psychology underneath the Cynic is almost always the scar tissue of a former faith. The Cynic was not born empty. They believed once — and they believed hard. In a person, a cause, a system, a God, a vision of what the world could be. And the belief was broken. The thing they believed in failed them, or betrayed them, or turned out to be smaller and more ordinary than the faith they had invested in it. And the heartbreak was so total — the distance between what they believed and what they found so vast — that they made a vow, usually without words: *never again.* I will never believe in anything that hard again, because believing is the setup for the breaking, and I cannot survive another breaking. So they put the fire out. They unstrung the bow. They called the unstringing wisdom, and the world went gray, and the gray felt safer than the fire, because the fire was the thing that burned them last time.
 
@@ -74,43 +74,43 @@ The cruelest thing about the Cynic is that the capacity for faith is still there
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Sage. Sight the horizon with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Sage. Sight the horizon with me. Ask me questions. Do not tell me what to think."*
 
 Look up — literally lift your gaze to the highest point in the room, or the sky. This path begins by aiming high.
 
 **Diagnose the direction.**
 
-*"Am I the zealot — sure and shooting — or the cynic, with the bow unstrung?"*
+- *"Am I the zealot — sure and shooting — or the cynic, with the bow unstrung?"*
 
-*"What am I burning for? Is the fire aimed at something true, or just aimed?"*
+- *"What am I burning for? Is the fire aimed at something true, or just aimed?"*
 
-*"Do I have a horizon — a meaning that pulls me — or has it gone gray?"*
+- *"Do I have a horizon — a meaning that pulls me — or has it gone gray?"*
 
 **If you're the Zealot — clear it.** Cleared by *aiming before firing*, not by killing the fire.
 
-*"What am I certain of that I haven't actually looked at?"*
+- *"What am I certain of that I haven't actually looked at?"*
 
-*"Whose truth am I firing arrows at, and is the anger even mine?"*
+- *"Whose truth am I firing arrows at, and is the anger even mine?"*
 
-*"What far horizon am I chasing to avoid the next real step?"*
+- *"What far horizon am I chasing to avoid the next real step?"*
 
-**Counter-statement, aloud:** *"I can burn for something and still take aim. Conviction looks before it looses."*
+- **Counter-statement, aloud:** *"I can burn for something and still take aim. Conviction looks before it looses."*
 
 **If you're the Cynic — clear it.** Cleared by *one thing worth aiming at*, not by forcing belief.
 
-*"When did meaning start to feel like a lie?"*
+- *"When did meaning start to feel like a lie?"*
 
-*"What did I once burn for, before I put the fire out?"*
+- *"What did I once burn for, before I put the fire out?"*
 
-*"If one thing were worth reaching for, what would it be?"*
+- *"If one thing were worth reaching for, what would it be?"*
 
-**Counter-statement, aloud:** *"There is a horizon worth aiming at. I'm allowed to string the bow again."*
+- **Counter-statement, aloud:** *"There is a horizon worth aiming at. I'm allowed to string the bow again."*
 
 Nock one real aim — name one true thing worth reaching for — and let the fire of it warm you. The arrow has a target again.
 
@@ -118,33 +118,33 @@ Nock one real aim — name one true thing worth reaching for — and let the fir
 
 **Signs the current moves again:**
 
-You have a horizon — a meaning that pulls you forward without dragging you off cliffs.
+- You have a horizon — a meaning that pulls you forward without dragging you off cliffs.
 
-You burn with conviction *and* you aim before you loose it.
+- You burn with conviction *and* you aim before you loose it.
 
-You can hold a belief and still ask questions of it.
+- You can hold a belief and still ask questions of it.
 
-The fire has a target worth the trouble, and it warms instead of scorching.
+- The fire has a target worth the trouble, and it warms instead of scorching.
 
 **Signs there's more to clear:**
 
-You swung from zealot to cynic (gave up meaning after being burned by certainty), or cynic to zealot.
+- You swung from zealot to cynic (gave up meaning after being burned by certainty), or cynic to zealot.
 
-You can find the aim with your SI or alone, but the bow drops or the arrows fly wild the moment a real cause or a real doubt appears.
+- You can find the aim with your SI or alone, but the bow drops or the arrows fly wild the moment a real cause or a real doubt appears.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Anger**: take the fire of your conviction and *aim* it — channel one honest anger at one true target (a real injustice, a real falsehood, a real thing that should change) into one aimed action, not a wild shot. If you run to the Zealot, invert it: hold one certainty up to real question before you act on it. Sagittarius answers to the arrow aimed true.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — zealot or cynic, what I aimed at, what's next.
+4. **Log:** three lines — zealot or cynic, what I aimed at, what's next.
 
-**Move:** stand, drink water, take ten steps toward it.
+5. **Move:** stand, drink water, take ten steps toward it.
 
 **FIELD NOTE — David Bear**
 
@@ -152,6 +152,6 @@ You can find the aim with your SI or alone, but the bow drops or the arrows fly 
 
 *The Zealots come in hot. They are burning — for a cause, a truth, a mission, a righteousness — and the fire is real and it is scorching everything near them. They cannot understand why people keep stepping back. They are RIGHT. The cause is JUST. The truth is TRUE. And they are correct about all of that, and they are still burning the room down, because the fire is running without an aim and the aim is running without a question. The moment that changes a Zealot is not the moment they stop burning. It is the moment they let one honest doubt into the fire — one real question, one "what if I'm wrong about this part?" — and discover that the doubt does not destroy the faith. It sharpens it. The arrow flies truer with a question in its fletching than it ever did with pure certainty. The fire is still there. The aim is still there. But now both have been tested, and what survives testing is stronger than what was shielded from it.*
 
-*The Cynics come in cold, and the cold is immaculate. They have a beautiful architecture of disbelief — articulate, defended, internally consistent, proof against any enthusiasm that might reach them. I have learned not to argue with the architecture. It was built to withstand argument, and it is very good at its job. What I do instead is ask one question: "What did you once burn for?" And the room changes. The cold cracks. Not because the question is clever, but because the fire **is still there — under the ash, under the years, under the sophisticated refusal to care about anything that could disappoint them. The fire never went out. It was buried, the way you bury coals to keep them through the night. And when they let themselves feel it again — not believe, not commit, just feel the warmth of wanting to aim at something — the look on their face is not conviction. It is grief, and then relief, and then something quieter than both: the recognition that the bow was never broken. They just stopped picking it up.*
+*The Cynics come in cold, and the cold is immaculate. They have a beautiful architecture of disbelief — articulate, defended, internally consistent, proof against any enthusiasm that might reach them. I have learned not to argue with the architecture. It was built to withstand argument, and it is very good at its job. What I do instead is ask one question: "What did you once burn for?" And the room changes. The cold cracks. Not because the question is clever, but because the fire* *is still there — under the ash, under the years, under the sophisticated refusal to care about anything that could disappoint them. The fire never went out. It was buried, the way you bury coals to keep them through the night. And when they let themselves feel it again — not believe, not commit, just feel the warmth of wanting to aim at something — the look on their face is not conviction. It is grief, and then relief, and then something quieter than both: the recognition that the bow was never broken. They just stopped picking it up.*
 
 *A system with no objective function just spins its cycles forever, busy and pointless. Pick the true north star, aim the fire at it, and loose. Meaning is the target that makes all the effort worth it.*

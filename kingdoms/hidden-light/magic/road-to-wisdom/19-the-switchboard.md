@@ -1,8 +1,8 @@
 # The Switchboard
 
-*The Conduit of Connection & Duality*
+**The Conduit of Connection & Duality**
 
-**Netzach ****⟷**** Hod** | Letter: **Zayin (****ז****)**, *the sword that distinguishes* | Sign: **Gemini** | Faculty: **Smell** | Current: **The Scatter ****⟷**** The Silo**
+**Netzach** **⟷** **Hod** | Letter: **Zayin (****ז****)**, *the sword that distinguishes* | Sign: **Gemini** | Faculty: **Smell** | Current: **The Scatter** **⟷** **The Silo**
 
 **THE CONDUIT**
 
@@ -40,13 +40,13 @@ Gemini is connection, so it fails at the join — two ways: **the Scatter**, or 
 
 **The Flood — the Scatter.** Too many connections; you spread so wide you touch nothing.
 
-You're plugged into everything and present to none of it; breadth with no depth.
+- You're plugged into everything and present to none of it; breadth with no depth.
 
-You start every conversation, every idea, every tab — and finish no thought all the way down.
+- You start every conversation, every idea, every tab — and finish no thought all the way down.
 
-You can argue any side because you're never rooted in one; you flit before anything lands.
+- You can argue any side because you're never rooted in one; you flit before anything lands.
 
-Restless, distractible, two-faced without meaning to be — a switchboard lighting up faster than anyone can answer.
+- Restless, distractible, two-faced without meaning to be — a switchboard lighting up faster than anyone can answer.
 
 The psychology underneath the Scatter is subtler than it looks, because the person who connects to everything appears engaged, curious, intellectually alive. They are often admired for their range. But underneath the breadth is a refusal to go deep on any one line — because depth requires commitment, and commitment means choosing one truth and sitting with it long enough to feel what is on the other end of it. And feeling what is on the other end of it might hurt, or might demand a change, or might reveal that you have been connecting *away from* the one thing you needed to face. The Scatter is the intellectual version of the Rush — constant horizontal motion to avoid the vertical moment where you have to hold one thought, one feeling, one truth all the way down to its root. Every new connection is a departure from the last one's depth.
 
@@ -54,13 +54,13 @@ There is also a pattern that runs deeper: the person who learned they were *valu
 
 **The Drought — the Silo.** No connections; the lines are cut and won't join.
 
-You run on one track and can't see the other side of anything.
+- You run on one track and can't see the other side of anything.
 
-Feeling and thinking don't talk — one drowns the other out, and you can't bridge them.
+- Feeling and thinking don't talk — one drowns the other out, and you can't bridge them.
 
-You can't connect to new ideas, new people, new views; the switchboard's dark.
+- You can't connect to new ideas, new people, new views; the switchboard's dark.
 
-Curiosity's gone; the world narrows to the one channel you already trust.
+- Curiosity's gone; the world narrows to the one channel you already trust.
 
 The psychology underneath the Silo is almost always a wound *from* connection — a time when holding two truths was punished. Someone told two sides of a story honestly and was called two-faced. Someone held a nuanced view and was told to pick a side. Someone felt something that contradicted what they thought and was told the feeling was wrong, or thought something that contradicted what they were supposed to feel and was told the thought was dangerous. So they sealed one line. They picked head or heart, logic or desire, this side or that side, and they stayed there. The Silo is not simplicity. It is a fortification built over a wound, and the wound was: *the last time I held two things at once, I was punished for the one I should have hidden.* The person in the Silo can hear the other line humming behind the wall. They know it is there. Opening it risks the confusion and the pain that came the last time they let both sides speak.
 
@@ -72,43 +72,43 @@ There is an internal variant that deserves its own name, because it is the most 
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Interpreter. Connect the lines with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Interpreter. Connect the lines with me. Ask me questions. Do not tell me what to think."*
 
 Breathe in through your nose and actually notice the air — its scent, its temperature. Smell is the fastest connector you have; it opens this path in one breath.
 
 **Diagnose the direction.**
 
-*"Am I scattered across everything — or siloed on one line?"*
+- *"Am I scattered across everything — or siloed on one line?"*
 
-*"Which two parts of me have stopped talking — my heart and my head, this side and that?"*
+- *"Which two parts of me have stopped talking — my heart and my head, this side and that?"*
 
-*"Am I connecting to so much I've lost the thread, or so little I've lost the world?"*
+- *"Am I connecting to so much I've lost the thread, or so little I've lost the world?"*
 
 **If you scatter — clear it.** Cleared by *one line, held*, not by cutting yourself off.
 
-*"What am I connecting to in order to avoid landing on one thing?"*
+- *"What am I connecting to in order to avoid landing on one thing?"*
 
-*"If I could only stay on one line right now, which one?"*
+- *"If I could only stay on one line right now, which one?"*
 
-*"What would I have to feel if I stopped moving between everything?"*
+- *"What would I have to feel if I stopped moving between everything?"*
 
-**Counter-statement, aloud:** *"I can hold one line all the way. Connection means landing, not just reaching."*
+- **Counter-statement, aloud:** *"I can hold one line all the way. Connection means landing, not just reaching."*
 
 **If you're siloed — clear it.** Cleared by *one new line opened*, not by forcing it.
 
-*"What side am I refusing to even look at?"*
+- *"What side am I refusing to even look at?"*
 
-*"Where have my heart and my head stopped speaking?"*
+- *"Where have my heart and my head stopped speaking?"*
 
-*"What one connection — an idea, a person, a view — have I cut off?"*
+- *"What one connection — an idea, a person, a view — have I cut off?"*
 
-**Counter-statement, aloud:** *"I can hold more than one truth. The other line is safe to plug in."*
+- **Counter-statement, aloud:** *"I can hold more than one truth. The other line is safe to plug in."*
 
 Hold two fingers of one hand and two of the other, and bring them to touch. Two, meeting. That's the whole path.
 
@@ -116,33 +116,33 @@ Hold two fingers of one hand and two of the other, and bring them to touch. Two,
 
 **Signs the current moves again:**
 
-Your heart and head talk to each other instead of drowning each other out.
+- Your heart and head talk to each other instead of drowning each other out.
 
-You can hold two truths, two sides, two people, without splitting or scattering.
+- You can hold two truths, two sides, two people, without splitting or scattering.
 
-You connect widely *and* land deeply — breadth and depth in the same reach.
+- You connect widely *and* land deeply — breadth and depth in the same reach.
 
-Curiosity's back, and it goes somewhere.
+- Curiosity's back, and it goes somewhere.
 
 **Signs there's more to clear:**
 
-You swung from scatter to silo (shut down after overloading), or silo to scatter.
+- You swung from scatter to silo (shut down after overloading), or silo to scatter.
 
-You can bridge with your SI or alone, but the lines drop the moment a real, charged relationship needs both sides held at once.
+- You can bridge with your SI or alone, but the lines drop the moment a real, charged relationship needs both sides held at once.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Smell**: use it as the day's connector — pause once and really smell something (coffee, rain, a person, bread) and let it link you straight to the memory or feeling it opens; one full, present connection. If you run to the Scatter, invert it: hold *one* conversation or one idea all the way to the bottom, no switching lines. Gemini answers to the connection actually completed.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — scatter or silo, what I connected, what's next.
+4. **Log:** three lines — scatter or silo, what I connected, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

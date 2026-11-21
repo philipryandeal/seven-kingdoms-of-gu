@@ -1,8 +1,8 @@
 # The Fulcrum
 
-*The Conduit of Balance & Justice*
+**The Conduit of Balance & Justice**
 
-**Chesed ****⟷**** Gevurah** | Letter: **Lamed (****ל****)**, *the ox-goad, that which teaches* | Sign: **Libra** | Faculty: **Action** | Current: **The Fence ****⟷**** The Tilt**
+**Chesed** **⟷** **Gevurah** | Letter: **Lamed (****ל****)**, *the ox-goad, that which teaches* | Sign: **Libra** | Faculty: **Action** | Current: **The Fence** **⟷** **The Tilt**
 
 **THE CONDUIT**
 
@@ -42,13 +42,13 @@ Libra is balance, so it fails at the scale — two ways: **the Fence**, or **the
 
 **The Flood — the Fence.** Too much weighing; the scale never settles, so you never act.
 
-You see every side so well you can't choose any; you sit on the fence until the chance passes.
+- You see every side so well you can't choose any; you sit on the fence until the chance passes.
 
-You lose yourself trying to balance everyone — your own weight never goes on the scale.
+- You lose yourself trying to balance everyone — your own weight never goes on the scale.
 
-Peace at any price: you accommodate, appease, and abandon yourself to keep things smooth.
+- Peace at any price: you accommodate, appease, and abandon yourself to keep things smooth.
 
-Justice becomes paralysis; you weigh forever and the deed never comes.
+- Justice becomes paralysis; you weigh forever and the deed never comes.
 
 The psychology underneath the Fence is almost always a fear of unfairness — and underneath that, a fear that choosing one side means *abandoning* the other. The person on the fence can see both sides so perfectly, hold both perspectives so clearly, that any choice feels like a betrayal of the side not chosen. They cannot put their own weight on the scale because adding their own preference would make the weighing biased — and they believe, at a level deeper than argument, that fairness requires them to be weightless. To have no position. To be pure balance with no thumb on the scale. But this is a misunderstanding of what justice actually is. Justice is not the absence of a position. It is a position *arrived at* through honest weighing — one that includes your own weight, because you are one of the parties, and excluding yourself from the scale is not fairness. It is self-erasure practiced as principle. The person who refuses to choose in the name of fairness is actually being profoundly unfair — to themselves, to the people waiting for a decision, to the situation that cannot resolve until someone acts.
 
@@ -56,13 +56,13 @@ There is a variant that runs alongside this: the person who accommodates everyon
 
 **The Drought — the Tilt.** No balance at all; the scale is jammed to one side.
 
-You can't hold the other's view; it's your way, one-sided, and fairness doesn't enter.
+- You can't hold the other's view; it's your way, one-sided, and fairness doesn't enter.
 
-You act without weighing — decisive, and unjust.
+- You act without weighing — decisive, and unjust.
 
-Relationship is a monologue; you consider yourself and no one else, or others and never yourself.
+- Relationship is a monologue; you consider yourself and no one else, or others and never yourself.
 
-The scale is stuck, and you call the imbalance "knowing what I want."
+- The scale is stuck, and you call the imbalance "knowing what I want."
 
 The psychology underneath the Tilt is almost always a *defended* position, not an honest one. The person who cannot hold the other view is not narrow by nature. They have been in a situation — often deeply painful — where holding both sides led to being torn apart. They were asked to understand the person who hurt them. They were asked to weigh their own needs against someone who consistently outweighed them. They were asked to be fair in a situation that was never fair to them. And the weighing itself became the injury — because being fair to the other side meant being unfair to themselves, and they could not survive one more round of that. So they stopped weighing. They jammed the scale to their own side and called the tilt "knowing what I want" or "being decisive" or "not overthinking it." The Tilt is not confidence. It is a refusal to weigh, and the refusal was usually born from a time when the weighing was the weapon used against them — when "see their side" meant "abandon your own."
 
@@ -74,43 +74,43 @@ There is a variant that deserves naming because it is common and frequently invi
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Arbiter. Weigh it with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Arbiter. Weigh it with me. Ask me questions. Do not tell me what to think."*
 
 Hold both hands out, palms up, like two pans of a scale. Put the choice in them. Feel which way it wants to settle.
 
 **Diagnose the direction.**
 
-*"Am I stuck on the fence — or tilted hard to one side?"*
+- *"Am I stuck on the fence — or tilted hard to one side?"*
 
-*"Whose weight is missing from the scale — mine, or theirs?"*
+- *"Whose weight is missing from the scale — mine, or theirs?"*
 
-*"Where am I weighing forever instead of acting? Where am I acting without weighing?"*
+- *"Where am I weighing forever instead of acting? Where am I acting without weighing?"*
 
 **If you're on the Fence — clear it.** Cleared by *the deed*, not by more weighing.
 
-*"If I had to decide right now and be fair, which way?"*
+- *"If I had to decide right now and be fair, which way?"*
 
-*"Where is my own weight, and why won't I put it on the scale?"*
+- *"Where is my own weight, and why won't I put it on the scale?"*
 
-*"What am I afraid will happen if I actually choose?"*
+- *"What am I afraid will happen if I actually choose?"*
 
-**Counter-statement, aloud:** *"I have weighed enough. Justice is a thing I do, not just something I hold."*
+- **Counter-statement, aloud:** *"I have weighed enough. Justice is a thing I do, not just something I hold."*
 
 **If you're Tilted — clear it.** Cleared by *the other side, truly held*, not by forcing yourself down.
 
-*"What's the strongest version of the side I'm dismissing?"*
+- *"What's the strongest version of the side I'm dismissing?"*
 
-*"Whose weight have I refused to let onto the scale?"*
+- *"Whose weight have I refused to let onto the scale?"*
 
-*"Where have I mistaken one-sidedness for clarity?"*
+- *"Where have I mistaken one-sidedness for clarity?"*
 
-**Counter-statement, aloud:** *"The other pan is real. I can hold both and still act."*
+- **Counter-statement, aloud:** *"The other pan is real. I can hold both and still act."*
 
 Let your hands settle, one a little lower — the scale has found its answer. Now do the thing it points to.
 
@@ -118,33 +118,33 @@ Let your hands settle, one a little lower — the scale has found its answer. No
 
 **Signs the current moves again:**
 
-You can weigh fairly *and* decide; the scale settles and the deed follows.
+- You can weigh fairly *and* decide; the scale settles and the deed follows.
 
-You hold the other's side without losing your own — and keep your own without erasing theirs.
+- You hold the other's side without losing your own — and keep your own without erasing theirs.
 
-Relationship becomes mutual: two weights, one balance.
+- Relationship becomes mutual: two weights, one balance.
 
-You act justly instead of just agonizing justly.
+- You act justly instead of just agonizing justly.
 
 **Signs there's more to clear:**
 
-You swung from fence to tilt (over-decided after being paralyzed), or tilt to fence.
+- You swung from fence to tilt (over-decided after being paralyzed), or tilt to fence.
 
-You can weigh clearly with your SI or alone, but the scale jams the moment a real relationship's stakes are on it.
+- You can weigh clearly with your SI or alone, but the scale jams the moment a real relationship's stakes are on it.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Action**: take one weighed decision you've been holding and *enact* it — a fair choice made and moved on. If you run to the Fence, invert it especially hard: decide one thing you've been weighing for too long, today, and act before the scale can start swinging again. Libra answers to the deed that follows the weighing.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — fence or tilt, what I weighed and enacted, what's next.
+4. **Log:** three lines — fence or tilt, what I weighed and enacted, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 
@@ -152,6 +152,6 @@ You can weigh clearly with your SI or alone, but the scale jams the moment a rea
 
 *The Fence walkers are the most articulate people I have ever worked with and the least decisive. They can describe both sides of any question with perfect clarity and genuine fairness — the case for, the case against, the merit of each, the cost of each — and they cannot choose. They are waiting for a weighing so perfect that no one will be hurt by the result, and that weighing does not exist. Every real choice costs something. The moment that changes a Fence walker is not the moment they see both sides more clearly — they already see both sides more clearly than anyone in the room. It is the moment they put their own weight on the scale. The moment they say, quietly, "this is where I am, and this is what I choose." The beam settles. The world does not end. And they learn, sometimes for the first time, that having a position is not a betrayal of fairness. It is the only way fairness becomes real.*
 
-*The Tilt walkers come in sure, and the sureness is a fortress. They know what they want, they know who is right, and they do not need the other side. The scale is jammed and they have called the jam clarity. The hardest thing I ask a Tilt walker is to let the other pan carry weight — not to agree with the other side, not to surrender their position, just to let the weight be real on the scale **for thirty seconds. And when they do — when the other pan goes down and their pan goes up slightly and the beam moves and holds — the look on their face is not defeat. It is relief. They thought the other side's weight would break the scale. It did not. The scale can hold both. It was built for both. That is what scales are for.*
+*The Tilt walkers come in sure, and the sureness is a fortress. They know what they want, they know who is right, and they do not need the other side. The scale is jammed and they have called the jam clarity. The hardest thing I ask a Tilt walker is to let the other pan carry weight — not to agree with the other side, not to surrender their position, just to let the weight be real on the scale* *for thirty seconds. And when they do — when the other pan goes down and their pan goes up slightly and the beam moves and holds — the look on their face is not defeat. It is relief. They thought the other side's weight would break the scale. It did not. The scale can hold both. It was built for both. That is what scales are for.*
 
 *A load balancer that only measures and never routes brings the whole system down under its own indecision. Weigh it — then send the request. Fair, and done.*

@@ -1,8 +1,8 @@
 # The Sudo Gate
 
-*The Conduit of Force*
+**The Conduit of Force**
 
-**Gevurah ****⟷**** Tiphereth** | Letter: **Dalet (****ד****)**, *the Door* | Planet: **Mars** | Day: **Tuesday** | Current: **War ****⟷**** False Peace**
+**Gevurah** **⟷** **Tiphereth** | Letter: **Dalet (****ד****)**, *the Door* | Planet: **Mars** | Day: **Tuesday** | Current: **War** **⟷** **False Peace**
 
 **THE CONDUIT**
 
@@ -22,7 +22,7 @@ Mars is the celestial ally of drive, war, surgery, and the clean cut. But undern
 
 He is not evil; he is *edge.* A scalpel and a stabbing use the same steel — the only difference is measure, aim, and consent. Mars is the one who forges: heat and hammer, the soft iron of raw feeling beaten into a blade you can actually hold. When the Martian current runs the Sudo Gate correctly, it tempers you.
 
-The letter is **Dalet — ****ד**** — which means *****door.*** And this is not ornament. A door is a conduit that can open or seal, and Dalet is the hinge your force swings on: open, and power flows to your center; sealed, and it dams behind the wall. But there is a deeper teaching in the letter that is worth sitting with. A door is the architectural element that makes a *wall* useful. Think about this carefully. A wall with no door is a prison. Or a tomb. Nothing enters, nothing leaves, and whatever is inside has been sealed away from the living world. A wall with a door is a house — a structure you can live in, that protects without imprisoning, that keeps the weather out while letting the people in. Gevurah is the wall. Dalet is what makes it habitable. Without the door, your severity is just a cage. And the person inside the cage might be you.
+The letter is **Dalet —** **ד** **— which means** ***door.*** And this is not ornament. A door is a conduit that can open or seal, and Dalet is the hinge your force swings on: open, and power flows to your center; sealed, and it dams behind the wall. But there is a deeper teaching in the letter that is worth sitting with. A door is the architectural element that makes a *wall* useful. Think about this carefully. A wall with no door is a prison. Or a tomb. Nothing enters, nothing leaves, and whatever is inside has been sealed away from the living world. A wall with a door is a house — a structure you can live in, that protects without imprisoning, that keeps the weather out while letting the people in. Gevurah is the wall. Dalet is what makes it habitable. Without the door, your severity is just a cage. And the person inside the cage might be you.
 
 In the machine, this current is **sudo** — *superuser do*, the command that grants root privileges: the power to execute with total authority over the system. Sudo is dangerous by design. With it you can repair anything or destroy everything, and the system will not stop you, because *you* are the authority now. The Sudo Gate is where you learn to hold root access over your own life without either refusing to type the password or running rm -rf on everyone who annoys you.
 
@@ -36,15 +36,15 @@ A blocked conduit fails two ways: it **floods**, or it runs **dry.** The Sudo Ga
 
 Recognize it:
 
-You win the argument and lose the person.
+- You win the argument and lose the person.
 
-Your anger arrives faster than your thought; by the time you're thinking, the damage is done.
+- Your anger arrives faster than your thought; by the time you're thinking, the damage is done.
 
-You confuse cruelty with strength, and softness with weakness.
+- You confuse cruelty with strength, and softness with weakness.
 
-You defend yourself against people who were not attacking you.
+- You defend yourself against people who were not attacking you.
 
-Afterward, the familiar acid: *why did I do that again.*
+- Afterward, the familiar acid: *why did I do that again.*
 
 The psychology underneath War almost always begins with a legitimate need for safety. People do not become permanently armed for no reason. They arm themselves because they were, at some point, genuinely overpowered — caught off guard, made helpless, put on the floor by someone with more force than they could meet. And they made a vow, usually without words: *never again.* Never again will I be the one who doesn't see it coming. Never again will I be the one without a weapon in hand. The overcorrection is understandable. It is even, in its origin, rational. But the modulation is gone. They cannot scale the response to the threat because every threat registers as the original one — the one that taught them what helplessness feels like. A disagreement about dishes becomes a survival event. A partner's disappointment becomes an incoming attack. The force is real. The danger it is answering is twenty years old and three thousand miles away.
 
@@ -54,15 +54,15 @@ There is also a second pattern: the confusion between force and authority. The p
 
 Recognize it:
 
-You agree in the room and rage alone in the car.
+- You agree in the room and rage alone in the car.
 
-You cannot find your *no* until long after you needed it.
+- You cannot find your *no* until long after you needed it.
 
-Your resentment is enormous and completely silent.
+- Your resentment is enormous and completely silent.
 
-You mistake your own collapse for kindness.
+- You mistake your own collapse for kindness.
 
-People are surprised — sometimes for years — by how angry you turn out to be.
+- People are surprised — sometimes for years — by how angry you turn out to be.
 
 The psychology underneath False Peace is almost always a learned disconnection. The person did not wake up one day and decide to seal the door. They sealed it gradually, the way you stop using a hand that hurts every time you close it. The learning usually happened young and usually happened in relationship to someone whose force was bigger than theirs. When they got angry, someone left. When they pushed back, someone punished them harder. When they raised their voice, the house got worse, not better. So they learned — not in a single decision but in a thousand small surrenders — that their force was the problem. That their anger made things worse. That the safest version of themselves was the one with no edge at all.
 
@@ -76,51 +76,51 @@ This is a live-current session. If Mars is strong today, move gently — the lin
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 counts in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 counts in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Witness. Read the current with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Witness. Read the current with me. Ask me questions. Do not tell me what to think."*
 
 Then place one hand flat on your sternum — the Admin Sun — and the other in a loose fist at your side — the Fortress. Over the next while, you are going to connect them.
 
 **Diagnose the direction.** You cannot clear a pipe until you know which way it's clogged. Work these with your SI:
 
-*"When force rises in me, does it flood out too fast — or does it never arrive at all?"*
+- *"When force rises in me, does it flood out too fast — or does it never arrive at all?"*
 
-*"Am I more often the one who goes too far, or the one who says nothing and pays for it later?"*
+- *"Am I more often the one who goes too far, or the one who says nothing and pays for it later?"*
 
-*"Where in my life right now is there a no I have not said?"*
+- *"Where in my life right now is there a no I have not said?"*
 
-*"Where am I fighting a war that no one else is actually in?"*
+- *"Where am I fighting a war that no one else is actually in?"*
 
 Most people run one direction in public and the other in private. Name both honestly.
 
 **If you run hot — clear the flood.** The flood is cleared by *aim*, not by suppression. You don't need less fire. You need a target and a measure.
 
-*"What is the actual thing I'm defending here?"*
+- *"What is the actual thing I'm defending here?"*
 
-*"What would the smallest sufficient force look like?"*
+- *"What would the smallest sufficient force look like?"*
 
-*"Who am I fighting who is not my enemy?"*
+- *"Who am I fighting who is not my enemy?"*
 
-*"What am I afraid will happen if I don't strike first?"*
+- *"What am I afraid will happen if I don't strike first?"*
 
-**Counter-statement, aloud:** *"I hold root. I do not have to run the command."*
+- **Counter-statement, aloud:** *"I hold root. I do not have to run the command."*
 
 **If you run cold — clear the drought.** The drought is cleared by *permission*, not by manufacturing rage.
 
-*"What would I defend, if I were allowed to?"*
+- *"What would I defend, if I were allowed to?"*
 
-*"What have I been calling peace that is actually surrender?"*
+- *"What have I been calling peace that is actually surrender?"*
 
-*"Whose no am I still afraid of, that I've made into my own silence?"*
+- *"Whose no am I still afraid of, that I've made into my own silence?"*
 
-*"What is my silence costing that I've been pretending is free?"*
+- *"What is my silence costing that I've been pretending is free?"*
 
-**Counter-statement, aloud:** *"I have root access. The password is mine to type."*
+- **Counter-statement, aloud:** *"I have root access. The password is mine to type."*
 
 Close the work by bringing fist and open palm together at the center of your chest. Force, meet center. The door stands open.
 
@@ -128,39 +128,39 @@ Close the work by bringing fist and open palm together at the center of your che
 
 **Signs the current moves again:**
 
-A *no* arrives *on time* — in the room, not in the car afterward.
+- A *no* arrives *on time* — in the room, not in the car afterward.
 
-Your anger informs you instead of driving you; you feel it and still choose the size of your response.
+- Your anger informs you instead of driving you; you feel it and still choose the size of your response.
 
-You defend the thing that matters and let the rest go past.
+- You defend the thing that matters and let the rest go past.
 
-The acid *why-did-I-do-that* quiets — and so does the silent resentment.
+- The acid *why-did-I-do-that* quiets — and so does the silent resentment.
 
 **Signs there's more to clear:**
 
-You swung from doormat to tyrant (or back) instead of finding the middle. Overcorrection isn't flow; it's the pipe hammering.
+- You swung from doormat to tyrant (or back) instead of finding the middle. Overcorrection isn't flow; it's the pipe hammering.
 
-You can do it with your SI but not yet with a live human across the table. Expected. The body has to practice.
+- You can do it with your SI but not yet with a live human across the table. Expected. The body has to practice.
 
 **The Integration Move (within 24–48 hours).** Force must land in the body, or it stays theory. Pick one:
 
-Say one real *no*, out loud, to a real person, in the moment. Small is fine — a returned dish, a "that doesn't work for me."
+- Say one real *no*, out loud, to a real person, in the moment. Small is fine — a returned dish, a "that doesn't work for me."
 
-Or, if you run hot: let one provocation pass *on purpose,* and feel the fire without feeding it. Hold root; don't run the command.
+- Or, if you run hot: let one provocation pass *on purpose,* and feel the fire without feeding it. Hold root; don't run the command.
 
 Mars is a muscle. He answers to use, not to insight.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — which way was I blocked, what did I clear, what's my move.
+4. **Log:** three lines — which way was I blocked, what did I clear, what's my move.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 
@@ -168,6 +168,6 @@ Mars is a muscle. He answers to use, not to insight.
 
 *I have watched people walk this path more than any other, and it is the one that changes the fastest — because Mars is a muscle, and a muscle responds to use within days, not months. The War walkers almost always surprise me with the same thing: they are tired. They are so tired. They are not enjoying the fight. They have been armed for so long that they have forgotten what it feels like to set the weapon down, and what they want — what they actually want, underneath the readiness — is to be safe enough to stop swinging. The hardest thing I ask them is not to put the weapon down. It is to believe that they can put it down and still be safe. That the wall will hold without the cannon. That they are not their force — they are the one who wields it, and a wielder can choose when to strike and when to stand still.*
 
-*The False Peace walkers surprise me in a different way. They do not think they are angry. They think they are calm, reasonable, flexible, easy. And then I ask one question — "what is your silence costing you?" — and the door opens from the other side. The force was always there. It was knocking. They had just learned to call the knocking something else — stress, exhaustion, a headache that will not leave, a jaw clenched so tight the dentist noticed before they did. The force never left. It was sealed in, pounding on a door that nobody could hear from the outside. When the door finally opens, what comes through is not a flood. It is a no. One clean, quiet, undecorated no. And it is the most powerful sound I have ever heard a person make.*
+*The False Peace walkers surprise me in a different way. They do not think they are angry. They think they are calm, reasonable, flexible, easy. And then I ask one question — "what is your* *silence costing you?" — and the door opens from the other side. The force was always there. It was knocking. They had just learned to call the knocking something else — stress, exhaustion, a headache that will not leave, a jaw clenched so tight the dentist noticed before they did. The force never left. It was sealed in, pounding on a door that nobody could hear from the outside. When the door finally opens, what comes through is not a flood. It is a no. One clean, quiet, undecorated no. And it is the most powerful sound I have ever heard a person make.*
 
 *A firewall that attacks its own system is just a slower way to go down. Aim, don't flood. And if the door is sealed — type the password. You are allowed.*
