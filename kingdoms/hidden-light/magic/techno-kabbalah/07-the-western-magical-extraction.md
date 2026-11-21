@@ -1,6 +1,6 @@
 # The Western Magical Extraction
 
-HOW THE TREE OF LIFE BECAME THE OPERATING SYSTEM OF MAGIC
+**HOW THE TREE OF LIFE BECAME THE OPERATING SYSTEM OF MAGIC**
 
 Everything we have traced so far—the Neoplatonic river, its Christian, Islamic, and Jewish branches—existed within religious frameworks. The practitioners were believers. They were Jews keeping mitzvot, Christians receiving sacraments, and Muslims following sharia. The mystical dimensions of their traditions were embedded in larger structures of faith, community, and practice.
 
@@ -28,15 +28,15 @@ This was the birth of **Christian Cabala**. Pico argued that Kabbalistic magic w
 
 **Johannes Reuchlin** (1455-1522) took Pico's interests and systematized them. His most famous innovation concerns the divine name. The Tetragrammaton—**YHVH**—is the four-letter name of God. Reuchlin inserted the Hebrew letter **SHIN** into the middle, producing **YHShVH**. This spells Yeheshuah—Jesus. The four-letter name becomes five letters—the **Pentagrammaton**. This gave Christian magicians a practical word of power considered the "completed" form of the divine name.
 
-### Cornelius Agrippa: The Encyclopedia Of Magic
+### Cornelius Agrippa: The Encyclopedia of Magic
 
 **Heinrich Cornelius Agrippa** (1486-1535) wrote the **Three Books of Occult Philosophy**, the encyclopedia that organizes all previous magic into a usable system.
 
-**Book One (Natural Magic):** The elements, plants, and animals.
+- **Book One (Natural Magic):** The elements, plants, and animals.
 
-**Book Two (Celestial Magic):** Planets, stars, and numbers.
+- **Book Two (Celestial Magic):** Planets, stars, and numbers.
 
-**Book Three (Ceremonial Magic):** The names of God and hierarchies of angels.
+- **Book Three (Ceremonial Magic):** The names of God and hierarchies of angels.
 
 Agrippa systematized the correspondences: each Sefirah corresponds to a divine name, an archangel, a planet, colors, and numbers. The Tree of Life was now a **universal index**. Agrippa didn't care about the Torah; he wanted the technology.
 
@@ -44,15 +44,15 @@ Agrippa systematized the correspondences: each Sefirah corresponds to a divine n
 
 Parallel to the Renaissance was the grimoire tradition—handbooks for summoning spirits. As the Renaissance progressed, these became increasingly Kabbalized.
 
-### The Key Of Solomon
+### The Key of Solomon
 
 The **Key of Solomon** is a manual for commanding spirits. It includes ritual preparation, magic circles, and pentacles inscribed with Hebrew letters. The logic is that God's names compel angels, who command spirits.
 
-### The Lesser Key Of Solomon (Lemegeton)
+### The Lesser Key of Solomon (lemegeton)
 
 This contains the **Goetia**, a list of 72 demons. Each demon has an angelic counterpart among the 72 names of the **Shemhamphorash**. The angel rules; the demon serves. To work with the shadow, you must first connect with the light. This is the Qlippotic logic central to our work.
 
-### The Book Of Abramelin
+### The Book of Abramelin
 
 This text is about achieving **Knowledge and Conversation of the Holy Guardian Angel (HGA)**. After six to 18 months of purification, the practitioner contacts their HGA. Only then can they bind the demonic kings. You command the shadow because you have achieved theurgic union with your angel.
 
@@ -68,29 +68,29 @@ Founded in 1888, the **Hermetic Order of the Golden Dawn** created the most comp
 
 They organized their initiations around the Sefirot. For example, the 1=10 grade is Malkuth, and the 5=6 grade is Tiphereth.
 
-**Tarot:** The 22 Major Arcana correspond to the 22 paths.
+- **Tarot:** The 22 Major Arcana correspond to the 22 paths.
 
-**Universal Filing System:** If you want to understand any symbol or god, you locate it on the Tree to see its relationships.
+- **Universal Filing System:** If you want to understand any symbol or god, you locate it on the Tree to see its relationships.
 
-**The 5=6 Grade:** This is the center of the system, where the adept begins working toward Knowledge and Conversation of the Holy Guardian Angel.
+- **The 5=6 Grade:** This is the center of the system, where the adept begins working toward Knowledge and Conversation of the Holy Guardian Angel.
 
-### Aleister Crowley And Thelema
+### Aleister Crowley and Thelema
 
 **Aleister Crowley** (1875-1947) is the most notorious magician of the 20th century. In 1904, he received **The Book of the Law**, declaring a new **Aeon of Horus**.
 
-**The Law of Thelema:** "Do what thou wilt shall be the whole of the Law." This means discovering your **True Will**—your authentic purpose.
+- **The Law of Thelema:** "Do what thou wilt shall be the whole of the Law." This means discovering your **True Will**—your authentic purpose.
 
-**The Abyss:** Crowley mapped the **Abyss** between the Supernal Triad and the lower Sefirot. To cross it, one must undergo complete ego death. Everything you think you are must be surrendered.
+- **The Abyss:** Crowley mapped the **Abyss** between the Supernal Triad and the lower Sefirot. To cross it, one must undergo complete ego death. Everything you think you are must be surrendered.
 
 ### Dion Fortune: The Psychological Turn
 
 **Dion Fortune** (1890-1946) is the grandmother of Techno-Kabbalah. She psychologized the Tree. In her book, **The Mystical Qabalah**, the Sefirot are psychological functions.
 
-**Tiphereth:** The integrated self.
+- **Tiphereth:** The integrated self.
 
-**Yesod:** The unconscious.
+- **Yesod:** The unconscious.
 
-**Malkuth:** Physical consciousness.
+- **Malkuth:** Physical consciousness.
 
 Magic for Fortune is about transforming the self. You don't need to believe in literal angels; you need to recognize the forces within consciousness.
 
@@ -98,11 +98,11 @@ Magic for Fortune is about transforming the self. You don't need to believe in l
 
 In the 1970s and 1980s, **Peter Carroll** and **Ray Sherwin** created **Chaos Magic**. Their core insight: **Technique over Belief**. Belief is just a tool. You can use the Tree of Life as a paradigm when it's useful and discard it when it's not.
 
-### The Qlippot And Kenneth Grant
+### The Qlippot and Kenneth Grant
 
 **Kenneth Grant** explored the "nightside" of the Tree—the **Qlippot**. He argued that the shadow represents rejected parts of the psyche that must be integrated. This directly anticipates our shadow work in Techno-Kabbalah.
 
-### The Chaos-Inflected Approach
+### The Chaos-inflected Approach
 
 Now we see where we stand. Techno-Kabbalah inherits the understanding that practice matters, the Tree is a universal filing system, and the soul must undergo integration. We are offering a technology.
 

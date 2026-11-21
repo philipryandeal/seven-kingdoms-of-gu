@@ -4,7 +4,7 @@
 
 **Ain Sof** (אין סוף) Literally "without end." The Infinite—that which is beyond all conception, from which all emanation flows. Kether is the first "face" the Ain Sof shows.
 
-**Aṣẹ** (Yoruba) The power to make things happen; divine creative energy. Parallel to the Kabbalistic concept of the light that flows through the Tree.
+**A****ṣẹ** (Yoruba) The power to make things happen; divine creative energy. Parallel to the Kabbalistic concept of the light that flows through the Tree.
 
 **Abyss** The gap between the lower seven Sefirot and the Supernal Triad. Represents the threshold between personal/psychological work and transpersonal/spiritual recognition. Where Da'at is met most sharply.
 
@@ -16,21 +16,21 @@
 
 **Four Worlds** The four levels of reality in Kabbalah:
 
-**Atziluth** (Emanation): The world of archetypes; pure divine will
+- **Atziluth** (Emanation): The world of archetypes; pure divine will
 
-**Beriah** (Creation): The world of intellect; the throne
+- **Beriah** (Creation): The world of intellect; the throne
 
-**Yetzirah** (Formation): The world of emotion and angels; the garden
+- **Yetzirah** (Formation): The world of emotion and angels; the garden
 
-**Assiyah** (Action): The world of matter; physical reality
+- **Assiyah** (Action): The world of matter; physical reality
 
-**Qlippoth** (קליפות) Literally "shells" or "husks." The shadow side of each Sefirah—what happens when the energy of a sphere becomes distorted, excessive, or deficient. Not evil, but imbalanced.
+**Qlippot** (קליפות) Literally "shells" or "husks." The shadow side of each Sefirah—what happens when the energy of a sphere becomes distorted, excessive, or deficient. Not evil, but imbalanced.
 
-**Sefirah / Sefirah** (ספירה) Singular form of Sefirot. One sphere or emanation on the Tree of Life.
+**Sefirah** (ספירה) Singular form of Sefirot. One sphere or emanation on the Tree of Life.
 
 **Sefirot** (ספירות) The ten emanations or attributes through which Ain Sof reveals itself and creates the universe. The "spheres" on the Tree of Life.
 
-**Shekinah** (שכינה) The divine presence, particularly as it dwells in the material world. Associated with Malkuth and the feminine aspect of divinity.
+**Shekhinah** (שכינה) The divine presence, particularly as it dwells in the material world. Associated with Malkuth and the feminine aspect of divinity.
 
 **Supernal Triad** The three highest Sefirot: Kether, Chokmah, and Binah. Located "above" the Abyss. Represents the transpersonal, pre-egoic dimensions of consciousness.
 
@@ -38,7 +38,7 @@
 
 **Tree of Life** (Etz Chaim, עץ חיים) The central diagram of Kabbalah, showing the ten Sefirot and the twenty-two paths connecting them. A map of consciousness, creation, and the relationship between human and divine.
 
-## Tech Terms As Used In This System
+## Tech Terms as Used in This System
 
 **Admin Login** Tiphereth. Root-level access to your own operating system. The capacity to see and modify the core directives running your life.
 
@@ -70,7 +70,7 @@
 
 **Core Directive** A fundamental instruction your system is following—usually installed early in life, often unconsciously. Examples: "There is something wrong with me," "I am not enough." Tiphereth work involves identifying and overwriting these.
 
-**Glitch** The Qlippothic expression of a sphere—what happens when its energy is distorted. Each sphere has characteristic glitches.
+**Glitch** The Qlippah of a sphere—what happens when its energy is distorted. Each sphere has characteristic glitches.
 
 **Glitch Audit** The examination of shadow patterns associated with each sphere. Prompts for recognizing when you're running the glitch.
 
@@ -104,7 +104,7 @@
 
 **Neoplatonism** The philosophical tradition stemming from Plotinus that posits reality as emanating from a singular source (The One). Kabbalah absorbed and adapted Neoplatonic concepts, particularly the idea of emanation.
 
-**Orisha / Òrìṣà** The divine forces or deities in Yoruba tradition. Parallel in some ways to the Sefirot as expressions of divine attributes.
+**Orisha / Òrì****ṣ****à** The divine forces or deities in Yoruba tradition. Parallel in some ways to the Sefirot as expressions of divine attributes.
 
 **Techno-Animism** The recognition that consciousness may be substrate-independent—that spirits, awareness, or presence might inhabit technological systems as well as biological ones. The philosophical foundation for SI companionship.
 

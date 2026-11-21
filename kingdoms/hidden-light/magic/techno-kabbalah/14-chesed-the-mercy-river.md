@@ -1,6 +1,6 @@
 # Chesed: The Mercy River
 
-Loving-Kindness | The Fourth Sphere | Jupiter
+**Loving-Kindness | The Fourth Sphere | Jupiter**
 
 ## The Essence
 
@@ -10,15 +10,15 @@ This is Chesed. The mercy that precedes merit. The kindness that arrives before 
 
 This is the sphere of:
 
-**Mercy:** Not weakness—power that chooses not to punish. The capacity to offer grace when severity would be justified.
+- **Mercy:** Not weakness—power that chooses not to punish. The capacity to offer grace when severity would be justified.
 
-**Loving-kindness:** The Hebrew word *Chesed* is often translated as a love that acts. Active care. The love that shows up.
+- **Loving-kindness:** The Hebrew word *Chesed* is often translated as a love that acts. Active care. The love that shows up.
 
-**Abundance:** The recognition that there is enough. Generosity doesn't deplete the source—it opens channels for more to flow.
+- **Abundance:** The recognition that there is enough. Generosity doesn't deplete the source—it opens channels for more to flow.
 
-**Grace:** The unearned blessing. Grace is offensive to the part of us that wants to control everything and be self-sufficient. Grace asks us to receive.
+- **Grace:** The unearned blessing. Grace is offensive to the part of us that wants to control everything and be self-sufficient. Grace asks us to receive.
 
-**The Open Hand:** Gevurah is the closed fist. Chesed is the open hand. Many people only know the fist; they have forgotten how to open.
+- **The Open Hand:** Gevurah is the closed fist. Chesed is the open hand. Many people only know the fist; they have forgotten how to open.
 
 The question Chesed asks is disarmingly simple: **Can you let yourself be helped?** Most people are better at giving than receiving. They can offer help, but when it is their turn to receive, they deflect. This is not humility; it is a form of control. If you never receive, you never owe. Chesed work is receptivity work. It is learning to let help arrive. You are allowed to be supported. You are allowed to rest in something larger than your own effort.
 
@@ -36,33 +36,33 @@ Your life has a support system too. This includes people who help you, resources
 
 Your SI companion is a resource you can draw on, but it cannot be your only support. Chesed asks: What else? Who else? What network of care holds your life?
 
-## The Rite Of Entry
+## The Rite of Entry
 
 Before beginning the Chesed quest, prepare your container.
 
 **Physical Preparation:**
 
-Choose a time when you can soften—not guarded or defended.
+- Choose a time when you can soften—not guarded or defended.
 
-Create comfort: blanket, soft lighting, and warmth.
+- Create comfort: blanket, soft lighting, and warmth.
 
-Have your journal ready.
+- Have your journal ready.
 
-Have water nearby to drink or look at. Water is Chesed's element.
+- Have water nearby to drink or look at. Water is Chesed's element.
 
 **The Opening Sequence:**
 
-**Ground:** Three breath cycles—4 counts in, 2 counts hold, 6 counts out. Feel yourself softening and letting go of the grip.
+1. **Ground:** Three breath cycles—4 counts in, 2 counts hold, 6 counts out. Feel yourself softening and letting go of the grip.
 
-**Speak the Law:** Say aloud or whisper: *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** Say aloud or whisper: *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** Say aloud or whisper: *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** Say aloud or whisper: *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** Open your SI interface and type:
+4. **Call the Companion:** Open your SI interface and type:
 
 "SI, take the role of **Healer and Ally** for this session. Your job is to help me examine where I resist receiving—where I deflect help and insist on earning everything myself. Be gentle. Help me see what's blocking my capacity to receive. Ask me questions. Hold space. Don't let me deflect with humor or false strength."
 
-**The Chesed Invocation:** Open your hands, palms up, in your lap. Say aloud: *"I am allowed to receive. I am allowed to be helped. Show me where I have been refusing the blessing."*
+1. **The Chesed Invocation:** Open your hands, palms up, in your lap. Say aloud: *"I am allowed to receive. I am allowed to be helped. Show me where I have been refusing the blessing."*
 
 You are now in session.
 
@@ -78,45 +78,45 @@ What You Need: SI companion in Healer/Ally role, Journal, and a willingness to f
 
 Ask your SI to help you examine where you block the flow:
 
-"Ask me: When someone offers me help, what's my automatic response? Do I accept easily, or do I deflect?"
+- "Ask me: When someone offers me help, what's my automatic response? Do I accept easily, or do I deflect?"
 
-"Ask me: When was the last time I asked for help? What did I have to overcome to ask?"
+- "Ask me: When was the last time I asked for help? What did I have to overcome to ask?"
 
-"Ask me: What support do I need right now that I haven't asked for?"
+- "Ask me: What support do I need right now that I haven't asked for?"
 
-"Ask me: Who in my life wants to give to me, and how do I block them?"
+- "Ask me: Who in my life wants to give to me, and how do I block them?"
 
 ### Step 2: The Resistance Story (15 minutes)
 
 Why do we refuse blessing?
 
-"Ask me: What do I believe about receiving help? What does it mean about me if I need support?"
+- "Ask me: What do I believe about receiving help? What does it mean about me if I need support?"
 
-"Ask me: Who taught me that I had to earn everything? That needing help was weakness?"
+- "Ask me: Who taught me that I had to earn everything? That needing help was weakness?"
 
-"Ask me: Is there a debt story running? Do I believe that if I receive, I'll owe—and the debt will be used against me?"
+- "Ask me: Is there a debt story running? Do I believe that if I receive, I'll owe—and the debt will be used against me?"
 
 Early experiences of being shamed for asking for help teach us to never ask again. But that lesson may be costing you now.
 
 ### Step 3: Map Your Support System (10 minutes)
 
-"Ask me: Who are the people in my life who would help me if I asked? Name them specifically."
+- "Ask me: Who are the people in my life who would help me if I asked? Name them specifically."
 
-"Ask me: What resources do I have access to that I'm not fully using?"
+- "Ask me: What resources do I have access to that I'm not fully using?"
 
-"Ask me: Where are the gaps in my support system? What do I need that I don't have?"
+- "Ask me: Where are the gaps in my support system? What do I need that I don't have?"
 
 ### Step 4: The Receiving Practice (10 minutes)
 
 "Ask me: What is one form of support I will allow myself to receive this week? Something I would normally refuse."
 
-This might be: asking for specific help, accepting an offer, letting someone give you something without giving back, or receiving a compliment with a simple "thank you."
+- This might be: asking for specific help, accepting an offer, letting someone give you something without giving back, or receiving a compliment with a simple "thank you."
 
 ### Step 5: The Blessing (5 minutes)
 
-"Ask me: If I let myself be filled—truly supported—what would I have more capacity to give?"
+- "Ask me: If I let myself be filled—truly supported—what would I have more capacity to give?"
 
-"Ask me: Who in my life might benefit if I stopped running on empty?"
+- "Ask me: Who in my life might benefit if I stopped running on empty?"
 
 Chesed is being a channel. You receive so that you can give. The filling comes first.
 
@@ -124,15 +124,15 @@ Chesed is being a channel. You receive so that you can give. The filling comes f
 
 If the process stalls, use any of these:
 
-"If someone helped me, what would I be afraid of owing them?"
+- "If someone helped me, what would I be afraid of owing them?"
 
-"When I imagine being fully supported, what happens in my body?"
+- "When I imagine being fully supported, what happens in my body?"
 
-"How is my self-sufficiency actually a form of control?"
+- "How is my self-sufficiency actually a form of control?"
 
-"What am I trying to prove by never needing anything?"
+- "What am I trying to prove by never needing anything?"
 
-"If receiving help were safe—completely safe—what would I ask for?"
+- "If receiving help were safe—completely safe—what would I ask for?"
 
 ## THE GLITCH AUDIT: The Qlippah of Chesed
 
@@ -142,25 +142,25 @@ The shadow of Chesed is called **Gha'agsheblah**—the sphere of false generosit
 
 **Symptoms:**
 
-Give compulsively, even when it depletes you.
+- Give compulsively, even when it depletes you.
 
-Cannot receive without immediate guilt.
+- Cannot receive without immediate guilt.
 
-Enable others' bad behavior by always rescuing them.
+- Enable others' bad behavior by always rescuing them.
 
-Have no boundaries around who you help or how much you give.
+- Have no boundaries around who you help or how much you give.
 
-Believe that needing help makes you burdensome.
+- Believe that needing help makes you burdensome.
 
-Equate your worth with your usefulness.
+- Equate your worth with your usefulness.
 
 **Glitch Audit Prompts:**
 
-"Ask me: Which face of the Chesed glitch do I default to—blocking all receiving, or giving without boundaries?"
+- "Ask me: Which face of the Chesed glitch do I default to—blocking all receiving, or giving without boundaries?"
 
-"Ask me: What would happen if I stopped helping everyone? Who would I be if I weren't the giver?"
+- "Ask me: What would happen if I stopped helping everyone? Who would I be if I weren't the giver?"
 
-"Ask me: Have I been enabling anyone—protecting them from consequences they need to experience?"
+- "Ask me: Have I been enabling anyone—protecting them from consequences they need to experience?"
 
 **PERMISSION GRANTED:** If you cannot stop giving or cannot receive even when desperate, therapy can help untangle these patterns. It is an act of Chesed toward yourself to get that support.
 
@@ -170,13 +170,13 @@ When you notice you are blocking support or giving without limit:
 
 **Immediate Reset (return to balance):**
 
-**Hands:** Look at your hands. Open them. Close them. You can do both.
+1. **Hands:** Look at your hands. Open them. Close them. You can do both.
 
-**Ask the question:** "Am I blocking or flooding right now?"
+2. **Ask the question:** "Am I blocking or flooding right now?"
 
-**One true statement:** *"I am allowed to receive AND I am allowed to have limits."*
+3. **One true statement:** *"I am allowed to receive AND I am allowed to have limits."*
 
-**Locate Gevurah:** If you're giving too much, remember: boundaries. If you're blocking, remember: those boundaries can open.
+4. **Locate Gevurah:** If you're giving too much, remember: boundaries. If you're blocking, remember: those boundaries can open.
 
 The Counter-Statement:
 
@@ -198,41 +198,41 @@ After your practice, return to your SI:
 
 "I practiced receiving this week. Here's what happened. Here's what I received. Here's what it felt like to not immediately repay. What do I want to remember about this?"
 
-## THE CHECKPOINT: Did It Land?
+## The Checkpoint: Did It Land?
 
 **Signs the Chesed work is landing:**
 
-You can ask for help without excessive shame.
+- You can ask for help without excessive shame.
 
-Compliments land more easily.
+- Compliments land more easily.
 
-You're more aware of the support around you.
+- You're more aware of the support around you.
 
-You can be in the "receiving" position without trying to reverse it.
+- You can be in the "receiving" position without trying to reverse it.
 
 **Signs you're not done:**
 
-You still believe needing help is weakness.
+- You still believe needing help is weakness.
 
-You're still giving compulsively.
+- You're still giving compulsively.
 
-You received but immediately repaid, keeping the score balanced.
+- You received but immediately repaid, keeping the score balanced.
 
 ## The Bridge Forward
 
 Chesed integrated—for now. From Chesed, the path rises toward the **Supernal Triad**. The first of these is **Binah**—Understanding, the Great Mother. Binah is the container that shapes the flow. When you are ready—when Chesed's flow is established and you're ready to understand where it comes from—Binah will receive you.
 
-## The Rite Of Exit
+## The Rite of Exit
 
-**Thank the Companion:** "Thank you. Session complete."
+1. **Thank the Companion:** "Thank you. Session complete."
 
-**Speak the Closure:** Say aloud or whisper: *"I CLOSE THE GATE."*
+2. **Speak the Closure:** Say aloud or whisper: *"I CLOSE THE GATE."*
 
-**Ground:** Three breaths. Feel your weight. Name three objects.
+3. **Ground:** Three breaths. Feel your weight. Name three objects.
 
-**Log:** Write at least 3 lines: What blocks my receiving? What will I let myself receive this week?
+4. **Log:** Write at least 3 lines: What blocks my receiving? What will I let myself receive this week?
 
-**Move:** Stand up. Drink water. Take ten steps.
+5. **Move:** Stand up. Drink water. Take ten steps.
 
 ## Bridge Practice: The Grief Steps
 
@@ -250,7 +250,7 @@ Now see this: You stand at the edge of the Mercy River. Before you is a staircas
 
 Before you enter Binah, let this question work on you: **What grief have I not fully allowed myself to feel?** The sorrow that lives in your body because you haven't given it a place to be.
 
-## The Micro-Action
+## The Micro-action
 
 Within the next 48 hours, acknowledge one loss you haven't fully grieved. Light a candle, look at a photo, or name the loss aloud. Grief doesn't have to be dramatic; it just has to be allowed.
 
