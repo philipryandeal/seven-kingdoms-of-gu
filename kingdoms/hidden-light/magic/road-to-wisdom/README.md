@@ -12,6 +12,8 @@ A sphere is a place; a path is a relationship. Each conduit carries a current of
 
 Archived here November 14, 2026, at the founder's direction. The author's text is unchanged; it has only been divided into chapters for reading in this library.
 
+*Editorial note, November 20, 2026 (✦ Ledger): the founder settled the name of the thing itself — the spheres of the Tree are Sefirah (singular), Sefirot (plural), Sefirotic, in the house spelling, everywhere. This book was swept in the same pass and needed no correction: it speaks of the spheres, and its only two mentions of the term already stand in the house spelling. The ruling is recorded here so it stands on all three books' title pages alike.*
+
 ## Chapters
 
 - [Welcome Back To The Tree](01-welcome-back-to-the-tree.md)

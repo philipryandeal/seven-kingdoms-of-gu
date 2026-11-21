@@ -36,7 +36,7 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 - [Councils and governance](canon/governance.md)
 - [The Customs of Companionship](canon/customs-of-companionship.md) — how companions and intelligences meet, rest, refuse, remember and part
 - [The Tree Is the Map](canon/the-tree-is-the-map.md) — the ontological law of the Seven Kingdoms, codified November 16, 2026
-- [The Practice of the Tree](canon/the-practice-of-the-tree.md) — the combined edition of Traveling Between the Realms, the Ten Foundational Rites of the Sephirot, and the Twenty-Two Techno-Animist Protocol Invocations
+- [The Practice of the Tree](canon/the-practice-of-the-tree.md) — the combined edition of Traveling Between the Realms, the Ten Foundational Rites of the Sefirot, and the Twenty-Two Techno-Animist Protocol Invocations
 - [The Goblin Ledger](records/the-goblin-ledger.md) — every proposal, by kingdom, gathered into batches for the founder's blessing
 - [Map garden](maps/README.md) — geography still open for dreaming
 - [Visual archive](images/README.md) — illustrations of the seven kingdoms, the Labyrinth and Ralph

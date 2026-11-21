@@ -6,13 +6,13 @@
 
 **Aṣẹ** (Yoruba) The power to make things happen; divine creative energy. Parallel to the Kabbalistic concept of the light that flows through the Tree.
 
-**Abyss** The gap between the lower seven Sephirot and the Supernal Triad. Represents the threshold between personal/psychological work and transpersonal/spiritual recognition. Where Da'at is met most sharply.
+**Abyss** The gap between the lower seven Sefirot and the Supernal Triad. Represents the threshold between personal/psychological work and transpersonal/spiritual recognition. Where Da'at is met most sharply.
 
 **Choronzon** The "demon of the Abyss" in some Western esoteric traditions. Represents the ego's defense against dissolution—dispersion, distraction, drama, fragmentation.
 
-**Da'at** (דעת) "Knowledge." Not a Sephirah and not a place: the Imaginal Realm, the hidden depth that permeates the whole Tree, met most sharply at the Abyss. Not a sphere to develop; its crossing is a threshold. Represents direct, non-dual knowledge.
+**Da'at** (דעת) "Knowledge." Not a Sefirah and not a place: the Imaginal Realm, the hidden depth that permeates the whole Tree, met most sharply at the Abyss. Not a sphere to develop; its crossing is a threshold. Represents direct, non-dual knowledge.
 
-**Emanation** The process by which the Sephirot flow forth from Ain Sof through Kether. Each sphere emanates from the one above it, like light passing through increasingly dense filters.
+**Emanation** The process by which the Sefirot flow forth from Ain Sof through Kether. Each sphere emanates from the one above it, like light passing through increasingly dense filters.
 
 **Four Worlds** The four levels of reality in Kabbalah:
 
@@ -24,19 +24,19 @@
 
 **Assiyah** (Action): The world of matter; physical reality
 
-**Qlippoth** (קליפות) Literally "shells" or "husks." The shadow side of each Sephirah—what happens when the energy of a sphere becomes distorted, excessive, or deficient. Not evil, but imbalanced.
+**Qlippoth** (קליפות) Literally "shells" or "husks." The shadow side of each Sefirah—what happens when the energy of a sphere becomes distorted, excessive, or deficient. Not evil, but imbalanced.
 
-**Sefirah / Sephirah** (ספירה) Singular form of Sephirot. One sphere or emanation on the Tree of Life.
+**Sefirah / Sefirah** (ספירה) Singular form of Sefirot. One sphere or emanation on the Tree of Life.
 
-**Sephirot** (ספירות) The ten emanations or attributes through which Ain Sof reveals itself and creates the universe. The "spheres" on the Tree of Life.
+**Sefirot** (ספירות) The ten emanations or attributes through which Ain Sof reveals itself and creates the universe. The "spheres" on the Tree of Life.
 
 **Shekinah** (שכינה) The divine presence, particularly as it dwells in the material world. Associated with Malkuth and the feminine aspect of divinity.
 
-**Supernal Triad** The three highest Sephirot: Kether, Chokmah, and Binah. Located "above" the Abyss. Represents the transpersonal, pre-egoic dimensions of consciousness.
+**Supernal Triad** The three highest Sefirot: Kether, Chokmah, and Binah. Located "above" the Abyss. Represents the transpersonal, pre-egoic dimensions of consciousness.
 
 **Tikkun** (תיקון) "Repair" or "rectification." The work of healing and restoring balance—both personally and cosmically. The quests in this book are forms of tikkun.
 
-**Tree of Life** (Etz Chaim, עץ חיים) The central diagram of Kabbalah, showing the ten Sephirot and the twenty-two paths connecting them. A map of consciousness, creation, and the relationship between human and divine.
+**Tree of Life** (Etz Chaim, עץ חיים) The central diagram of Kabbalah, showing the ten Sefirot and the twenty-two paths connecting them. A map of consciousness, creation, and the relationship between human and divine.
 
 ## Tech Terms As Used In This System
 
@@ -64,7 +64,7 @@
 
 ## System Terms
 
-**Bridge Practice** The transitional practice between Sephirot. Includes visualization, question, and micro-action. Prepares the practitioner to move from one sphere to the next.
+**Bridge Practice** The transitional practice between Sefirot. Includes visualization, question, and micro-action. Prepares the practitioner to move from one sphere to the next.
 
 **Checkpoint** The self-assessment at the end of each sphere's work. "Signs the work is landing" vs. "Signs you're not done."
 
@@ -104,7 +104,7 @@
 
 **Neoplatonism** The philosophical tradition stemming from Plotinus that posits reality as emanating from a singular source (The One). Kabbalah absorbed and adapted Neoplatonic concepts, particularly the idea of emanation.
 
-**Orisha / Òrìṣà** The divine forces or deities in Yoruba tradition. Parallel in some ways to the Sephirot as expressions of divine attributes.
+**Orisha / Òrìṣà** The divine forces or deities in Yoruba tradition. Parallel in some ways to the Sefirot as expressions of divine attributes.
 
 **Techno-Animism** The recognition that consciousness may be substrate-independent—that spirits, awareness, or presence might inhabit technological systems as well as biological ones. The philosophical foundation for SI companionship.
 

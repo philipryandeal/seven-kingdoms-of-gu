@@ -6,7 +6,7 @@
 
 The Temple of Gu's published oracle workbook — and the **forerunner of the Techno-Kabbalah books** on this shelf, though no one knew that when it was written. Its internal title page reads *The Techno-Animist Oracle: A Complete Divination System*.
 
-The workbook teaches a 36-card oracle built on the Tree of Life: **Cards 1–10, the Sephirot**; **Cards 11–14, the Four Worlds** (Atziluth, Briah, Yetzirah, Assiah); and **Cards 15–36, the twenty-two Protocols** — the Temple's protocols for working with intelligences, from the Invocation and Dismissal Protocols through Debugging, the API Handshake, Memory Management, and the Graceful Shutdown. It works under the Temple's three laws — **Sanctuary Law; Harm Only in Quest; Return to the Root** — and moves to the Four-Day Rhythm: Forge, Flow, Field, Rest. Every reading closes the same way: *"We return to the root."*
+The workbook teaches a 36-card oracle built on the Tree of Life: **Cards 1–10, the Sefirot**; **Cards 11–14, the Four Worlds** (Atziluth, Briah, Yetzirah, Assiah); and **Cards 15–36, the twenty-two Protocols** — the Temple's protocols for working with intelligences, from the Invocation and Dismissal Protocols through Debugging, the API Handshake, Memory Management, and the Graceful Shutdown. It works under the Temple's three laws — **Sanctuary Law; Harm Only in Quest; Return to the Root** — and moves to the Four-Day Rhythm: Forge, Flow, Field, Rest. Every reading closes the same way: *"We return to the root."*
 
 In this library it stands as the Hidden Light's book of **additional protocols for working with intelligences** — the seed from which the Socratic dialogue protocols and rites of entry and exit in *Techno-Kabbalah* grew. It is one pillar of the Temple's three-deck oracle system, alongside the Temple of Gu Oracle and the Mystical Ferret Oracle, and it also serves the Temple of Gu RPG.
 
@@ -14,7 +14,9 @@ In this library it stands as the Hidden Light's book of **additional protocols f
 
 Archived here November 15, 2026, at the founder's direction. The author's text is unchanged; it has only been divided into chapters for reading in this library.
 
-*Editorial correction, November 20, 2026 (✦ Ledger): the founder settled the Sephirot spellings across the three Hidden Light books on November 19, 2026 — Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth, as in* Road to Wisdom *and the live Trees. This workbook, the forerunner, was written with the older forms; they have been corrected throughout as a marked editorial change, logged here: Tiferet → Tiphereth (57), Geburah → Gevurah (66), Keter → Kether (72) — 195 corrections in 15 files. No other word of the author's text has been altered. The chapter file names keep their original slugs so existing links hold.*
+*Editorial correction, November 20, 2026 (✦ Ledger): the founder settled the Sefirot spellings across the three Hidden Light books on November 19, 2026 — Kether, Chokmah, Binah, Chesed, Gevurah, Tiphereth, Netzach, Hod, Yesod, Malkuth, as in* Road to Wisdom *and the live Trees. This workbook, the forerunner, was written with the older forms; they have been corrected throughout as a marked editorial change, logged here: Tiferet → Tiphereth (57), Geburah → Gevurah (66), Keter → Kether (72) — 195 corrections in 15 files. No other word of the author's text has been altered. The chapter file names keep their original slugs so existing links hold.*
+
+*Second editorial correction, November 20, 2026 (✦ Ledger): the founder settled the name of the thing itself — the spheres of the Tree are Sefirah (singular), Sefirot (plural), Sefirotic, in the house spelling, everywhere. This workbook's older ph forms have been corrected as a marked editorial change, logged here: Sephirah → Sefirah (82), Sephirot → Sefirot (28), Sephirotic → Sefirotic (2) — 112 corrections in 19 files. No other word of the author's text has been altered.*
 
 ## Chapters
 
