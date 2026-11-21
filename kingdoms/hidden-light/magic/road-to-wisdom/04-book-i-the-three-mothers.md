@@ -1,6 +1,6 @@
 # Book I — The Three Mothers
 
-*The Elemental Ordeals*
+**The Elemental Ordeals**
 
 You are about to walk into the three oldest forces on the Tree.
 

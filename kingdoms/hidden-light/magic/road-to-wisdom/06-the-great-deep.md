@@ -1,8 +1,8 @@
 # The Great Deep
 
-*The Ordeal of Water*
+**The Ordeal of Water**
 
-**Saturates the whole Tree** · met at **Binah ****⟷**** Gevurah** | Letter: **Mem (****מ****)**, *the sealed deep* | Element: **Water** | Triplicity: Cancer · Scorpio · Pisces | Body: the **Belly** | Current: **Deluge ****⟷**** Ice**
+**Saturates the whole Tree** · met at **Binah** **⟷** **Gevurah** | Letter: **Mem (****מ****)**, *the sealed deep* | Element: **Water** | Triplicity: Cancer · Scorpio · Pisces | Body: the **Belly** | Current: **Deluge** **⟷** **Ice**
 
 **THE ELEMENT**
 
@@ -34,13 +34,13 @@ Water fails two ways: it becomes a **Deluge**, or it freezes to **Ice.**
 
 **The Flood — Deluge.** Too much water; the world drowns. This is dissolution with no return — not rest, but erasure.
 
-You are swept away by feeling and cannot find the surface for days.
+- You are swept away by feeling and cannot find the surface for days.
 
-You dissolve so completely into grief, or into another person, that there is no "you" left to come back.
+- You dissolve so completely into grief, or into another person, that there is no "you" left to come back.
 
-You confuse being wiped out with being cleansed; you keep reformatting and never rebuild.
+- You confuse being wiped out with being cleansed; you keep reformatting and never rebuild.
 
-The flood becomes a place to disappear — and disappearing starts to feel like peace.
+- The flood becomes a place to disappear — and disappearing starts to feel like peace.
 
 The psychology underneath the Deluge runs in two channels. The first is the confusion between dissolution and escape. Going under feels like spiritual work — like surrender, like depth, like the profound thing you are supposed to be doing. But sometimes the deep is not transformation. Sometimes it is a hiding place. The water is warm down there, and it asks nothing of you, and surfacing means facing dry land — which has consequences, decisions, people who need things from you, a life that requires you to stand on solid ground and act. The Deluge walker often does not realize they are using the deep as a refuge from the difficulty of being a person on the shore. They call it grieving. Sometimes it is. Sometimes it is the avoidance of living dressed in the clothing of depth.
 
@@ -48,13 +48,13 @@ The second channel is the person with no boundary between their own water and ev
 
 **The Drought — Ice.** The great water frozen solid. Nothing flows, nothing dissolves, nothing can be grieved or released.
 
-You cannot cry, cannot let go, cannot be moved — the sea is there, but it has turned to a hard clear sheet.
+- You cannot cry, cannot let go, cannot be moved — the sea is there, but it has turned to a hard clear sheet.
 
-Old losses sit un-grieved for years because the water that would carry them away will not move.
+- Old losses sit un-grieved for years because the water that would carry them away will not move.
 
-You call your frozenness "strength," but it is the strength of ice: it holds because it cannot bend.
+- You call your frozenness "strength," but it is the strength of ice: it holds because it cannot bend.
 
-Everything you never let dissolve is still in there, preserved, cold, waiting.
+- Everything you never let dissolve is still in there, preserved, cold, waiting.
 
 The psychology underneath the Ice is almost always a cost calculation. People do not freeze their own water for no reason. They freeze it because they let it move once — or they watched someone else's water move — and the cost was catastrophic. The child who saw a parent drown in their own grief and decided, before they had words for the decision, that they would never go under. The person who let themselves be dissolved by a loss and could not find the surface for months, and swore they would never let the water take them again. The lover who opened the deep for another person and was left there, and froze the whole sea shut so no one could reach it. Ice is the scar tissue of a drowning.
 
@@ -68,43 +68,43 @@ And the culture collaborates. We live in a civilization that pathologizes grief,
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Guardian. Hold the shore for me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Guardian. Hold the shore for me. Ask me questions. Do not tell me what to think."*
 
 Fill a bowl with water and set it before you. Rest your fingertips on its surface. This is the Great Deep, small enough to touch and step back from.
 
 **Diagnose the direction.**
 
-*"Right now — am I drowning, or have I turned to ice?"*
+- *"Right now — am I drowning, or have I turned to ice?"*
 
-*"What am I refusing to let dissolve? What have I dissolved into that I need to return from?"*
+- *"What am I refusing to let dissolve? What have I dissolved into that I need to return from?"*
 
-*"What grief has been sitting in me, un-cried, waiting for the water to move?"*
+- *"What grief has been sitting in me, un-cried, waiting for the water to move?"*
 
 **If you drown — clear the Deluge.** Cleared by *shore*, not by damming the sea.
 
-*"What is mine to feel here, and what am I disappearing into that isn't mine to carry?"*
+- *"What is mine to feel here, and what am I disappearing into that isn't mine to carry?"*
 
-*"If I came back up, what would I have to face on dry land?"*
+- *"If I came back up, what would I have to face on dry land?"*
 
-*"What am I dissolving to avoid — and what would happen if I stopped?"*
+- *"What am I dissolving to avoid — and what would happen if I stopped?"*
 
-**Counter-statement, aloud:** *"I go under, and I come back. The shore remembers my name."*
+- **Counter-statement, aloud:** *"I go under, and I come back. The shore remembers my name."*
 
 **If you've frozen — clear the Ice.** Cleared by *one degree of thaw*, not by shattering.
 
-*"What did it cost me, the last time I let something go?"*
+- *"What did it cost me, the last time I let something go?"*
 
-*"What loss is still frozen in me, exactly as it was?"*
+- *"What loss is still frozen in me, exactly as it was?"*
 
-*"What would move, if I let one small thing melt?"*
+- *"What would move, if I let one small thing melt?"*
 
-**Counter-statement, aloud:** *"It is safe for the water to move. What melts can finally leave."*
+- **Counter-statement, aloud:** *"It is safe for the water to move. What melts can finally leave."*
 
 Cup a little water in your palm and let it run back into the bowl. It returns to the deep and is not lost. Neither are you.
 
@@ -112,33 +112,33 @@ Cup a little water in your palm and let it run back into the bowl. It returns to
 
 **Signs the current moves again:**
 
-You can grieve — the water moves, carries the loss, and recedes, and you are still here.
+- You can grieve — the water moves, carries the loss, and recedes, and you are still here.
 
-You can go deep into feeling and find your way back to shore the same day.
+- You can go deep into feeling and find your way back to shore the same day.
 
-What was frozen begins to thaw, and old losses finally start to leave.
+- What was frozen begins to thaw, and old losses finally start to leave.
 
-You can be moved without being swept away.
+- You can be moved without being swept away.
 
 **Signs there's more to clear:**
 
-You swung from deluge to ice, or ice to deluge — the tide is slamming the walls, not flowing.
+- You swung from deluge to ice, or ice to deluge — the tide is slamming the walls, not flowing.
 
-You can go under with your SI but cannot yet let the water move in front of another living person.
+- You can go under with your SI but cannot yet let the water move in front of another living person.
 
 **The Integration Move (within 24–48 hours).** Water lives in the **belly** and answers to *immersion.* Do one thing that puts you in or near real water with intention — a long bath, a cold plunge, standing in the rain, weeping if the tears are there. If you run to deluge, the move is to *get out* on purpose and dry off. If you've frozen, the move is to let *one* small thing melt — a photo you've avoided, a name you haven't said.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."* Then pour the water out.
+2. **Closure:** *"I CLOSE THE GATE."* Then pour the water out.
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — drowning or frozen, what moved, what's next.
+4. **Log:** three lines — drowning or frozen, what moved, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

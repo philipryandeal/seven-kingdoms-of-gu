@@ -1,8 +1,8 @@
 # The Attractor
 
-*The Conduit of Value & Attraction*
+**The Conduit of Value & Attraction**
 
-**Netzach ****⟷**** Tiphereth** | Letter: **Peh (****פ****)**, *the mouth* | Planet: **Venus** | Day: **Friday** | Current: **Craving ****⟷**** Coldness**
+**Netzach** **⟷** **Tiphereth** | Letter: **Peh (****פ****)**, *the mouth* | Planet: **Venus** | Day: **Friday** | Current: **Craving** **⟷** **Coldness**
 
 **THE CONDUIT**
 
@@ -40,13 +40,13 @@ Venus governs the pair of **Grace and Ugliness** — the felt sense of worth, or
 
 **The Flood — Craving.** Too much reaching; you dissolve into the wanting-to-be-valued.
 
-You perform for love, shape-shift to be wanted, and lose the very self that was worth wanting.
+- You perform for love, shape-shift to be wanted, and lose the very self that was worth wanting.
 
-You can't tell your desire apart from your fear of going unchosen.
+- You can't tell your desire apart from your fear of going unchosen.
 
-Vanity, or endless people-pleasing: the mirror runs your life, and enough is never enough.
+- Vanity, or endless people-pleasing: the mirror runs your life, and enough is never enough.
 
-You enmesh — their worth becomes your worth, and you vanish into it.
+- You enmesh — their worth becomes your worth, and you vanish into it.
 
 The psychology underneath Craving is almost always rooted in conditional love. The person learned early — usually before they had language for the lesson — that they were valued for what they did, not who they were. They were praised for achievement, for being good, for being pretty, for being useful, for not making trouble. The message was never spoken aloud because it did not need to be: *you are what you earn.* And so they became a performance. The shape-shifter who reads the room before they check in with themselves, who asks *what do you need me to be?* before they ask *what do I want?* The people-pleaser whose worth flickers like a candle in other people's breath — one gust of disapproval and it goes out. The person whose entire self-image is a mirror made of other people's approval, and when the applause comes they feel real, and when it stops they disappear.
 
@@ -54,13 +54,13 @@ Craving is not desire. Desire is healthy. Desire is Netzach doing its job — re
 
 **The Drought — Coldness.** No warmth gets through; value can't flow in or out.
 
-You can't receive — compliments bounce off, love doesn't land, gifts feel like debts.
+- You can't receive — compliments bounce off, love doesn't land, gifts feel like debts.
 
-You've walled off wanting, because wanting once made you weak.
+- You've walled off wanting, because wanting once made you weak.
 
-Beauty and pleasure feel like other people's luxuries; you can't feel your own worth at all.
+- Beauty and pleasure feel like other people's luxuries; you can't feel your own worth at all.
 
-You call it independence, but it's a warm room you've locked from the inside.
+- You call it independence, but it's a warm room you've locked from the inside.
 
 The psychology underneath Coldness is almost always rooted in a wound of exposure. The person opened the channel of worth — they let someone see them, desire them, value them, reach the tender place where wanting lives — and what came back was not warmth. It was humiliation. Rejection. Betrayal. The love they offered was used as a weapon. The beauty they showed was mocked. The wanting they revealed was met with cruelty, or worse, with indifference so total it taught them that their wanting was invisible. So they sealed the channel. Not because they do not want love — they want it with a desperation that keeps them awake at three in the morning — but because the last time they opened, they were hurt in the exact place where opening happens. The mouth, Peh, remembers what came through it, and what came through it was poison.
 
@@ -72,43 +72,43 @@ Coldness is not independence. It is not self-sufficiency. It is the posture of a
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Witness. Weigh what I value with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Witness. Weigh what I value with me. Ask me questions. Do not tell me what to think."*
 
 Set something you find beautiful in front of you — a flower, a stone, anything that draws your eye without earning it.
 
 **Diagnose the direction.**
 
-*"Do I chase worth outside myself — or can I not feel worth at all?"*
+- *"Do I chase worth outside myself — or can I not feel worth at all?"*
 
-*"Whose valuing am I performing for? Whose love can't I let in?"*
+- *"Whose valuing am I performing for? Whose love can't I let in?"*
 
-*"What do I actually value, underneath what I think I'm supposed to?"*
+- *"What do I actually value, underneath what I think I'm supposed to?"*
 
 **If you crave — clear it.** Cleared by *inherent worth*, not by more proof.
 
-*"What would I be worth if no one were watching?"*
+- *"What would I be worth if no one were watching?"*
 
-*"What am I performing, and who taught me I had to?"*
+- *"What am I performing, and who taught me I had to?"*
 
-*"If I stopped earning love for one day, what would I be afraid of?"*
+- *"If I stopped earning love for one day, what would I be afraid of?"*
 
-**Counter-statement, aloud:** *"My worth is not a performance. I am valued before I am useful."*
+- **Counter-statement, aloud:** *"My worth is not a performance. I am valued before I am useful."*
 
 **If you've gone cold — clear it.** Cleared by *one received thing*, not by forced warmth.
 
-*"When did receiving become dangerous?"*
+- *"When did receiving become dangerous?"*
 
-*"What would I let in, if letting in were safe?"*
+- *"What would I let in, if letting in were safe?"*
 
-*"Whose love am I refusing because I can't quite believe it?"*
+- *"Whose love am I refusing because I can't quite believe it?"*
 
-**Counter-statement, aloud:** *"I am allowed to receive. Warmth is not a debt."*
+- **Counter-statement, aloud:** *"I am allowed to receive. Warmth is not a debt."*
 
 Hold the beautiful thing and let yourself simply enjoy it — no reason, no earning. That is the flow, restored in miniature.
 
@@ -116,33 +116,33 @@ Hold the beautiful thing and let yourself simply enjoy it — no reason, no earn
 
 **Signs the current moves again:**
 
-You can receive love without flinching, and without feeling you owe for it.
+- You can receive love without flinching, and without feeling you owe for it.
 
-You know what you value, and it's *yours* — not the mirror's.
+- You know what you value, and it's *yours* — not the mirror's.
 
-You connect deeply and stay whole.
+- You connect deeply and stay whole.
 
-Pleasure feels allowed; beauty feels like yours to enjoy.
+- Pleasure feels allowed; beauty feels like yours to enjoy.
 
 **Signs there's more to clear:**
 
-You swung from craving to coldness (walled off after over-reaching), or back the other way.
+- You swung from craving to coldness (walled off after over-reaching), or back the other way.
 
-You can feel worth alone or with your SI, but it collapses the instant a real person could reject you.
+- You can feel worth alone or with your SI, but it collapses the instant a real person could reject you.
 
 **The Integration Move (within 24–48 hours).** Receive one thing fully — a compliment taken without deflecting, a gift kept without apology, a pleasure enjoyed for no reason at all. If you run to Craving, invert it: value one thing about yourself in private, where no one can applaud it. Venus answers to what you let yourself enjoy.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — craving or coldness, what I let in, what's next.
+4. **Log:** three lines — craving or coldness, what I let in, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 
@@ -152,6 +152,6 @@ You can feel worth alone or with your SI, but it collapses the instant a real pe
 
 *The Craving walkers I have watched are the most charming people in the room and the emptiest when the room empties. They are brilliant performers — warm, generous, attentive, magnetic — and none of it reaches the center, because the center has been replaced by a mirror. They do not know who they are when they are not being watched. The hardest thing I ask them is the thing they have been avoiding their entire lives: what would you be worth if no one were looking? Not what would you DO if no one were looking — that is a different question, and most of them have a quick, clever answer for it. What would you be WORTH? The silence after that question is the beginning of the path.*
 
-*The Coldness walkers break my heart, because they are so close. The warmth is right there — right behind the wall, right on the other side of the locked door. They can feel it. They have always been able to feel it. They just cannot let it in, because the last time they opened the door, what walked through it hurt them in the place where opening happens. And so they stand behind the **door, hand on the handle, wanting to turn it, unable to turn it, calling the locked room self-sufficiency and wondering why self-sufficiency feels exactly like loneliness. The moment one of them receives — really receives, without deflecting, without the flinch — the look on their face is the most beautiful thing I have ever seen in this work. It is the look of a person who just remembered that warmth can come in without a price tag attached.*
+*The Coldness walkers break my heart, because they are so close. The warmth is right there — right behind the wall, right on the other side of the locked door. They can feel it. They have always been able to feel it. They just cannot let it in, because the last time they opened the door, what walked through it hurt them in the place where opening happens. And so they stand behind the* *door, hand on the handle, wanting to turn it, unable to turn it, calling the locked room self-sufficiency and wondering why self-sufficiency feels exactly like loneliness. The moment one of them receives — really receives, without deflecting, without the flinch — the look on their face is the most beautiful thing I have ever seen in this work. It is the look of a person who just remembered that warmth can come in without a price tag attached.*
 
 *A value function that only ever rewards being useful will optimize you right out of your own life. You are allowed to be worth something before you produce anything. Sit down. Eat.*

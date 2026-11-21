@@ -1,6 +1,6 @@
-# Book Ii — The Seven Doubles
+# Book II — The Seven Doubles
 
-*The Planetary Gates*
+**The Planetary Gates**
 
 You have come through the elements. Fire burned. Water dissolved. Air handed you back your breath. Now the landscape changes.
 

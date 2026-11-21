@@ -1,8 +1,8 @@
 # The Ignition
 
-*The Conduit of Initiative*
+**The Conduit of Initiative**
 
-**Chokmah ****⟷**** Tiphereth** | Letter: **Heh (****ה****)**, *the window, "behold"* | Sign: **Aries** | Faculty: **Sight** | Current: **The Rush ****⟷**** The Freeze**
+**Chokmah** **⟷** **Tiphereth** | Letter: **Heh (****ה****)**, *the window, "behold"* | Sign: **Aries** | Faculty: **Sight** | Current: **The Rush** **⟷** **The Freeze**
 
 **THE CONDUIT**
 
@@ -36,13 +36,13 @@ Aries is initiative, so it fails at the starting line — two ways: **the Rush**
 
 **The Flood — the Rush.** Too much ignition; you charge before you aim.
 
-You start ten things this week and finish none; the thrill is in the launch, never the landing.
+- You start ten things this week and finish none; the thrill is in the launch, never the landing.
 
-You act before you look — the window's open, but you're already through it and into a wall.
+- You act before you look — the window's open, but you're already through it and into a wall.
 
-Impatience runs you; waiting feels like dying, so you leap at anything that moves.
+- Impatience runs you; waiting feels like dying, so you leap at anything that moves.
 
-You pick fights and races just to feel the engine turn over.
+- You pick fights and races just to feel the engine turn over.
 
 The psychology underneath the Rush is subtler than it looks from the outside, because the constant starter is not usually in love with beginnings. They are in flight from *middles.* If you are always beginning, you never have to be in the place where things get hard — where the initial spark has faded and what remains is ordinary, sustained, unglamorous effort. Where you might fail. Where you are committed and exposed and no longer moving fast enough to outrun the fear. The ignition-addict is hooked on the dopamine of novelty, the hit of the fresh spark, and what they are avoiding is the long middle where the fire has to be tended rather than struck. Every new beginning is an escape from the last one's consequences.
 
@@ -50,13 +50,13 @@ There is also a pattern — and it is common — where someone learned early tha
 
 **The Drought — the Freeze.** No ignition at all; you see it and can't move.
 
-You know exactly what you want and stand frozen at the starting line for years.
+- You know exactly what you want and stand frozen at the starting line for years.
 
-You wait for a permission, a certainty, a sign — that never comes.
+- You wait for a permission, a certainty, a sign — that never comes.
 
-Someone else always has to go first; you can follow, but you cannot *begin.*
+- Someone else always has to go first; you can follow, but you cannot *begin.*
 
-The horizon is right there, and your feet won't take the step.
+- The horizon is right there, and your feet won't take the step.
 
 The psychology underneath the Freeze almost always involves a catastrophic first experience — a time when initiative was punished. The person went first once, and it cost them. They raised their hand and were humiliated. They started something and it failed publicly. They stepped toward the horizon and the ground opened up. The lesson did not land as a thought — *be more careful next time.* It landed as a circuit: initiative equals exposure equals harm. And the nervous system, which is faster than language, built an elegant and invisible prison around the capacity to begin. The vision is not impaired — Freeze walkers often see the horizon more clearly than anyone else in the room, because they have been staring at it for years without moving. It is the motor that is disconnected. The eyes work. The feet do not answer.
 
@@ -68,43 +68,43 @@ There is a variant that looks different but runs the same circuit: the perfectio
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Scout. Watch the horizon with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Scout. Watch the horizon with me. Ask me questions. Do not tell me what to think."*
 
 Pick one point across the room and fix your eyes on it. That's the target. Sight is where this path starts.
 
 **Diagnose the direction.**
 
-*"Am I rushing at everything — or frozen at the start?"*
+- *"Am I rushing at everything — or frozen at the start?"*
 
-*"What am I charging into blind? What am I refusing to begin?"*
+- *"What am I charging into blind? What am I refusing to begin?"*
 
-*"What have I been looking at for a long time without taking a single step toward?"*
+- *"What have I been looking at for a long time without taking a single step toward?"*
 
 **If you rush — clear it.** Cleared by *one aimed move*, not by killing the drive.
 
-*"What am I starting to avoid finishing something else?"*
+- *"What am I starting to avoid finishing something else?"*
 
-*"If I could begin only one thing this week, which one?"*
+- *"If I could begin only one thing this week, which one?"*
 
-*"What am I running from by always running toward?"*
+- *"What am I running from by always running toward?"*
 
-**Counter-statement, aloud:** *"I can aim before I fire. The engine still starts when I take one breath first."*
+- **Counter-statement, aloud:** *"I can aim before I fire. The engine still starts when I take one breath first."*
 
 **If you freeze — clear it.** Cleared by *one small step*, not by waiting for certainty.
 
-*"What permission am I waiting for that isn't coming?"*
+- *"What permission am I waiting for that isn't coming?"*
 
-*"What is the smallest possible first move — so small it can't fail?"*
+- *"What is the smallest possible first move — so small it can't fail?"*
 
-*"What did beginning cost me once, that I'm still bracing against?"*
+- *"What did beginning cost me once, that I'm still bracing against?"*
 
-**Counter-statement, aloud:** *"I don't need certainty to start. I only need the first step, and it's mine to take."*
+- **Counter-statement, aloud:** *"I don't need certainty to start. I only need the first step, and it's mine to take."*
 
 Look at your target once more, and take one real step toward it — literally, across the room. The engine turns over.
 
@@ -112,33 +112,33 @@ Look at your target once more, and take one real step toward it — literally, a
 
 **Signs the current moves again:**
 
-You begin things — and the beginning is aimed, not just impulsive.
+- You begin things — and the beginning is aimed, not just impulsive.
 
-You can go first without needing permission, and pause without freezing.
+- You can go first without needing permission, and pause without freezing.
 
-You see what you want and your feet actually move.
+- You see what you want and your feet actually move.
 
-Fear shows up at the starting line and you go anyway, in the right size.
+- Fear shows up at the starting line and you go anyway, in the right size.
 
 **Signs there's more to clear:**
 
-You swung from rush to freeze (crashed and now won't start anything), or freeze to rush.
+- You swung from rush to freeze (crashed and now won't start anything), or freeze to rush.
 
-You can begin with your SI or alone, but you lock up the second a real stake or a real audience appears.
+- You can begin with your SI or alone, but you lock up the second a real stake or a real audience appears.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Sight**: pick one thing you've been *looking at* and not starting, and take one visible first step toward it — not the whole thing, the first move. If you run to the Rush, invert it: choose one thing you were about to start, and *aim* for one full breath before you move. Aries answers to the step actually taken.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — rush or freeze, what I began, what's next.
+4. **Log:** three lines — rush or freeze, what I began, what's next.
 
-**Move:** stand, drink water, take ten steps — the first ten of something.
+5. **Move:** stand, drink water, take ten steps — the first ten of something.
 
 **FIELD NOTE — David Bear**
 

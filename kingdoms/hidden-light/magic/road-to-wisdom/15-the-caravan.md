@@ -1,8 +1,8 @@
 # The Caravan
 
-*The Conduit of Abundance*
+**The Conduit of Abundance**
 
-**Chesed ****⟷**** Netzach** | Letter: **Gimel (****ג****)**, *the camel that carries* | Planet: **Jupiter** | Day: **Thursday** | Current: **The Glut ****⟷**** The Famine**
+**Chesed** **⟷** **Netzach** | Letter: **Gimel (****ג****)**, *the camel that carries* | Planet: **Jupiter** | Day: **Thursday** | Current: **The Glut** **⟷** **The Famine**
 
 **THE CONDUIT**
 
@@ -40,13 +40,13 @@ Jupiter governs the pair of **Wealth and Poverty.** The conduit fails two ways: 
 
 **The Flood — the Glut.** Too much expansion; growth with no form, plenty with no floor.
 
-You over-promise, over-commit, over-extend, and can't deliver the abundance you announced.
+- You over-promise, over-commit, over-extend, and can't deliver the abundance you announced.
 
-Excess in everything — more is always the answer, and it's never enough.
+- Excess in everything — more is always the answer, and it's never enough.
 
-Faith untethered from reality: you bet the harvest on a spring that hasn't come.
+- Faith untethered from reality: you bet the harvest on a spring that hasn't come.
 
-Dogmatism, know-it-all bloat, a balloon expanding toward the pop.
+- Dogmatism, know-it-all bloat, a balloon expanding toward the pop.
 
 The psychology underneath the Glut runs in two channels. The first is the person who uses expansion as a drug. Growth feels like victory. More feels like proof. The next project, the next venture, the next commitment, the next enthusiastic yes — each one is a hit of Jupiter, a rush of possibility, and they are addicted to the rush. They over-promise because the promising feels good — the moment of saying "yes, I'll do that, I'll be there, I'll build that" is electric, and it costs nothing in the moment. They over-commit because commitment feels like faith — each new obligation is evidence that the universe is saying yes to them, that they are blessed, that more is always coming. They over-extend because extension feels like meaning — if you are expanding, you are alive; if you are growing, you matter.
 
@@ -56,13 +56,13 @@ The second channel is the person who expands to avoid the inner desert. Jupiter 
 
 **The Drought — the Famine.** No expansion at all; the road to plenty closed.
 
-Scarcity runs everything: never enough, never safe, never spare.
+- Scarcity runs everything: never enough, never safe, never spare.
 
-You can't give, can't grow, can't believe more is possible; the fist stays closed.
+- You can't give, can't grow, can't believe more is possible; the fist stays closed.
 
-No faith, no meaning, no horizon — the world shrinks to what you can grip.
+- No faith, no meaning, no horizon — the world shrinks to what you can grip.
 
-You hoard the little you have and call it prudence, and it starves you anyway.
+- You hoard the little you have and call it prudence, and it starves you anyway.
 
 The psychology underneath the Famine is almost always a wound of broken faith. The person trusted. They trusted in a person, a promise, a career, a vision of the future — they loaded the camel, they set out across the desert, they walked toward the oasis they believed was there. And it was not there. The harvest did not come. The spring dried up. The relationship that was supposed to hold collapsed. The career that was supposed to expand contracted. The faith that was supposed to carry them across left them standing in the sand with nothing.
 
@@ -76,43 +76,43 @@ And there is a deeper version of the Famine that is worth naming: the person who
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Muse. Scan the horizon with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Muse. Scan the horizon with me. Ask me questions. Do not tell me what to think."*
 
 Set something that represents plenty in front of you — a coin, a handful of seeds, a piece of fruit. Enough, made small enough to hold.
 
 **Diagnose the direction.**
 
-*"Am I bloating past what I can carry — or starving in the middle of enough?"*
+- *"Am I bloating past what I can carry — or starving in the middle of enough?"*
 
-*"Where am I over-promising? Where am I refusing to grow?"*
+- *"Where am I over-promising? Where am I refusing to grow?"*
 
-*"Do I believe there's more coming — or am I gripping like there isn't?"*
+- *"Do I believe there's more coming — or am I gripping like there isn't?"*
 
 **If you glut — clear it.** Cleared by *a floor*, not by cutting off growth.
 
-*"What am I expanding to avoid feeling? What am I outrunning?"*
+- *"What am I expanding to avoid feeling? What am I outrunning?"*
 
-*"What could I actually carry across the desert — and what am I loading past that?"*
+- *"What could I actually carry across the desert — and what am I loading past that?"*
 
-*"Where am I mistaking 'more' for 'better'?"*
+- *"Where am I mistaking 'more' for 'better'?"*
 
-**Counter-statement, aloud:** *"I grow at the size my foundation can carry. Enough is a real amount."*
+- **Counter-statement, aloud:** *"I grow at the size my foundation can carry. Enough is a real amount."*
 
 **If you famine — clear it.** Cleared by *one open hand*, not by forcing faith.
 
-*"When did I decide there would never be enough?"*
+- *"When did I decide there would never be enough?"*
 
-*"What could I give away right now without actually going short?"*
+- *"What could I give away right now without actually going short?"*
 
-*"What would I reach for, if I trusted the river to keep coming?"*
+- *"What would I reach for, if I trusted the river to keep coming?"*
 
-**Counter-statement, aloud:** *"There is more coming. I can open the hand and let it move through."*
+- **Counter-statement, aloud:** *"There is more coming. I can open the hand and let it move through."*
 
 Hold the coin, the seed, the fruit — then set it down, given, not gripped. Abundance is a thing that travels.
 
@@ -120,33 +120,33 @@ Hold the coin, the seed, the fruit — then set it down, given, not gripped. Abu
 
 **Signs the current moves again:**
 
-You give freely and don't feel emptied.
+- You give freely and don't feel emptied.
 
-You grow toward big things without losing your footing or your shape.
+- You grow toward big things without losing your footing or your shape.
 
-Faith returns — there's a horizon again, and meaning in the distance.
+- Faith returns — there's a horizon again, and meaning in the distance.
 
-"Enough" becomes a felt amount, not a fear at either end.
+- "Enough" becomes a felt amount, not a fear at either end.
 
 **Signs there's more to clear:**
 
-You swung from glut to famine (crashed after over-expanding), or famine to glut.
+- You swung from glut to famine (crashed after over-expanding), or famine to glut.
 
-You can trust the flow with your SI or alone, but the fist closes the moment a real risk appears.
+- You can trust the flow with your SI or alone, but the fist closes the moment a real risk appears.
 
 **The Integration Move (within 24–48 hours).** Give one real thing away without going short — money, time, help, credit — and feel that the river keeps coming. If you run to the Glut, invert it: set one clear limit on something you were about to over-expand, and feel that enough is enough. Jupiter answers to what you trust to keep flowing.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — glut or famine, what I let flow, what's next.
+4. **Log:** three lines — glut or famine, what I let flow, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

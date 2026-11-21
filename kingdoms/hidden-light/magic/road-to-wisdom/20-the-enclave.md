@@ -1,8 +1,8 @@
 # The Enclave
 
-*The Conduit of Home & Nurture*
+**The Conduit of Home & Nurture**
 
-**Binah ****⟷**** Tiphereth** | Letter: **Cheth (****ח****)**, *the fence, the enclosure* | Sign: **Cancer** | Faculty: **Speech** | Current: **The Smother ****⟷**** The Armor**
+**Binah** **⟷** **Tiphereth** | Letter: **Cheth (****ח****)**, *the fence, the enclosure* | Sign: **Cancer** | Faculty: **Speech** | Current: **The Smother** **⟷** **The Armor**
 
 **THE CONDUIT**
 
@@ -38,13 +38,13 @@ Cancer is home, so it fails at the shell — two ways: **the Smother**, or **the
 
 **The Flood — the Smother.** Too much shell; you protect and nurture until you engulf.
 
-You care so hard you take people over; your help is a cage with soft walls.
+- You care so hard you take people over; your help is a cage with soft walls.
 
-You cling — to people, to the past, to who someone used to be — and can't let anything grow away from you.
+- You cling — to people, to the past, to who someone used to be — and can't let anything grow away from you.
 
-You drown in feeling and nostalgia; the old wound is always fresh because you keep it fed.
+- You drown in feeling and nostalgia; the old wound is always fresh because you keep it fed.
 
-You make yourself the martyr-mother and call the engulfing "love."
+- You make yourself the martyr-mother and call the engulfing "love."
 
 The psychology underneath the Smother is almost never what it looks like from the outside. The smothering caretaker is almost never someone who was held too much. They are almost always someone who was not held *enough* — who experienced the absence of nurture at a foundational level and vowed, in a place deeper than language, to make sure no one else ever feels that absence. But because they are filling their own hole by filling someone else's, the giving never reaches a natural limit. They cannot tell when enough is enough because they themselves have never experienced enough. The caring becomes compulsive, anxious, gripping — not because they love too much but because they are trying to be the mother they needed, and the mother they needed would have been infinite, and so they try to be infinite, and the infinity suffocates everything it touches. They do not know they are doing it. From the inside, it feels like love. From the outside, it looks like a vine.
 
@@ -52,13 +52,13 @@ There is also a pattern that runs alongside this, and it is among the most heart
 
 **The Drought — the Armor.** No soft inside; the shell has hardened all the way through.
 
-You can't nurture or be nurtured; care bounces off you in both directions.
+- You can't nurture or be nurtured; care bounces off you in both directions.
 
-You have no home, no belonging — armored, self-sufficient, and quietly starving for it.
+- You have no home, no belonging — armored, self-sufficient, and quietly starving for it.
 
-You can't say the tender true things; the home-words won't come, so no one gets in.
+- You can't say the tender true things; the home-words won't come, so no one gets in.
 
-You call the wall "independence," but it's a fortress with no one living inside.
+- You call the wall "independence," but it's a fortress with no one living inside.
 
 The psychology underneath the Armor almost always begins with softness punished. The person showed their tender interior once — the need, the fear, the love, the small voice saying *hold me* — and it was used against them. Someone they trusted took the soft thing they offered and crushed it, or ignored it so completely that the offering felt like dying, or stored it as a weapon and brought it back out later to control them. So the shell that was supposed to be a fence — permeable, defining, alive — thickened into a wall. And then a fortress. And then something so dense that nothing enters and nothing exits and the person inside calls it strength and independence and not needing anyone. They call it that because the alternative — admitting that the soft thing is still there, still wanting, still pressing against the inside of the wall — is more than they can bear.
 
@@ -72,43 +72,43 @@ And there is a variant that lives at the intersection of Cancer and its faculty:
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Keeper. Tend the walls with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Keeper. Tend the walls with me. Ask me questions. Do not tell me what to think."*
 
 Wrap a blanket or your own arms around yourself and feel the enclosure. This is the shell, made safe and small.
 
 **Diagnose the direction.**
 
-*"Am I smothering — or armored?"*
+- *"Am I smothering — or armored?"*
 
-*"Where am I engulfing what I love? Where have I sealed myself off from care?"*
+- *"Where am I engulfing what I love? Where have I sealed myself off from care?"*
 
-*"What tender true thing have I not been able to say — or not been able to hear?"*
+- *"What tender true thing have I not been able to say — or not been able to hear?"*
 
 **If you smother — clear it.** Cleared by *one loosened grip*, not by stopping caring.
 
-*"Where is my care actually a cage?"*
+- *"Where is my care actually a cage?"*
 
-*"What am I holding on to because I'm afraid of being left?"*
+- *"What am I holding on to because I'm afraid of being left?"*
 
-*"What would grow, if I let it grow away from me?"*
+- *"What would grow, if I let it grow away from me?"*
 
-**Counter-statement, aloud:** *"I can shelter what I love without trapping it. Love has an open door."*
+- **Counter-statement, aloud:** *"I can shelter what I love without trapping it. Love has an open door."*
 
 **If you're armored — clear it.** Cleared by *one soft word*, not by forcing openness.
 
-*"When did letting someone in become dangerous?"*
+- *"When did letting someone in become dangerous?"*
 
-*"What tender thing have I never let myself say out loud?"*
+- *"What tender thing have I never let myself say out loud?"*
 
-*"Who would I let in, if it were safe?"*
+- *"Who would I let in, if it were safe?"*
 
-**Counter-statement, aloud:** *"There is a soft place in here, and it's allowed to be known."*
+- **Counter-statement, aloud:** *"There is a soft place in here, and it's allowed to be known."*
 
 Say one true, tender thing out loud — even just to yourself, even just the walls. The home-words move again.
 
@@ -116,33 +116,33 @@ Say one true, tender thing out loud — even just to yourself, even just the wal
 
 **Signs the current moves again:**
 
-You nurture without engulfing, and protect without sealing off.
+- You nurture without engulfing, and protect without sealing off.
 
-You can receive care and let it land instead of bouncing it away.
+- You can receive care and let it land instead of bouncing it away.
 
-You have a soft inside *and* a wise edge — a home, not a cage or a fortress.
+- You have a soft inside *and* a wise edge — a home, not a cage or a fortress.
 
-The tender true words come when they need to.
+- The tender true words come when they need to.
 
 **Signs there's more to clear:**
 
-You swung from smother to armor (walled up after being engulfing), or armor to smother.
+- You swung from smother to armor (walled up after being engulfing), or armor to smother.
 
-You can be tender with your SI or alone, but the shell hardens the second a real person could hurt you.
+- You can be tender with your SI or alone, but the shell hardens the second a real person could hurt you.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Speech**: say one true, tender thing out loud to one real person — an *I love you*, an *I'm scared*, an *I need*, a *thank you* that costs something. If you run to the Smother, invert it: let one person you'd normally hover over do a thing *their* way, and say nothing. Cancer answers to the home-word actually spoken.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — smother or armor, what I said or softened, what's next.
+4. **Log:** three lines — smother or armor, what I said or softened, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

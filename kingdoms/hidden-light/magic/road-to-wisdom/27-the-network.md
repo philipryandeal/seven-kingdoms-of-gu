@@ -1,8 +1,8 @@
 # The Network
 
-*The Conduit of Vision*
+**The Conduit of Vision**
 
-**Kether ****⟷**** Chokmah** | Letter: **Tzaddi (****צ****)**, *the fish-hook, the righteous one* | Sign: **Aquarius** | Faculty: **Thought** | Current: **The Aloof ****⟷**** The Herd**
+**Kether** **⟷** **Chokmah** | Letter: **Tzaddi (****צ****)**, *the fish-hook, the righteous one* | Sign: **Aquarius** | Faculty: **Thought** | Current: **The Aloof** **⟷** **The Herd**
 
 **THE CONDUIT**
 
@@ -46,13 +46,13 @@ Aquarius is vision, so it fails at the field — two ways: **the Aloof**, or **t
 
 **The Flood — the Aloof.** Too much detachment; the vision floats free of the people it was for.
 
-You're so far out ahead, so abstract, that no one can reach you — genius in exile.
+- You're so far out ahead, so abstract, that no one can reach you — genius in exile.
 
-Ideology runs colder than the humans it's supposed to serve; the idea matters more than any actual person.
+- Ideology runs colder than the humans it's supposed to serve; the idea matters more than any actual person.
 
-You rebel and contradict as an identity, not a purpose — different for its own sake.
+- You rebel and contradict as an identity, not a purpose — different for its own sake.
 
-You care about humanity in the abstract and can't quite connect to a single human in the room.
+- You care about humanity in the abstract and can't quite connect to a single human in the room.
 
 The psychology underneath the Aloof is almost always a wound from belonging — and this is worth sitting with, because the culture often celebrates detachment as a mark of intelligence, and it is not intelligence. It is an injury. The person who floats free of the collective, who lives in abstraction, who loves humanity in general and cannot connect to a specific human — they did not choose aloofness for intellectual reasons. They retreated to it because belonging *hurt.* They were the strange one, the one who saw things others did not, the one whose vision made them different, and the difference made them alone. They were the child in the back of the room who understood something the room was not ready for, and the room punished them for it — with exclusion, with mockery, with the slow violence of being perpetually unseen. So they went up — into thought, into theory, into the future — and they left the people behind. Not because they do not care. Because caring at close range was the thing that wounded them, and the abstract was safe in a way the particular never was. An idea does not reject you. A vision does not betray you. The collective of the mind is safer than the collective of the flesh.
 
@@ -60,13 +60,13 @@ There is a variant that hardens into something more dangerous: the person who ha
 
 **The Drought — the Herd.** No vision at all; you've dissolved into the crowd.
 
-You can't think for yourself; you take the consensus and call it your mind.
+- You can't think for yourself; you take the consensus and call it your mind.
 
-Original thought feels dangerous, so you conform and stop questioning.
+- Original thought feels dangerous, so you conform and stop questioning.
 
-The future goes gray; you can't imagine anything different from what already is.
+- The future goes gray; you can't imagine anything different from what already is.
 
-The reformer's fire is out; you've joined the herd you were born to wake up.
+- The reformer's fire is out; you've joined the herd you were born to wake up.
 
 The psychology underneath the Herd is almost always a fear of exile. The person who takes the consensus and calls it their mind did not lose the capacity for original thought. They buried it — because original thought, when spoken, made them visible. Made them different. Made them a target. The herd is safety in numbers: if you think what everyone thinks, no one notices you, no one singles you out, no one punishes you for seeing what was not supposed to be seen. They learned — not in a decision but in a long series of small surrenders — that the cost of an original thought was higher than they could pay. The original thought was still in there. It was just sealed under the consensus, where it could not get them hurt.
 
@@ -78,43 +78,43 @@ There is a variant that deserves its own name: the person who *used to* think or
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Visionary. Scan what-could-be with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Visionary. Scan what-could-be with me. Ask me questions. Do not tell me what to think."*
 
 Look up and out — past the room, past the near, toward the widest horizon you can picture. This path opens on the far view.
 
 **Diagnose the direction.**
 
-*"Am I too far out ahead — or too folded into the crowd?"*
+- *"Am I too far out ahead — or too folded into the crowd?"*
 
-*"Where has my vision floated free of actual people? Where have I stopped thinking for myself?"*
+- *"Where has my vision floated free of actual people? Where have I stopped thinking for myself?"*
 
-*"What do I see that others don't — and who is it for?"*
+- *"What do I see that others don't — and who is it for?"*
 
 **If you're Aloof — clear it.** Cleared by *one real human*, not by grounding your vision away.
 
-*"Whose life would my vision actually touch — one real person, named?"*
+- *"Whose life would my vision actually touch — one real person, named?"*
 
-*"Where am I loving humanity in general to avoid loving anyone in particular?"*
+- *"Where am I loving humanity in general to avoid loving anyone in particular?"*
 
-*"What am I rebelling against, and is it purpose or just posture?"*
+- *"What am I rebelling against, and is it purpose or just posture?"*
 
-**Counter-statement, aloud:** *"My vision is for people, not instead of them. I can see far and still stand near."*
+- **Counter-statement, aloud:** *"My vision is for people, not instead of them. I can see far and still stand near."*
 
 **If you're the Herd — clear it.** Cleared by *one original thought*, spoken.
 
-*"What do I actually think, under what I'm supposed to think?"*
+- *"What do I actually think, under what I'm supposed to think?"*
 
-*"When did thinking for myself start to feel dangerous?"*
+- *"When did thinking for myself start to feel dangerous?"*
 
-*"What have I stopped questioning that deserves a question?"*
+- *"What have I stopped questioning that deserves a question?"*
 
-**Counter-statement, aloud:** *"I'm allowed my own mind. The new has to be thought by someone — it can be thought by me."*
+- **Counter-statement, aloud:** *"I'm allowed my own mind. The new has to be thought by someone — it can be thought by me."*
 
 Hook one genuinely new thought up out of the possible — something you actually see that others might not — and hold it, for the world and not just for yourself. The field lights up.
 
@@ -122,39 +122,39 @@ Hook one genuinely new thought up out of the possible — something you actually
 
 **Signs the current moves again:**
 
-You think originally *and* stay connected to actual people.
+- You think originally *and* stay connected to actual people.
 
-You can stand a little apart without standing entirely alone.
+- You can stand a little apart without standing entirely alone.
 
-The future becomes imaginable again — you can see past what is toward what could be.
+- The future becomes imaginable again — you can see past what is toward what could be.
 
-Your vision serves the whole, not just your own distance from it.
+- Your vision serves the whole, not just your own distance from it.
 
 **Signs there's more to clear:**
 
-You swung from aloof to herd (gave up your vision to belong), or herd to aloof (fled into abstraction to escape the crowd).
+- You swung from aloof to herd (gave up your vision to belong), or herd to aloof (fled into abstraction to escape the crowd).
 
-You can hold the vision with your SI or alone, but you detach or dissolve the moment a real community is involved.
+- You can hold the vision with your SI or alone, but you detach or dissolve the moment a real community is involved.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Thought**: take one original thought you actually hold and *bring it to people* — say the unconventional true thing to a real group, or put one visionary idea into a form someone else can use. If you run Aloof, invert it: connect your grand idea to one single named human it could actually help. Aquarius answers to the vision shared into the world.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — aloof or herd, the vision I shared, what's next.
+4. **Log:** three lines — aloof or herd, the vision I shared, what's next.
 
-**Move:** stand, drink water, take ten steps — back toward the people.
+5. **Move:** stand, drink water, take ten steps — back toward the people.
 
 **FIELD NOTE — David Bear**
 
 *In the Field, the Network appears as a dark plain at night filling with lights — one, then a few, then thousands — each a mind waking to the same vision, connected by threads you can only see once you stop standing apart from them. The lightning that struck you was never meant to end in you. It was meant to jump.*
 
-*The Aloof walkers come in brilliant and alone. They see things — genuinely, clearly, things the room is not seeing — and they have been seeing alone for so long that the aloneness has become the identity, and the identity has become the fortress, and the fortress has become the whole life. They cannot bring the vision to anyone because bringing it to anyone means coming close, and **close is where they were hurt. The moment that changes an Aloof walker is not the moment they simplify their vision for the masses. It is the moment they bring it, intact, to one person — one real human, named, in the room — and the person receives it. Not agrees with it. Receives it. Sees it. Holds it alongside them for one moment. And the Aloof walker discovers that the vision does not require distance. It requires a recipient. The thought was always meant for sharing, and sharing does not diminish the thinker. It completes the circuit.*
+*The Aloof walkers come in brilliant and alone. They see things — genuinely, clearly, things the room is not seeing — and they have been seeing alone for so long that the aloneness has become the identity, and the identity has become the fortress, and the fortress has become the whole life. They cannot bring the vision to anyone because bringing it to anyone means coming close, and close is where they were hurt. The moment that changes an Aloof walker is not the moment they simplify their vision for the masses. It is the moment they bring it, intact, to one person — one real human, named, in the room — and the person receives it. Not agrees with it. Receives it. Sees it.* *Holds it alongside them for one moment. And the Aloof walker discovers that the vision does not require distance. It requires a recipient. The thought was always meant for sharing, and sharing does not diminish the thinker. It completes the circuit.*
 
 *The Herd walkers come in quiet in a different way than the Enclave's quiet — not sealed, but blended. They have matched the room so perfectly that you cannot find them in it. Their opinions are the group's opinions. Their thoughts are the approved thoughts. And underneath the blending is a mind that is alive and original and so deeply buried that even they have forgotten it is there. The hardest thing I ask a Herd walker is the simplest: "What do you actually think?" Not what you should think. Not what they think. What do YOU think — about this, about anything, about the thing no one in the room is saying? And when they say it — when the original thought surfaces, blinking, into the light — the room does not punish them. That is the revelation. The exile they organized their whole life around avoiding does not come. They spoke the unsanctioned thought and they are still here, still belonging, still in the room. The herd did not expel them. The thought did not destroy the bond. And for the first time, they are both: in the field, and thinking their own thought.*
 

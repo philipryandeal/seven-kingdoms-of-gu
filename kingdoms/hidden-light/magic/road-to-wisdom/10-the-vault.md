@@ -1,8 +1,8 @@
 # The Vault
 
-*The Conduit of Structure & Time*
+**The Conduit of Structure & Time**
 
-**Chokmah ****⟷**** Chesed** | Letter: **Bet (****ב****)**, *the house* | Planet: **Saturn** | Day: **Saturday** | Current: **Prison ****⟷**** Ruin**
+**Chokmah** **⟷** **Chesed** | Letter: **Bet (****ב****)**, *the house* | Planet: **Saturn** | Day: **Saturday** | Current: **Prison** **⟷** **Ruin**
 
 **THE CONDUIT**
 
@@ -38,13 +38,13 @@ Saturn governs the ancient pair of **Servitude and Dominion** — bondage to str
 
 **The Flood — Prison.** Too much structure; the walls close in until there is no room left to live.
 
-Rigidity: one right way, and any deviation reads as a threat.
+- Rigidity: one right way, and any deviation reads as a threat.
 
-You confuse control with safety and cannot rest unless everything is locked down.
+- You confuse control with safety and cannot rest unless everything is locked down.
 
-Despair: the walls are so high you can't imagine over them; time feels like a sentence, not a gift.
+- Despair: the walls are so high you can't imagine over them; time feels like a sentence, not a gift.
 
-You keep the rules so faithfully you've forgotten what they were ever protecting.
+- You keep the rules so faithfully you've forgotten what they were ever protecting.
 
 The psychology underneath the Prison almost always begins with chaos. People do not over-structure for no reason. They build the Prison because they grew up in a house with no predictability — no schedule kept, no promise honored, no adult whose word could be trusted. The floor could shift at any moment. Anything could happen and often did. And so they built the walls themselves — not as a choice but as a survival response. If I control everything, nothing can surprise me. If I hold every rule, nothing can go wrong. If I build the routine tight enough, the chaos cannot reach me. The walls were raised from the inside by a child who was terrified of disorder, and the adult lives within them calling it responsibility, calling it discipline, calling it having their life together. They cannot tell the difference between a load-bearing wall and a wall made of fear, because when they were young, every wall was the only thing standing between them and the flood.
 
@@ -52,13 +52,13 @@ And at the far edge of the Prison is Saturn's darkest face: despair. Not ordinar
 
 **The Drought — Ruin.** No structure at all; the walls have fallen and nothing holds.
 
-You start everything and finish nothing — no follow-through, no foundation.
+- You start everything and finish nothing — no follow-through, no foundation.
 
-Commitments dissolve; time runs straight through your hands.
+- Commitments dissolve; time runs straight through your hands.
 
-No boundary, so everyone's needs flood in and none of your own ever get built.
+- No boundary, so everyone's needs flood in and none of your own ever get built.
 
-You call it freedom, but it's a house with no walls, standing in the rain.
+- You call it freedom, but it's a house with no walls, standing in the rain.
 
 The psychology underneath the Ruin runs in two channels. The first is the person who was over-structured by someone else — controlled, micromanaged, imprisoned by another person's Saturn — and reacted by tearing down every wall they could reach. They associate all structure with oppression. Every commitment feels like a cage. Every schedule reminds them of the old regime. They cannot build anything without hearing the door lock behind them. Freedom became pathological: not the freedom to create but the freedom to never be contained, which means nothing they start ever becomes anything, no one can count on them for longer than the current mood lasts, and the life they are living — for all its openness — is a ruin of half-finished beginnings scattered across a field with no fence around it.
 
@@ -72,43 +72,43 @@ The second is the person who simply never had structure modeled. No one in their
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Architect. Survey the structure with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Architect. Survey the structure with me. Ask me questions. Do not tell me what to think."*
 
 Set one solid, heavy object in front of you — a stone, a brick, a thick book. This is the wall, made small enough to move.
 
 **Diagnose the direction.**
 
-*"Am I in a prison of my own walls, or a ruin with no walls at all?"*
+- *"Am I in a prison of my own walls, or a ruin with no walls at all?"*
 
-*"What structure is strangling me right now — and what structure am I missing?"*
+- *"What structure is strangling me right now — and what structure am I missing?"*
 
-*"What have I built that no longer serves, and what have I never built that I need?"*
+- *"What have I built that no longer serves, and what have I never built that I need?"*
 
 **If you're walled in — clear the Prison.** Cleared by one *door*, not by demolition.
 
-*"Which wall is load-bearing, and which is just fear in the shape of a wall?"*
+- *"Which wall is load-bearing, and which is just fear in the shape of a wall?"*
 
-*"What would I do with one hour of no rules?"*
+- *"What would I do with one hour of no rules?"*
 
-*"What am I controlling that was never mine to control?"*
+- *"What am I controlling that was never mine to control?"*
 
-**Counter-statement, aloud:** *"The walls serve the life inside them. I can open a door."*
+- **Counter-statement, aloud:** *"The walls serve the life inside them. I can open a door."*
 
 **If you're in ruin — clear it.** Cleared by one *wall*, not by a fortress.
 
-*"What is the one commitment I could actually keep?"*
+- *"What is the one commitment I could actually keep?"*
 
-*"Where would a single boundary change everything?"*
+- *"Where would a single boundary change everything?"*
 
-*"What am I afraid a structure would cost me?"*
+- *"What am I afraid a structure would cost me?"*
 
-**Counter-statement, aloud:** *"One wall is not a cage. It's the first thing that holds."*
+- **Counter-statement, aloud:** *"One wall is not a cage. It's the first thing that holds."*
 
 Rest your hand on the stone. Structure is not the enemy of life. It's the shape life needs in order to stand up.
 
@@ -116,33 +116,33 @@ Rest your hand on the stone. Structure is not the enemy of life. It's the shape 
 
 **Signs the current moves again:**
 
-You keep a commitment and it feels like freedom, not a trap.
+- You keep a commitment and it feels like freedom, not a trap.
 
-You hold a boundary and stay warm behind it.
+- You hold a boundary and stay warm behind it.
 
-Time feels like something you build inside, not something running out.
+- Time feels like something you build inside, not something running out.
 
-You finish one thing, all the way.
+- You finish one thing, all the way.
 
 **Signs there's more to clear:**
 
-You swung from prison to ruin (tore down every wall) or ruin to prison (threw up a fortress overnight). Overcorrection isn't structure; it's panic in stone.
+- You swung from prison to ruin (tore down every wall) or ruin to prison (threw up a fortress overnight). Overcorrection isn't structure; it's panic in stone.
 
-You can build with your SI but the walls collapse the moment a real relationship tests them.
+- You can build with your SI but the walls collapse the moment a real relationship tests them.
 
 **The Integration Move (within 24–48 hours).** Build or keep one small structure: one commitment kept *exactly*, one boundary stated and held, one thing finished. If you run to Prison, invert it — break one rule that was only ever fear wearing a wall's clothes. Saturn answers to the long promise, kept.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — prison or ruin, what I built or opened, what's next.
+4. **Log:** three lines — prison or ruin, what I built or opened, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

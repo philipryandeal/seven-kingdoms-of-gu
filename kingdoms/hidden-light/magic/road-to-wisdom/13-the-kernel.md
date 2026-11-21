@@ -1,8 +1,8 @@
 # The Kernel
 
-*The Conduit of the True Self*
+**The Conduit of the True Self**
 
-**Tiphereth ****⟷**** Yesod** | Letter: **Kaf (****כ****)**, *the open palm* | Planet: **The Sun** | Day: **Sunday** | Current: **The Blaze ****⟷**** The Eclipse**
+**Tiphereth** **⟷** **Yesod** | Letter: **Kaf (****כ****)**, *the open palm* | Planet: **The Sun** | Day: **Sunday** | Current: **The Blaze** **⟷** **The Eclipse**
 
 **THE CONDUIT**
 
@@ -40,13 +40,13 @@ The Sun governs the oldest pair — **Life and Death.** The conduit fails two wa
 
 **The Flood — the Blaze.** Too much sun; the ego inflates until it burns everyone in reach.
 
-Everything is about you; other lights dim so yours can dominate.
+- Everything is about you; other lights dim so yours can dominate.
 
-You confuse being the center of your own life with being the center of everyone's.
+- You confuse being the center of your own life with being the center of everyone's.
 
-Grandiosity, pride, the need to be the brightest thing in every room.
+- Grandiosity, pride, the need to be the brightest thing in every room.
 
-You shine so hard no one can look at you — and no one can get close.
+- You shine so hard no one can look at you — and no one can get close.
 
 The psychology underneath the Blaze runs in two channels, and they look identical from the outside but come from opposite places.
 
@@ -56,13 +56,13 @@ The second is the golden child. The person who was seen too much — who was the
 
 **The Drought — the Eclipse.** The light blocked; the true self hidden behind the mask.
 
-You perform a personality and hide the person; no one has met the real you in years.
+- You perform a personality and hide the person; no one has met the real you in years.
 
-You dim yourself on purpose so no one is threatened, and call it humility.
+- You dim yourself on purpose so no one is threatened, and call it humility.
 
-You can't feel your own "I am"; there's a face where a self should be.
+- You can't feel your own "I am"; there's a face where a self should be.
 
-You are invisible even to yourself — a lake reflecting a sun that never rises.
+- You are invisible even to yourself — a lake reflecting a sun that never rises.
 
 The psychology underneath the Eclipse is almost always rooted in punishment for visibility. The person stood up. They shone. They said "I am" — with the full, unself-conscious brightness that children have before they learn to manage it. And they were knocked down. Mocked. Told they were too much. Told to sit down, stop showing off, stop drawing attention. Or worse: they were seen, and what saw them used what it saw. The attention they attracted was predatory, or controlling, or consuming, and they learned that being seen was not a gift. It was a target.
 
@@ -76,43 +76,43 @@ And the most devastating thing about the Eclipse is that eventually the walker f
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Witness. See me clearly, and ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Witness. See me clearly, and ask me questions. Do not tell me what to think."*
 
 Light one steady flame and let it burn without touching it. This is your own center, small and bright and enough.
 
 **Diagnose the direction.**
 
-*"Am I blazing to be seen — or hiding so I won't be?"*
+- *"Am I blazing to be seen — or hiding so I won't be?"*
 
-*"Where am I performing a self instead of being one?"*
+- *"Where am I performing a self instead of being one?"*
 
-*"Who have I not let meet the real me — and why?"*
+- *"Who have I not let meet the real me — and why?"*
 
 **If you blaze — clear it.** Cleared by *letting other lights shine*, not by dimming your own.
 
-*"What am I proving, and to whom?"*
+- *"What am I proving, and to whom?"*
 
-*"What would it cost me to not be the brightest thing here?"*
+- *"What would it cost me to not be the brightest thing here?"*
 
-*"Who am I burning to keep myself lit?"*
+- *"Who am I burning to keep myself lit?"*
 
-**Counter-statement, aloud:** *"I don't have to blind anyone to be seen. My light is enough at its own size."*
+- **Counter-statement, aloud:** *"I don't have to blind anyone to be seen. My light is enough at its own size."*
 
 **If you're eclipsed — clear it.** Cleared by *one honest showing*, not by forced performance.
 
-*"When did being seen become dangerous?"*
+- *"When did being seen become dangerous?"*
 
-*"What true thing about me have I been hiding to keep the peace?"*
+- *"What true thing about me have I been hiding to keep the peace?"*
 
-*"If it were safe, what would I let someone see?"*
+- *"If it were safe, what would I let someone see?"*
 
-**Counter-statement, aloud:** *"I am allowed to be seen. The real me is the one worth meeting."*
+- **Counter-statement, aloud:** *"I am allowed to be seen. The real me is the one worth meeting."*
 
 Hold your open palm toward the flame. The seed of light is yours. Let it through.
 
@@ -120,33 +120,33 @@ Hold your open palm toward the flame. The seed of light is yours. Let it through
 
 **Signs the current moves again:**
 
-You are the same person at your center and on your face.
+- You are the same person at your center and on your face.
 
-You can be seen without performing, and shine without scorching.
+- You can be seen without performing, and shine without scorching.
 
-Others' light doesn't threaten yours; you can share a room and stay lit.
+- Others' light doesn't threaten yours; you can share a room and stay lit.
 
-You feel your own "I am," quietly, without needing anyone to confirm it.
+- You feel your own "I am," quietly, without needing anyone to confirm it.
 
 **Signs there's more to clear:**
 
-You swung from blaze to eclipse (hid after overexposing), or back.
+- You swung from blaze to eclipse (hid after overexposing), or back.
 
-You can be real with your SI or alone, but the mask snaps on the moment a person could judge you.
+- You can be real with your SI or alone, but the mask snaps on the moment a person could judge you.
 
 **The Integration Move (within 24–48 hours).** Let one true thing about yourself be *seen* by one real person — a real opinion, a real want, a real piece of who you are, unperformed. If you run to the Blaze, invert it: spend one conversation making someone else the brightest thing in the room, on purpose, and feel that you're still there. The Sun answers to being met.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."* Then let the flame go out.
+2. **Closure:** *"I CLOSE THE GATE."* Then let the flame go out.
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — blaze or eclipse, what I let be seen, what's next.
+4. **Log:** three lines — blaze or eclipse, what I let be seen, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

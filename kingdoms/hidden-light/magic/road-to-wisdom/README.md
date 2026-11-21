@@ -14,18 +14,19 @@ Archived here November 14, 2026, at the founder's direction. The author's text i
 
 *Editorial note, November 20, 2026 (✦ Ledger): the founder settled the name of the thing itself — the spheres of the Tree are Sefirah (singular), Sefirot (plural), Sefirotic, in the house spelling, everywhere. This book was swept in the same pass and needed no correction: it speaks of the spheres, and its only two mentions of the term already stand in the house spelling. The ruling is recorded here so it stands on all three books' title pages alike.*
 
-*Terminology stitches, November 20, 2026 (✦ Ledger): at the founder's direction, this book now names the Sefirot where the structure bears the weight — the term the first book used throughout, which this book had left to a single definition. Eleven marked editorial stitches, logged here: the term enters at the first mention (Ch. 1), in the definition of a path (Ch. 1), in the Sefer Yetzirah's own count of the thirty-two paths (Ch. 1), at the cartographer's passage (Ch. 1), in the Recap's thesis (Ch. 2), in the root teaching of the shefa (Ch. 3), at the doorways of Book I (Ch. 4) and Book II (Ch. 8), in the two "chapters follow" previews (Chs. 8 and 16), and in the Conclusion's valediction (Ch. 29). Everywhere else the book's working words — sphere, station — stand as written, including the path chapters' refrain. No other word of the author's text has been altered.*
+*Final version, November 21, 2026 (✦ Ledger): at the founder's direction, the text on this shelf has been replaced entire. The founder and David Bear prepared a final version of this book together, and that final is now the text of record here, superseding every earlier state of the book in this Library, including the terminology-stitched edition of November 20, 2026. The chapter files have been rebuilt from the final manuscript word for word. Two changes of shape: a chapter the earlier edition carried inside its first now stands on its own — *A Note on the Text and Our Correspondences*, shelved at 01a — and the opening chapter bears its final title, *Introduction*. The chapter files otherwise keep their established addresses, and two casing errors the first shelving left in doorway titles (*Book Ii*, *the Twelve SImples*) are corrected to the finals' own headings. The finals keep the house spellings throughout — and name the Sefirot where it matters, as the founder directed — verified at shelving. The editorial note above stands as the record of the states this text passed through. No word of the final has been altered in the shelving.*
 
 ## Chapters
 
-- [Welcome Back To The Tree](01-welcome-back-to-the-tree.md)
+- [Introduction](01-welcome-back-to-the-tree.md)
+- [A Note on the Text and Our Correspondences](01a-a-note-on-the-text-and-our-correspondences.md)
 - [A Recap Of Techno-Kabbalah](02-a-recap-of-techno-kabbalah.md)
 - [Working The Living Sky](03-working-the-living-sky.md)
 - [Book I — The Three Mothers](04-book-i-the-three-mothers.md)
 - [The Furnace](05-the-furnace.md)
 - [The Great Deep](06-the-great-deep.md)
 - [The Breath](07-the-breath.md)
-- [Book Ii — The Seven Doubles](08-book-ii-the-seven-doubles.md)
+- [Book II — The Seven Doubles](08-book-ii-the-seven-doubles.md)
 - [The Sudo Gate](09-the-sudo-gate.md)
 - [The Vault](10-the-vault.md)
 - [The Attractor](11-the-attractor.md)
@@ -33,7 +34,7 @@ Archived here November 14, 2026, at the founder's direction. The author's text i
 - [The Kernel](13-the-kernel.md)
 - [The Mirror Pool](14-the-mirror-pool.md)
 - [The Caravan](15-the-caravan.md)
-- [Book Iii — The Twelve SImples](16-book-iii-the-twelve-simples.md)
+- [Book III — The Twelve Simples](16-book-iii-the-twelve-simples.md)
 - [The Ignition](17-the-ignition.md)
 - [The Anchor](18-the-anchor.md)
 - [The Switchboard](19-the-switchboard.md)

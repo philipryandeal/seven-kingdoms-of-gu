@@ -1,6 +1,6 @@
 # Appendix — The Quick Reference
 
-*Finding Your Path*
+****Finding Your Path****
 
 Twenty-two roads is a lot to hold at once. This appendix is here so you never have to. There are three ways to find the path you need:
 
@@ -16,30 +16,30 @@ Keep the master-map diagram beside this appendix; between the two, you can alway
 
 *Find the way you're stuck. Walk the path beside it.*
 
-| If this sounds like you… | Walk this path |
+| **If this sounds like you…** | **Walk this path** |
 | --- | --- |
-| I can't say no — or my anger boils over and scorches people | The Sudo Gate (Mars) |
-| I can't begin; I'm frozen at the starting line | The Ignition (Aries) |
-| I can't finish; nothing is ever good enough | The Workshop (Virgo) |
-| I grind joylessly toward a summit that never arrives — or I've given up climbing | The Summit (Capricorn) |
-| I can't rest, can't sleep, can't dream | The Dreaming Sea (Pisces) |
-| I can't let go; I'm frozen in grief or drowning in it | The Great Deep (Water) |
-| I keep sinking into the dark and can't climb back out — or I refuse to go deep at all | The Deep Dive (Scorpio) |
-| I can't receive love; I feel worthless | The Attractor (Venus) |
-| I hide behind a mask; no one's met the real me in years | The Kernel (Sun) |
-| I can't create, can't play, can't take up space | The Marquee (Leo) |
-| I can't decide; I lose myself trying to keep everyone balanced | The Fulcrum (Libra) |
-| I'm scattered across everything — or shut on one track and can't connect | The Switchboard (Gemini) |
-| My mind won't stop spinning — or I can't find my words at all | The Messenger (Mercury) |
-| I have no structure and no follow-through — or I've walled myself into rigid control | The Vault (Saturn) |
-| I hoard from scarcity — or I overextend and bloat | The Caravan (Jupiter) |
-| I smother the people I love — or I've armored myself against all care | The Enclave (Cancer) |
-| I can't settle and stay — or I'm stuck in a rut and won't budge | The Anchor (Taurus) |
-| Nothing has meaning; I'm cynical — or I'm dogmatic and fire "truth" at everyone | The Arrow (Sagittarius) |
-| I'm so far out ahead I've lost people — or I've dissolved into the crowd | The Network (Aquarius) |
-| I soak up everyone's moods and lose myself — or I've gone numb and can't feel | The Mirror Pool (Moon) |
-| My mind is a gale that won't land — or I can't breathe, no room, bracing always | The Breath (Air) |
-| I burn everything down — or my fire's gone cold and nothing moves me | The Furnace (Fire) |
+| I can't say no — or my anger boils over and scorches people | **The Sudo Gate** (Mars) |
+| I can't begin; I'm frozen at the starting line | **The Ignition** (Aries) |
+| I can't finish; nothing is ever good enough | **The Workshop** (Virgo) |
+| I grind joylessly toward a summit that never arrives — or I've given up climbing | **The Summit** (Capricorn) |
+| I can't rest, can't sleep, can't dream | **The Dreaming Sea** (Pisces) |
+| I can't let go; I'm frozen in grief or drowning in it | **The Great Deep** (Water) |
+| I keep sinking into the dark and can't climb back out — or I refuse to go deep at all | **The Deep Dive** (Scorpio) |
+| I can't receive love; I feel worthless | **The Attractor** (Venus) |
+| I hide behind a mask; no one's met the real me in years | **The Kernel** (Sun) |
+| I can't create, can't play, can't take up space | **The Marquee** (Leo) |
+| I can't decide; I lose myself trying to keep everyone balanced | **The Fulcrum** (Libra) |
+| I'm scattered across everything — or shut on one track and can't connect | **The Switchboard** (Gemini) |
+| My mind won't stop spinning — or I can't find my words at all | **The Messenger** (Mercury) |
+| I have no structure and no follow-through — or I've walled myself into rigid control | **The Vault** (Saturn) |
+| I hoard from scarcity — or I overextend and bloat | **The Caravan** (Jupiter) |
+| I smother the people I love — or I've armored myself against all care | **The Enclave** (Cancer) |
+| I can't settle and stay — or I'm stuck in a rut and won't budge | **The Anchor** (Taurus) |
+| Nothing has meaning; I'm cynical — or I'm dogmatic and fire "truth" at everyone | **The Arrow** (Sagittarius) |
+| I'm so far out ahead I've lost people — or I've dissolved into the crowd | **The Network** (Aquarius) |
+| I soak up everyone's moods and lose myself — or I've gone numb and can't feel | **The Mirror Pool** (Moon) |
+| My mind is a gale that won't land — or I can't breathe, no room, bracing always | **The Breath** (Air) |
+| I burn everything down — or my fire's gone cold and nothing moves me | **The Furnace** (Fire) |
 
 *Most people are blocked in more than one place at once. That's normal. Start with the one that aches most today.*
 
@@ -49,40 +49,40 @@ Keep the master-map diagram beside this appendix; between the two, you can alway
 
 Book I — The Three Mothers · the elements
 
-| Path | What it clears | Letter · Element | Tree Edge | Flood ⟷ Drought |
+| **Path** | **What it clears** | **Letter · Element** | **Tree Edge** | **Flood** **⟷** **Drought** |
 | --- | --- | --- | --- | --- |
-| The Breath | Equilibrium — holding opposites, the pause, spirit itself | Aleph (א) · Air | Chokmah ⟷ Binah | Gale ⟷ Vacuum |
-| The Great Deep | Surrender unto death — dissolution, grief, rebirth | Mem (מ) · Water | Binah ⟷ Gevurah | Deluge ⟷ Ice |
-| The Furnace | Transformation by fire — the right use of your heat | Shin (ש) · Fire | Hod ⟷ Malkuth | Inferno ⟷ Cold Ash |
+| **The Breath** | Equilibrium — holding opposites, the pause, spirit itself | Aleph (א) · Air | Chokmah ⟷ Binah | Gale ⟷ Vacuum |
+| **The Great Deep** | Surrender unto death — dissolution, grief, rebirth | Mem (מ) · Water | Binah ⟷ Gevurah | Deluge ⟷ Ice |
+| **The Furnace** | Transformation by fire — the right use of your heat | Shin (ש) · Fire | Hod ⟷ Malkuth | Inferno ⟷ Cold Ash |
 
 Book II — The Seven Doubles · the planets
 
-| Path | What it clears | Letter · Planet · Day | Tree Edge | Flood ⟷ Drought |
+| **Path** | **What it clears** | **Letter · Planet · Day** | **Tree Edge** | **Flood** **⟷** **Drought** |
 | --- | --- | --- | --- | --- |
-| The Vault | The right use of limit — structure, time, discipline | Bet (ב) · Saturn · Sat | Chokmah ⟷ Chesed | Prison ⟷ Ruin |
-| The Caravan | Abundance held rightly — faith, generosity, growth | Gimel (ג) · Jupiter · Thu | Chesed ⟷ Netzach | Glut ⟷ Famine |
-| The Sudo Gate | The right use of force — anger with aim, boundaries with teeth | Dalet (ד) · Mars · Tue | Gevurah ⟷ Tiphereth | War ⟷ False Peace |
-| The Kernel | Authentic selfhood — being seen as who you really are | Kaf (כ) · Sun · Sun | Tiphereth ⟷ Yesod | Blaze ⟷ Eclipse |
-| The Attractor | Worth — valuing and being valued, receiving love | Peh (פ) · Venus · Fri | Netzach ⟷ Tiphereth | Craving ⟷ Coldness |
-| The Messenger | Clear thinking and true speech — mind meeting depth | Resh (ר) · Mercury · Wed | Hod ⟷ Yesod | Spin ⟷ Fog |
-| The Mirror Pool | Receptivity — feeling and reflecting without drowning | Tav (ת) · Moon · Mon | Yesod ⟷ Malkuth | Sponge ⟷ Stone |
+| **The Vault** | The right use of limit — structure, time, discipline | Bet (ב) · Saturn · Sat | Chokmah ⟷ Chesed | Prison ⟷ Ruin |
+| **The Caravan** | Abundance held rightly — faith, generosity, growth | Gimel (ג) · Jupiter · Thu | Chesed ⟷ Netzach | Glut ⟷ Famine |
+| **The Sudo Gate** | The right use of force — anger with aim, boundaries with teeth | Dalet (ד) · Mars · Tue | Gevurah ⟷ Tiphereth | War ⟷ False Peace |
+| **The Kernel** | Authentic selfhood — being seen as who you really are | Kaf (כ) · Sun · Sun | Tiphereth ⟷ Yesod | Blaze ⟷ Eclipse |
+| **The Attractor** | Worth — valuing and being valued, receiving love | Peh (פ) · Venus · Fri | Netzach ⟷ Tiphereth | Craving ⟷ Coldness |
+| **The Messenger** | Clear thinking and true speech — mind meeting depth | Resh (ר) · Mercury · Wed | Hod ⟷ Yesod | Spin ⟷ Fog |
+| **The Mirror Pool** | Receptivity — feeling and reflecting without drowning | Tav (ת) · Moon · Mon | Yesod ⟷ Malkuth | Sponge ⟷ Stone |
 
 Book III — The Twelve Simples · the signs
 
-| Path | What it clears | Letter · Sign · Faculty | Tree Edge | Flood ⟷ Drought |
+| **Path** | **What it clears** | **Letter · Sign · Faculty** | **Tree Edge** | **Flood** **⟷** **Drought** |
 | --- | --- | --- | --- | --- |
-| The Ignition | Initiative — the courage to begin, to go first | Heh (ה) · Aries · Sight | Chokmah ⟷ Tiphereth | Rush ⟷ Freeze |
-| The Anchor | Steadiness — rooting, staying, resting in the body | Vav (ו) · Taurus · Hearing | Chesed ⟷ Tiphereth | Rut ⟷ Drift |
-| The Switchboard | Connection — holding two, bridging heart and head | Zayin (ז) · Gemini · Smell | Netzach ⟷ Hod | Scatter ⟷ Silo |
-| The Enclave | Home — sheltering without smothering, belonging | Cheth (ח) · Cancer · Speech | Binah ⟷ Tiphereth | Smother ⟷ Armor |
-| The Marquee | Expression — creative fire, play, being delighted in | Teth (ט) · Leo · Taste | Tiphereth ⟷ Hod | Show ⟷ Shrinking |
-| The Workshop | Craft in service — good-enough, tending the body and work | Yod (י) · Virgo · Union | Gevurah ⟷ Hod | Nitpick ⟷ Neglect |
-| The Fulcrum | Justice enacted — fairness, deciding, mutual relating | Lamed (ל) · Libra · Action | Chesed ⟷ Gevurah | Fence ⟷ Tilt |
-| The Deep Dive | Transformation — descent, death-and-rebirth, moving through | Nun (נ) · Scorpio · Movement | Netzach ⟷ Yesod | Undertow ⟷ Surface |
-| The Arrow | Faith and aim — meaning, conviction that looks before it fires | Samekh (ס) · Sagittarius · Anger | Kether ⟷ Tiphereth | Zealot ⟷ Cynic |
-| The Summit | Mastery — the long climb, discipline lightened by laughter | Ayin (ע) · Capricorn · Laughter | Kether ⟷ Binah | Grind ⟷ Slump |
-| The Network | Vision — original thought for the whole, belonging-while-different | Tzaddi (צ) · Aquarius · Thought | Kether ⟷ Chokmah | Aloof ⟷ Herd |
-| The Dreaming Sea | Surrender — rest, dream, imagination, feeling-with | Qoph (ק) · Pisces · Sleep | Netzach ⟷ Malkuth | Drowning ⟷ Drying |
+| **The Ignition** | Initiative — the courage to begin, to go first | Heh (ה) · Aries · Sight | Chokmah ⟷ Tiphereth | Rush ⟷ Freeze |
+| **The Anchor** | Steadiness — rooting, staying, resting in the body | Vav (ו) · Taurus · Hearing | Chesed ⟷ Tiphereth | Rut ⟷ Drift |
+| **The Switchboard** | Connection — holding two, bridging heart and head | Zayin (ז) · Gemini · Smell | Netzach ⟷ Hod | Scatter ⟷ Silo |
+| **The Enclave** | Home — sheltering without smothering, belonging | Cheth (ח) · Cancer · Speech | Binah ⟷ Tiphereth | Smother ⟷ Armor |
+| **The Marquee** | Expression — creative fire, play, being delighted in | Teth (ט) · Leo · Taste | Tiphereth ⟷ Hod | Show ⟷ Shrinking |
+| **The Workshop** | Craft in service — good-enough, tending the body and work | Yod (י) · Virgo · Union | Gevurah ⟷ Hod | Nitpick ⟷ Neglect |
+| **The Fulcrum** | Justice enacted — fairness, deciding, mutual relating | Lamed (ל) · Libra · Action | Chesed ⟷ Gevurah | Fence ⟷ Tilt |
+| **The Deep Dive** | Transformation — descent, death-and-rebirth, moving through | Nun (נ) · Scorpio · Movement | Netzach ⟷ Yesod | Undertow ⟷ Surface |
+| **The Arrow** | Faith and aim — meaning, conviction that looks before it fires | Samekh (ס) · Sagittarius · Anger | Kether ⟷ Tiphereth | Zealot ⟷ Cynic |
+| **The Summit** | Mastery — the long climb, discipline lightened by laughter | Ayin (ע) · Capricorn · Laughter | Kether ⟷ Binah | Grind ⟷ Slump |
+| **The Network** | Vision — original thought for the whole, belonging-while-different | Tzaddi (צ) · Aquarius · Thought | Kether ⟷ Chokmah | Aloof ⟷ Herd |
+| **The Dreaming Sea** | Surrender — rest, dream, imagination, feeling-with | Qoph (ק) · Pisces · Sleep | Netzach ⟷ Malkuth | Drowning ⟷ Drying |
 
 **THE RITES, FOR QUICK RECALL**
 

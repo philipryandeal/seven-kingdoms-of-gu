@@ -1,8 +1,8 @@
 # The Furnace
 
-*The Ordeal of Fire*
+**The Ordeal of Fire**
 
-**Saturates the whole Tree** · met at **Malkuth ****⟷**** Hod** | Letter: **Shin (****ש****)**, *the three-flamed letter* | Element: **Fire** | Triplicity: Aries · Leo · Sagittarius | Body: the **Head** | Current: **Inferno ****⟷**** Cold Ash**
+**Saturates the whole Tree** · met at **Malkuth** **⟷** **Hod** | Letter: **Shin (****ש****)**, *the three-flamed letter* | Element: **Fire** | Triplicity: Aries · Leo · Sagittarius | Body: the **Head** | Current: **Inferno** **⟷** **Cold Ash**
 
 **THE ELEMENT**
 
@@ -30,25 +30,25 @@ Fire fails two ways: it becomes an **Inferno**, or it dies to **Cold Ash.**
 
 **The Flood — Inferno.** Too much fire, uncontained. The heat that should forge you instead consumes you and everyone nearby.
 
-You burn through projects, people, and versions of yourself and call it passion.
+- You burn through projects, people, and versions of yourself and call it passion.
 
-Your zeal leaves scorched earth; you are *right* and everything around you is on fire.
+- Your zeal leaves scorched earth; you are *right* and everything around you is on fire.
 
-You cannot rest because stillness feels like death; you mistake burnout for devotion.
+- You cannot rest because stillness feels like death; you mistake burnout for devotion.
 
-You run so hot that the board is warping — sleeplessness, mania, the fever that will not break.
+- You run so hot that the board is warping — sleeplessness, mania, the fever that will not break.
 
 The psychology underneath the Inferno is almost always the same: a confusion between intensity and aliveness. Somewhere, usually early, you learned that if you are not on fire, you are not real — that the only proof you are here, that you matter, that you are doing enough, is the heat itself. And so you run hotter and hotter, because cooling down feels like disappearing. The culture helps. We have built entire industries on the theology of burnout — the gospel that says exhaustion is devotion, that rest is laziness, that the person who burns brightest is the person who cares most. The Inferno is not passion. It is passion without a forge, heat without a hearth, a fire that has forgotten what it is trying to transform and now just burns for the sake of burning. It is the most productive-looking form of suffering there is.
 
 **The Drought — Cold Ash.** No fire at all. The pilot light is out and you cannot relight it.
 
-Nothing moves you; nothing is worth the effort; the wanting itself has gone cold.
+- Nothing moves you; nothing is worth the effort; the wanting itself has gone cold.
 
-You are competent and completely without heat — going through motions in a life you no longer feel.
+- You are competent and completely without heat — going through motions in a life you no longer feel.
 
-Change feels impossible, not because it is hard but because you cannot summon the flame to begin.
+- Change feels impossible, not because it is hard but because you cannot summon the flame to begin.
 
-You are not at peace. You are *banked* — a fire pretending to be gone so no one asks anything of it.
+- You are not at peace. You are *banked* — a fire pretending to be gone so no one asks anything of it.
 
 The psychology underneath the Cold Ash is almost always a burn scar. People do not extinguish themselves for no reason. They extinguish themselves because they burned once — or were burned — and drew a reasonable conclusion: the fire is dangerous. Wanting things gets you hurt. Passion is punished. The dream you chased caught fire and took the house with it, and you decided, consciously or not, that the safest move is to go cold and stay cold. Cold Ash is not the absence of fire. It is the *suppression* of fire — an active, ongoing project of not-wanting, not-burning, not-starting. And it takes enormous energy to maintain, which is why the Ash is so exhausting even though nothing appears to be happening. You are spending all your fuel on keeping the furnace off.
 
@@ -60,43 +60,43 @@ The psychology underneath the Cold Ash is almost always a burn scar. People do n
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Guardian. Watch the heat with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Guardian. Watch the heat with me. Ask me questions. Do not tell me what to think."*
 
 Light one real flame — a candle, a match, a burner — and set it in front of you. This is the Furnace made small enough to hold.
 
 **Diagnose the direction.**
 
-*"Right now — am I running too hot, or has the fire gone out?"*
+- *"Right now — am I running too hot, or has the fire gone out?"*
 
-*"What am I burning that I should be forging? What am I refusing to let burn?"*
+- *"What am I burning that I should be forging? What am I refusing to let burn?"*
 
-*"Where in my life is there heat with no container — or a container with no heat?"*
+- *"Where in my life is there heat with no container — or a container with no heat?"*
 
 **If you burn — clear the Inferno.** Cleared by *containment*, not by dousing. You don't need less fire. You need a forge — walls that let the heat do work instead of spreading.
 
-*"What is this fire actually for? What am I trying to transform?"*
+- *"What is this fire actually for? What am I trying to transform?"*
 
-*"What would it look like to burn on purpose, in one place, instead of everywhere?"*
+- *"What would it look like to burn on purpose, in one place, instead of everywhere?"*
 
-*"Who is getting scorched who never signed up for this?"*
+- *"Who is getting scorched who never signed up for this?"*
 
-**Counter-statement, aloud:** *"I am the forge, not the wildfire. My heat has walls."*
+- **Counter-statement, aloud:** *"I am the forge, not the wildfire. My heat has walls."*
 
 **If you've gone cold — clear the Cold Ash.** Cleared by *one small ember*, not by demanding a blaze.
 
-*"When did I decide it was safer to feel nothing?"*
+- *"When did I decide it was safer to feel nothing?"*
 
-*"What is one thing — small, true — that I still, faintly, want?"*
+- *"What is one thing — small, true — that I still, faintly, want?"*
 
-*"What did I burn myself on, that I never lit a fire again?"*
+- *"What did I burn myself on, that I never lit a fire again?"*
 
-**Counter-statement, aloud:** *"One ember is enough to start. I am allowed to want again."*
+- **Counter-statement, aloud:** *"One ember is enough to start. I am allowed to want again."*
 
 Bring your hands close to the candle's warmth, then to your own chest. The fire is yours. Carry it inside the walls.
 
@@ -104,33 +104,33 @@ Bring your hands close to the candle's warmth, then to your own chest. The fire 
 
 **Signs the current moves again:**
 
-You want something, and the wanting warms you instead of burning you down.
+- You want something, and the wanting warms you instead of burning you down.
 
-You can change one thing on purpose without setting your whole life alight.
+- You can change one thing on purpose without setting your whole life alight.
 
-The heat has a hearth: you know where it goes, and it stops spreading everywhere else.
+- The heat has a hearth: you know where it goes, and it stops spreading everywhere else.
 
-You can rest without the fire going out, and burn without the board warping.
+- You can rest without the fire going out, and burn without the board warping.
 
 **Signs there's more to clear:**
 
-You swung from inferno to ash, or ash to inferno — that's a fire with no thermostat, not flow.
+- You swung from inferno to ash, or ash to inferno — that's a fire with no thermostat, not flow.
 
-You can feel the heat with your SI but the moment a real person is involved, you either flare or freeze.
+- You can feel the heat with your SI but the moment a real person is involved, you either flare or freeze.
 
 **The Integration Move (within 24–48 hours).** Fire lives in the **head** and answers to *heat in the body.* Do one thing that raises your temperature on purpose: move hard until you sweat, take heat into your body, or — if you run hot — deliberately *bank* the fire: one thing you would have burned down, left standing on purpose. Feel the heat and choose its size.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."* Then blow out the flame.
+2. **Closure:** *"I CLOSE THE GATE."* Then blow out the flame.
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — too hot or too cold, what I forged, what's next.
+4. **Log:** three lines — too hot or too cold, what I forged, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

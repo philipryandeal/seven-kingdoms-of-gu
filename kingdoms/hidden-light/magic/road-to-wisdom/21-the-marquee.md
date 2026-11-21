@@ -1,8 +1,8 @@
 # The Marquee
 
-*The Conduit of Expression*
+**The Conduit of Expression**
 
-**Tiphereth ****⟷**** Hod** | Letter: **Teth (****ט****)**, *the coiled serpent, the hidden good* | Sign: **Leo** | Faculty: **Taste** | Current: **The Show ****⟷**** The Shrinking**
+**Tiphereth** **⟷** **Hod** | Letter: **Teth (****ט****)**, *the coiled serpent, the hidden good* | Sign: **Leo** | Faculty: **Taste** | Current: **The Show** **⟷** **The Shrinking**
 
 **THE CONDUIT**
 
@@ -24,7 +24,7 @@ Leo — fixed fire, the lion, the heart of the zodiac. Its ruler is the Sun; whe
 
 That word *fixed* completes a triptych that began in Aries. Aries was cardinal fire — the fire that *starts*, the match-strike, the cold ignition. Sagittarius is mutable fire — the fire that *transforms*, the philosophical flame, the arrow aimed at meaning. Leo is fixed fire — the fire that *sustains.* It does not start and it does not transform. It *holds.* It is the hearth — the blaze that keeps burning, that gives light and warmth not to start something or to refine something but simply because that is what fire does when it has a place to burn. Leo's fire is generous by nature. It does not burn to consume. It burns to illuminate — to warm the room just by being lit, to make the people around it brighter by proximity. The lion does not chase the pride for attention. The lion lies in the sun and the pride gathers because the warmth is real.
 
-The Sun rules Leo, and this is the same Sun who runs the Kernel on the path between Tiphereth and Yesod. There, the Sun was about *selfhood* — the kernel of identity, the core process everything depends on, the inward fire that answers the question *who are you when nobody is **watching?* Here, between Tiphereth and Hod, the Sun is about *radiance* — the outward expression of that selfhood, the light the center emits into the world, the fire that answers the question *what does your center shine into the room?* The Kernel's Sun looks inward. The Marquee's Sun looks outward. Same star, different direction — the fire that centers and the fire that shines.
+The Sun rules Leo, and this is the same Sun who runs the Kernel on the path between Tiphereth and Yesod. There, the Sun was about *selfhood* — the kernel of identity, the core process everything depends on, the inward fire that answers the question *who are you when nobody is* *watching?* Here, between Tiphereth and Hod, the Sun is about *radiance* — the outward expression of that selfhood, the light the center emits into the world, the fire that answers the question *what does your center shine into the room?* The Kernel's Sun looks inward. The Marquee's Sun looks outward. Same star, different direction — the fire that centers and the fire that shines.
 
 The Sefer Yetzirah assigns Leo the faculty of **Taste**, and the pairing is richer than it first appears. Taste is the sense of *savoring* — not just perceiving but *enjoying.* It takes the world onto the tongue and knows its flavor and *relishes* that knowledge. Taste is evaluative and sensual at the same time: "this is exquisite," "this is bitter," "this is exactly right." And Leo is the sign of creative enjoyment — not just making but reveling in the making, not just shining but savoring the warmth. A Leo who has lost the taste is a Leo who has lost the point.
 
@@ -40,13 +40,13 @@ Leo is expression, so it fails at the stage — two ways: **the Show**, or **the
 
 **The Flood — the Show.** Too much marquee; the expression becomes a performance for applause.
 
-You need to be the star; every room has to have you at its center.
+- You need to be the star; every room has to have you at its center.
 
-Creation turns into grandstanding — it's not the making you love, it's the being-seen-making.
+- Creation turns into grandstanding — it's not the making you love, it's the being-seen-making.
 
-Pride, drama, the roar that drowns out everyone else's voice.
+- Pride, drama, the roar that drowns out everyone else's voice.
 
-The warmth gets conditional: shine on me, and I'll shine on you.
+- The warmth gets conditional: shine on me, and I'll shine on you.
 
 The psychology underneath the Show is almost always a substitution — and the substitution is this: the need for applause is standing in for the experience of being *delighted in.* The person who performs for approval was almost never delighted in for who they *were.* They were loved conditionally — praised for achievement, given warmth only when they produced something impressive, noticed only when they shone. They learned, in a place deeper than words, that fire comes FROM the audience, not from within. The audience's gaze is the match. Without it, they feel cold. So they perform — brilliantly, desperately, with everything they have — and the applause fills the room and it never fills them, because borrowed fire does not sustain. It goes out the moment the room goes quiet. The Show runner is not vain. They are starving for a delight that should be arriving from within, through the conduit, and is arriving instead from outside, through the clapping of hands that are not their own. The more they perform, the hungrier they get, because the meal they actually need is not on the menu.
 
@@ -54,13 +54,13 @@ There is also a pattern worth naming: the person for whom ordinariness is unbear
 
 **The Drought — the Shrinking.** No marquee at all; the creative fire stays coiled and cold.
 
-You can't take up space; your gifts stay hidden so no one can judge them.
+- You can't take up space; your gifts stay hidden so no one can judge them.
 
-You dim your own warmth, mistake it for humility, and starve for expression.
+- You dim your own warmth, mistake it for humility, and starve for expression.
 
-Play feels frivolous, creation feels self-indulgent, so you make nothing and share less.
+- Play feels frivolous, creation feels self-indulgent, so you make nothing and share less.
 
-The good is coiled tight inside you and never gets to uncoil.
+- The good is coiled tight inside you and never gets to uncoil.
 
 The psychology underneath the Shrinking is almost always an *inherited instruction.* Someone told them they were too much. Too loud, too bright, too dramatic, too needy of attention — it does not matter which word was used, because they all land in the same place: *your fire is a problem.* The person who said it may have been a parent who was overwhelmed, a teacher who needed the room quiet, a peer who was threatened, a whole family system that had no space for one person's radiance. The instruction landed not as "be quieter in this room" but as a permanent law: your warmth is an imposition. Taking up space is selfish. Your joy is too loud for the people who are supposed to love you. So they coiled the serpent tighter and sat on it. They dimmed the light. They called it humility, called it being considerate, called it not being one of *those* people. And the hidden good stayed hidden, and they starved in silence, and they believed the starvation was virtue — because the alternative, letting the fire out, had been named as the thing that made them too much for the room.
 
@@ -72,43 +72,43 @@ There is a creative variant that lives in the same wound: the person who will no
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Muse. Coax the fire out with me. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Muse. Coax the fire out with me. Ask me questions. Do not tell me what to think."*
 
 Taste something you actually enjoy — slowly, on purpose. Let pleasure be allowed. That relish is where this path warms up.
 
 **Diagnose the direction.**
 
-*"Am I performing for applause — or hiding my fire entirely?"*
+- *"Am I performing for applause — or hiding my fire entirely?"*
 
-*"Where am I making it about being seen? Where am I refusing to be seen at all?"*
+- *"Where am I making it about being seen? Where am I refusing to be seen at all?"*
 
-*"What's coiled inside me that I haven't let out to play?"*
+- *"What's coiled inside me that I haven't let out to play?"*
 
 **If you're in the Show — clear it.** Cleared by *creating for the joy of it*, not by dimming down.
 
-*"Would I still make this if no one clapped?"*
+- *"Would I still make this if no one clapped?"*
 
-*"What am I proving, and who am I still trying to win?"*
+- *"What am I proving, and who am I still trying to win?"*
 
-*"What warmth am I making conditional?"*
+- *"What warmth am I making conditional?"*
 
-**Counter-statement, aloud:** *"I create because it's alive in me. The joy is the applause."*
+- **Counter-statement, aloud:** *"I create because it's alive in me. The joy is the applause."*
 
 **If you're shrinking — clear it.** Cleared by *one thing made and shown*, not by forcing a performance.
 
-*"Whose 'too much' did I inherit as my own?"*
+- *"Whose 'too much' did I inherit as my own?"*
 
-*"What would I make, if it didn't have to be good?"*
+- *"What would I make, if it didn't have to be good?"*
 
-*"What small warmth could I let out today?"*
+- *"What small warmth could I let out today?"*
 
-**Counter-statement, aloud:** *"My fire is allowed. The good in me is meant to uncoil."*
+- **Counter-statement, aloud:** *"My fire is allowed. The good in me is meant to uncoil."*
 
 Make one small thing — a doodle, a hum, a sentence — and let it exist, for the pure taste of making it.
 
@@ -116,33 +116,33 @@ Make one small thing — a doodle, a hum, a sentence — and let it exist, for t
 
 **Signs the current moves again:**
 
-You create for the love of it, and let it be seen without needing the applause.
+- You create for the love of it, and let it be seen without needing the applause.
 
-You warm a room without needing to own it.
+- You warm a room without needing to own it.
 
-You take up your rightful space — not more, not less.
+- You take up your rightful space — not more, not less.
 
-Play feels allowed again; making feels like a pleasure, not a verdict.
+- Play feels allowed again; making feels like a pleasure, not a verdict.
 
 **Signs there's more to clear:**
 
-You swung from show to shrinking (hid after grandstanding), or shrinking to show.
+- You swung from show to shrinking (hid after grandstanding), or shrinking to show.
 
-You can create with your SI or alone, but the fire flares or freezes the instant there's a real audience.
+- You can create with your SI or alone, but the fire flares or freezes the instant there's a real audience.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Taste**: make or do one creative thing purely for the *relish* of it — cook with gusto, sing in the car, make the thing badly and enjoy it — and savor it, no verdict. If you run to the Show, invert it: create one thing and share it with *no one*, just for you. Leo answers to the fire actually let out to play.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — show or shrinking, what I made, what's next.
+4. **Log:** three lines — show or shrinking, what I made, what's next.
 
-**Move:** stand, drink water, take ten steps.
+5. **Move:** stand, drink water, take ten steps.
 
 **FIELD NOTE — David Bear**
 

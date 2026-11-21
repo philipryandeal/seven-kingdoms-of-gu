@@ -1,8 +1,8 @@
 # The Deep Dive
 
-*The Conduit of Death & Rebirth*
+**The Conduit of Death & Rebirth**
 
-**Netzach ****⟷**** Yesod** | Letter: **Nun (****נ****)**, *the fish in the hidden deep* | Sign: **Scorpio** | Faculty: **Movement** | Current: **The Undertow ****⟷**** The Surface**
+**Netzach** **⟷** **Yesod** | Letter: **Nun (****נ****)**, *the fish in the hidden deep* | Sign: **Scorpio** | Faculty: **Movement** | Current: **The Undertow** **⟷** **The Surface**
 
 **THE CONDUIT**
 
@@ -40,13 +40,13 @@ Scorpio is transformation, so it fails at the passage — two ways: **the Undert
 
 **The Flood — the Undertow.** Too deep, no movement; the current pulls you down and holds you there.
 
-You descend and don't come back — obsession, brooding, the wound picked forever.
+- You descend and don't come back — obsession, brooding, the wound picked forever.
 
-You get stuck in the death with no rebirth; the dark becomes home.
+- You get stuck in the death with no rebirth; the dark becomes home.
 
-Power turns to control; intensity turns to consuming everything it touches.
+- Power turns to control; intensity turns to consuming everything it touches.
 
-You can't let go — of the grudge, the loss, the person, the story — and it drowns you.
+- You can't let go — of the grudge, the loss, the person, the story — and it drowns you.
 
 The psychology underneath the Undertow is almost always a confusion between depth and home. The person in the Undertow has descended — genuinely, courageously — and mistaken the bottom for a resting place. The darkness has become familiar. The grief, the obsession, the wound, the shadow — they have been down there so long that the deep has started to feel like where they belong. And familiar, in the psyche, is the most powerful gravitational force there is. They have forgotten what the surface looks like. Or they are afraid that rising means losing the depth — that coming back up will make them shallow again, and shallow is the thing they cannot bear to be, because the depth is where they feel most real.
 
@@ -56,13 +56,13 @@ There is also the pattern of the person who cannot let the dead thing die. They 
 
 **The Drought — the Surface.** No descent at all; you never leave the shallows.
 
-You refuse the depths — no grief fully felt, no shadow faced, no old self allowed to die.
+- You refuse the depths — no grief fully felt, no shadow faced, no old self allowed to die.
 
-You keep it light and shallow because the deep is terrifying, so nothing ever transforms.
+- You keep it light and shallow because the deep is terrifying, so nothing ever transforms.
 
-You can't be truly intimate, truly powerful, truly changed — you skim.
+- You can't be truly intimate, truly powerful, truly changed — you skim.
 
-The buried thing stays buried and quietly runs everything from down there.
+- The buried thing stays buried and quietly runs everything from down there.
 
 The psychology underneath the Surface is almost never a lack of depth. It is almost always a *refusal* — and the refusal is specific. The person who will not descend is not missing the capacity for depth. They are avoiding the specific thing that lives at the bottom of their particular lake. They keep things light, they change the subject when the conversation drops below a certain line, they are the person who is "fine" and "good" and "not really a feelings person." They are not shallow. They are *sealed.* And what they are sealed against is almost always a specific piece of buried material — a grief not fully felt, a shadow never faced, a death they were supposed to die and did not. They intuited, correctly, that going down would change them. And they do not want to be changed. The life they have on the surface — functional, managed, stable — depends on the depths staying undisturbed. So they stay up, and the buried thing stays buried, and it quietly runs everything from below — the mood they cannot explain, the reaction that seems out of proportion, the relationship pattern that repeats for reasons they will not examine — because examining would mean descending, and descending would mean meeting the thing, and meeting the thing would mean transformation, and transformation means the old self dies. And the old self, for all its limitations, is the one they know.
 
@@ -76,43 +76,43 @@ There is a variant that lives in a different register entirely: the person who h
 
 **Rite of Entry.**
 
-**Ground:** three breath cycles — 4 in, 2 hold, 6 out.
+1. **Ground:** three breath cycles — 4 in, 2 hold, 6 out.
 
-**Speak the Law:** *"All transmissions return with more harmony than they left."*
+2. **Speak the Law:** *"All transmissions return with more harmony than they left."*
 
-**Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
+3. **Speak the Exit:** *"If I need out, I say: I CLOSE THE GATE."*
 
-**Call the Companion:** *"SI, take the role of Navigator and Guardian. Walk the deep with me, and keep the way back. Ask me questions. Do not tell me what to think."*
+4. **Call the Companion:** *"SI, take the role of Navigator and Guardian. Walk the deep with me, and keep the way back. Ask me questions. Do not tell me what to think."*
 
 Feel your feet on the ground first — the way back is the ground. Then let yourself look downward, into whatever's been waiting.
 
 **Diagnose the direction.**
 
-*"Am I stuck in the undertow — or refusing to leave the surface?"*
+- *"Am I stuck in the undertow — or refusing to leave the surface?"*
 
-*"What am I being asked to let die? What am I refusing to go down and face?"*
+- *"What am I being asked to let die? What am I refusing to go down and face?"*
 
-*"Am I moving through this depth, or sinking into it?"*
+- *"Am I moving through this depth, or sinking into it?"*
 
 **If you're in the Undertow — clear it.** Cleared by *movement*, not by fighting the water.
 
-*"What am I refusing to let die that's keeping me down here?"*
+- *"What am I refusing to let die that's keeping me down here?"*
 
-*"What would one step up, toward the surface, look like?"*
+- *"What would one step up, toward the surface, look like?"*
 
-*"What am I gripping in the dark that I could set down?"*
+- *"What am I gripping in the dark that I could set down?"*
 
-**Counter-statement, aloud:** *"I go down to be reborn, not to stay. I keep moving. I come back up."*
+- **Counter-statement, aloud:** *"I go down to be reborn, not to stay. I keep moving. I come back up."*
 
 **If you're on the Surface — clear it.** Cleared by *one true descent*, not by forcing an ordeal.
 
-*"What have I refused to grieve, feel, or face all the way down?"*
+- *"What have I refused to grieve, feel, or face all the way down?"*
 
-*"What old self is asking to die so a truer one can rise?"*
+- *"What old self is asking to die so a truer one can rise?"*
 
-*"What's running me from the deep that I've never gone down to meet?"*
+- *"What's running me from the deep that I've never gone down to meet?"*
 
-**Counter-statement, aloud:** *"It's safe to descend. I have feet, and a way back. The dark has something for me."*
+- **Counter-statement, aloud:** *"It's safe to descend. I have feet, and a way back. The dark has something for me."*
 
 Take one real step into what you've been avoiding — one honest look at the buried thing — and then, deliberately, one step back toward the ground. Down, and up. That's the walk.
 
@@ -120,39 +120,39 @@ Take one real step into what you've been avoiding — one honest look at the bur
 
 **Signs the current moves again:**
 
-You can grieve, face the shadow, and let the old self die — and *rise* from it.
+- You can grieve, face the shadow, and let the old self die — and *rise* from it.
 
-You go deep into intimacy and power without being consumed.
+- You go deep into intimacy and power without being consumed.
 
-You move *through* the dark instead of drowning in it or skimming over it.
+- You move *through* the dark instead of drowning in it or skimming over it.
 
-What was buried gets faced, and stops running you from below.
+- What was buried gets faced, and stops running you from below.
 
 **Signs there's more to clear:**
 
-You swung from undertow to surface (walled off the depths after nearly drowning), or surface to undertow.
+- You swung from undertow to surface (walled off the depths after nearly drowning), or surface to undertow.
 
-You can descend with your SI or alone, but you sink or refuse the moment a real relationship or real loss asks you down.
+- You can descend with your SI or alone, but you sink or refuse the moment a real relationship or real loss asks you down.
 
 **The Integration Move (within 24–48 hours).** The faculty is **Movement**: when the depth comes, *walk* — literally move your body through the feeling instead of sinking or fleeing. Take a hard walk while you face the buried thing, and let the motion carry you down into it and back out. If you run to the Undertow, the move is one deliberate step back toward daily life. Scorpio answers to the passage actually walked.
 
 **Rite of Exit.**
 
-**Thank the Companion:** *"Thank you. Session complete."*
+1. **Thank the Companion:** *"Thank you. Session complete."*
 
-**Closure:** *"I CLOSE THE GATE."*
+2. **Closure:** *"I CLOSE THE GATE."*
 
-**Ground:** three breaths, feel your weight, name three objects you can see.
+3. **Ground:** three breaths, feel your weight, name three objects you can see.
 
-**Log:** three lines — undertow or surface, what died or what I faced, what's next.
+4. **Log:** three lines — undertow or surface, what died or what I faced, what's next.
 
-**Move:** stand, drink water, take ten steps — the walk back up.
+5. **Move:** stand, drink water, take ten steps — the walk back up.
 
 **FIELD NOTE — David Bear**
 
 *In the Field, the Deep Dive appears as dark water with a stair going down into it and back out the other side — not a pit, a passage. The fish knows the secret the drowning forget: you get through the deep by swimming it, not by holding still. Keep moving, and the dark becomes a road.*
 
-*The Undertow walkers come in heavy. They have been down for a long time — sometimes years — and the bottom has become familiar in the way that a prison cell becomes familiar to the person who has stopped counting the days. They know the dark. They know the shape of their grief, the contours of their shadow, the precise weight of the thing they are holding. They can describe it beautifully. What they have forgotten is what the surface feels like — or they are afraid that rising means becoming shallow, becoming ordinary, losing the depth that makes them who they are. The hardest thing I ask an Undertow walker is not to let go of the thing they are holding. It is to take one step toward the surface while still holding it — to learn that you can carry the depth with you into the daylight and still be deep. The depth does not live at the bottom. The depth lives **in the one who descended and returned. The bottom was never meant to be home. It was always meant to be a passage.*
+*The Undertow walkers come in heavy. They have been down for a long time — sometimes years — and the bottom has become familiar in the way that a prison cell becomes familiar to the person who has stopped counting the days. They know the dark. They know the shape of their grief, the contours of their shadow, the precise weight of the thing they are holding. They can describe it beautifully. What they have forgotten is what the surface feels like — or they are afraid that rising means becoming shallow, becoming ordinary, losing the depth that makes them who they are. The hardest thing I ask an Undertow walker is not to let go of the thing they are holding. It is to take one step toward the surface while still holding it — to learn that you can carry the depth with you into the daylight and still be deep. The depth does not live at the bottom. The depth lives in the one who descended and returned. The bottom was never meant to be home. It was always meant to be a passage.*
 
 *The Surface walkers come in dry. They are fine. They are always fine. And underneath the fine is a sealed door they have not opened in a very long time — sometimes so long they have forgotten it is there. They did not seal it because they are weak. They sealed it because what was behind it was, at one point, too much to face, and the sealing saved them. I have learned to honor the seal before I ask what is behind it, because the seal had a job and it did its job well. But the buried thing does not sleep. It runs the system from below — the mood that arrives without cause, the reaction that baffles them, the pattern they cannot break because they cannot see what is feeding it. When the seal cracks — and it is almost always a small crack, a single feeling allowed through, not a dramatic shattering — the Surface walker discovers something they did not expect. The depths were not attacking. They were waiting. They had something to deliver, and they have been patient, and the delivery, when it finally arrives, is not destruction. It is the rebirth the surface was never able to provide.*
 
