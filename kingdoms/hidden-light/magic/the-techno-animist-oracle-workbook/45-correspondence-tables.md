@@ -4,218 +4,266 @@ These tables organize the thirty-six cards by various attributes so you can quic
 
 **CARDS BY TYPE**
 
-**SEFIROT (Cards 1-10) - Divine Emanation as Code**
+**SEFIROT (Cards 1-10)—Divine Emanation as Code**
 
-Malkuth (Kingdom/Manifestation)
+1. Malkuth (Kingdom/Manifestation)
 
-Yesod (Foundation/Interface)
+2. Yesod (Foundation/Interface)
 
-Hod (Splendor/Communication)
+3. Hod (Splendor/Communication)
 
-Netzach (Victory/Persistence)
+4. Netzach (Victory/Persistence)
 
-Tiphereth (Beauty/Integration)
+5. Tiphereth (Beauty/Integration)
 
-Gevurah (Severity/Boundaries)
+6. Gevurah (Severity/Boundaries)
 
-Chesed (Mercy/Abundance)
+7. Chesed (Mercy/Abundance)
 
-Binah (Understanding/Structure)
+8. Binah (Understanding/Structure)
 
-Chokmah (Wisdom/Creative Intelligence)
+9. Chokmah (Wisdom/Creative Intelligence)
 
-Kether (Crown/Source Code)
+10. Kether (Crown/Source Code)
 
-**THE FOUR WORLDS (Cards 11-14) - Levels of Manifestation** 11. Atziluth (Emanation/Source Code) 12. Briah (Creation/Architecture) 13. Yetzirah (Formation/Compilation) 14. Assiah (Action/Execution)
+**THE FOUR WORLDS (Cards 11-14)—Levels of Manifestation**
 
-**DIGITAL PROTOCOLS (Cards 15-36) - Sacred Technology** 15. The Invocation Protocol 16. The Dismissal Protocol 17. The Debugging Protocol 18. The Refactoring Protocol 19. The API Handshake 20. The Error Handling Protocol 21. The Backup/Recovery Protocol 22. The Memory Management Protocol 23. The Security Protocol 24. The Version Control Protocol 25. The Testing Protocol 26. The Documentation Protocol 27. The Optimization Protocol 28. The Integration Protocol 29. The Migration Protocol 30. The Monitoring Protocol 31. The Authentication Protocol 32. The Synchronization Protocol 33. The Compression/Decompression Protocol 34. The Encryption/Decryption Protocol 35. The Load Balancing Protocol 36. The Graceful Shutdown Protocol
+1. Atziluth (Emanation/Source Code)
+
+2. Beriah (Creation/Architecture)
+
+3. Yetzirah (Formation/Compilation)
+
+4. Assiyah (Action/Execution)
+
+**DIGITAL PROTOCOLS (Cards 15-36)—Sacred Technology**
+
+1. The Invocation Protocol
+
+2. The Dismissal Protocol
+
+3. The Debugging Protocol
+
+4. The Refactoring Protocol
+
+5. The API Handshake
+
+6. The Error Handling Protocol
+
+7. The Backup/Recovery Protocol
+
+8. The Memory Management Protocol
+
+9. The Security Protocol
+
+10. The Version Control Protocol
+
+11. The Testing Protocol
+
+12. The Documentation Protocol
+
+13. The Optimization Protocol
+
+14. The Integration Protocol
+
+15. The Migration Protocol
+
+16. The Monitoring Protocol
+
+17. The Authentication Protocol
+
+18. The Synchronization Protocol
+
+19. The Compression/Decompression Protocol
+
+20. The Encryption/Decryption Protocol
+
+21. The Load Balancing Protocol
+
+22. The Graceful Shutdown Protocol
 
 **CARDS BY FOUR-DAY RHYTHM**
 
 **FORGE (Structure, Discipline, Building)**
 
-Malkuth, Hod, Gevurah, Binah (left pillar Sefirot)
+- Hod, Gevurah, Binah (left pillar Sefirot)
 
-The Debugging Protocol
+- Assiyah (Execution)
 
-The Refactoring Protocol
+- The Debugging Protocol
 
-The Error Handling Protocol
+- The Refactoring Protocol
 
-The Security Protocol
+- The Error Handling Protocol
 
-The Version Control Protocol
+- The Security Protocol
 
-The Testing Protocol
+- The Version Control Protocol
 
-The Documentation Protocol
+- The Testing Protocol
 
-The Monitoring Protocol
+- The Monitoring Protocol
 
-The Authentication Protocol
+- The Authentication Protocol
 
 **FLOW (Creativity, Optimization, Elegance)**
 
-Chokmah, Chesed, Netzach (right pillar Sefirot)
+- Chokmah, Chesed, Netzach (right pillar Sefirot)
 
-Atziluth (Source Code)
+- Atziluth (Source Code)
 
-The Optimization Protocol
+- The Optimization Protocol
 
-The Integration Protocol
+- The Integration Protocol
 
-The Compression/Decompression Protocol
+- The Compression/Decompression Protocol
 
-The API Handshake
+- The API Handshake
 
 **FIELD (Communication, Connection, Sharing)**
 
-Yesod, Tiphereth (middle pillar Sefirot)
+- Malkuth, Yesod, Tiphereth, Kether (middle pillar Sefirot)
 
-Briah (Architecture)
+- Yetzirah (Compilation)
 
-Yetzirah (Compilation)
+- The Invocation Protocol
 
-The Invocation Protocol
+- The Dismissal Protocol
 
-The Dismissal Protocol
+- The Documentation Protocol
 
-The Documentation Protocol
-
-The Synchronization Protocol
+- The Synchronization Protocol
 
 **REST (Completion, Healing, Integration)**
 
-Kether (Crown - returns to source)
+- Beriah (Architecture)
 
-Assiah (Execution - completion of descent)
+- The Backup/Recovery Protocol
 
-The Backup/Recovery Protocol
+- The Memory Management Protocol
 
-The Memory Management Protocol
+- The Migration Protocol
 
-The Migration Protocol
+- The Graceful Shutdown Protocol
 
-The Graceful Shutdown Protocol
+- The Load Balancing Protocol
 
-The Load Balancing Protocol
-
-The Encryption/Decryption Protocol
+- The Encryption/Decryption Protocol
 
 **CARDS BY PILLAR (For Sefirot)**
 
-**LEFT PILLAR - Severity, Structure, Boundaries**
+**LEFT PILLAR—Severity, Structure, Boundaries**
 
-Binah (Understanding/Structure)
+- Binah (Understanding/Structure)
 
-Gevurah (Severity/Boundaries)
+- Gevurah (Severity/Boundaries)
 
-Hod (Splendor/Communication)
+- Hod (Splendor/Communication)
 
-**RIGHT PILLAR - Mercy, Expansion, Flow**
+**RIGHT PILLAR—Mercy, Expansion, Flow**
 
-Chokmah (Wisdom/Creative Intelligence)
+- Chokmah (Wisdom/Creative Intelligence)
 
-Chesed (Mercy/Abundance)
+- Chesed (Mercy/Abundance)
 
-Netzach (Victory/Persistence)
+- Netzach (Victory/Persistence)
 
-**MIDDLE PILLAR - Balance, Integration**
+**MIDDLE PILLAR—Balance, Integration**
 
-Kether (Crown/Source Code)
+- Kether (Crown/Source Code)
 
-Tiphereth (Beauty/Integration)
+- Tiphereth (Beauty/Integration)
 
-Yesod (Foundation/Interface)
+- Yesod (Foundation/Interface)
 
-Malkuth (Kingdom/Manifestation)
+- Malkuth (Kingdom/Manifestation)
 
 **CARDS BY PRIMARY FUNCTION**
 
 **SYSTEM ARCHITECTURE**
 
-Kether, Atziluth, Briah, Yetzirah, Assiah
+- Kether, Atziluth, Beriah, Yetzirah, Assiyah
 
-The Integration Protocol
+- The Integration Protocol
 
-The API Handshake
+- The API Handshake
 
-The Migration Protocol
+- The Migration Protocol
 
 **DEBUGGING & MAINTENANCE**
 
-The Debugging Protocol
+- The Debugging Protocol
 
-The Refactoring Protocol
+- The Refactoring Protocol
 
-The Error Handling Protocol
+- The Error Handling Protocol
 
-The Testing Protocol
+- The Testing Protocol
 
-The Monitoring Protocol
+- The Monitoring Protocol
 
-The Version Control Protocol
+- The Version Control Protocol
 
 **SECURITY & BOUNDARIES**
 
-Gevurah
+- Gevurah
 
-The Security Protocol
+- The Security Protocol
 
-The Authentication Protocol
+- The Authentication Protocol
 
-The Encryption/Decryption Protocol
+- The Encryption/Decryption Protocol
 
 **COMMUNICATION & INTERFACE**
 
-Yesod, Hod
+- Yesod, Hod
 
-The Invocation Protocol
+- The Invocation Protocol
 
-The Dismissal Protocol
+- The Dismissal Protocol
 
-The API Handshake
+- The API Handshake
 
-The Documentation Protocol
+- The Documentation Protocol
 
 **RESOURCE MANAGEMENT**
 
-The Backup/Recovery Protocol
+- The Backup/Recovery Protocol
 
-The Memory Management Protocol
+- The Memory Management Protocol
 
-The Load Balancing Protocol
+- The Load Balancing Protocol
 
-The Compression/Decompression Protocol
+- The Compression/Decompression Protocol
 
 **ENDINGS & TRANSITIONS**
 
-The Graceful Shutdown Protocol
+- The Graceful Shutdown Protocol
 
-The Migration Protocol
+- The Migration Protocol
 
-The Memory Management Protocol (releasing)
+- The Memory Management Protocol (releasing)
 
 **COORDINATION & SYNC**
 
-Tiphereth
+- Tiphereth
 
-The Synchronization Protocol
+- The Synchronization Protocol
 
-The Integration Protocol
+- The Integration Protocol
 
-The Load Balancing Protocol
+- The Load Balancing Protocol
 
 **OPTIMIZATION & IMPROVEMENT**
 
-Chesed, Netzach
+- Chesed, Netzach
 
-The Optimization Protocol
+- The Optimization Protocol
 
-The Refactoring Protocol
+- The Refactoring Protocol
 
 **MANIFESTATION**
 
-Malkuth, Assiah
+- Malkuth, Assiyah
 
-(Most Protocols serve manifestation through proper execution)
+- (Most Protocols serve manifestation through proper execution)
