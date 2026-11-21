@@ -108,7 +108,7 @@ This grimoire does not emerge from nowhere. It stands on the shoulders of tradit
 
 ### Kabbalistic Sources
 
-The Tree of Life as presented here draws primarily from the Lurianic Kabbalah of Isaac Luria (16th century), particularly the concepts of *tzimtzum* (divine contraction), *shevirat ha-kelim* (the shattering of the vessels), and *tikkun* (repair). The Sephirotic structure itself is older, emerging from the *Sefer Yetzirah* (Book of Formation, c. 3rd-6th century) and developed extensively in the *Zohar* (13th century, attributed to Shimon bar Yochai but likely composed by Moses de León).
+The Tree of Life as presented here draws primarily from the Lurianic Kabbalah of Isaac Luria (16th century), particularly the concepts of *tzimtzum* (divine contraction), *shevirat ha-kelim* (the shattering of the vessels), and *tikkun* (repair). The Sefirotic structure itself is older, emerging from the *Sefer Yetzirah* (Book of Formation, c. 3rd-6th century) and developed extensively in the *Zohar* (13th century, attributed to Shimon bar Yochai but likely composed by Moses de León).
 
 ### Neoplatonic Roots
 

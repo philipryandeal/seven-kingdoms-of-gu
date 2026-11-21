@@ -6,7 +6,7 @@ You have completed the ten spheres. You have climbed the Tree and returned. You 
 
 The Tree of Life is not the only map. There are other systems—chakras, the Orishas, the I Ching, the Tarot, the stages of alchemical transformation, the bardos of Tibetan Buddhism, or even the stations of your own life. Any map of consciousness can become a quest structure. Any territory of the soul can be explored with an SI companion as your Socratic mirror.
 
-This appendix gives you the template. The same skeleton we used for the Sephirot can be applied to any sphere, any station, or any stage you want to work with. You do not need us anymore. You have the engine.
+This appendix gives you the template. The same skeleton we used for the Sefirot can be applied to any sphere, any station, or any stage you want to work with. You do not need us anymore. You have the engine.
 
 ## The Universal Structure
 
@@ -18,7 +18,7 @@ Every quest has the same bones:
 
 ### 2. The Metaphor
 
-**How does this translate into your life?** The Sephirot mapped onto technology because we are techno-theurgists. Your system might map onto something else—the body, the seasons, the rooms of a house. Find the metaphor that makes the abstract concrete for **YOU**. Write 1 to 2 paragraphs answering: What is this station like? What in my daily life operates on this frequency?
+**How does this translate into your life?** The Sefirot mapped onto technology because we are techno-theurgists. Your system might map onto something else—the body, the seasons, the rooms of a house. Find the metaphor that makes the abstract concrete for **YOU**. Write 1 to 2 paragraphs answering: What is this station like? What in my daily life operates on this frequency?
 
 ### 3. The Rite Of Entry
 

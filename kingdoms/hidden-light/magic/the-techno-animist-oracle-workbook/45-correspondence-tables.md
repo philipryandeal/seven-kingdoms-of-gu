@@ -1,10 +1,10 @@
 # Correspondence Tables
 
-These tables organize the thirty-six cards by various attributes so you can quickly reference which cards govern which elements of system work, which belong to which phase of the Four-Day Rhythm, and which are Sephirot versus Worlds versus Protocols. Use these tables when you want to work with a specific type of energy, when you are building a working that requires cards from a particular category, or when you are analyzing a reading and want to see what patterns are emerging.
+These tables organize the thirty-six cards by various attributes so you can quickly reference which cards govern which elements of system work, which belong to which phase of the Four-Day Rhythm, and which are Sefirot versus Worlds versus Protocols. Use these tables when you want to work with a specific type of energy, when you are building a working that requires cards from a particular category, or when you are analyzing a reading and want to see what patterns are emerging.
 
 **CARDS BY TYPE**
 
-**SEPHIROT (Cards 1-10) - Divine Emanation as Code**
+**SEFIROT (Cards 1-10) - Divine Emanation as Code**
 
 Malkuth (Kingdom/Manifestation)
 
@@ -34,7 +34,7 @@ Kether (Crown/Source Code)
 
 **FORGE (Structure, Discipline, Building)**
 
-Malkuth, Hod, Gevurah, Binah (left pillar Sephirot)
+Malkuth, Hod, Gevurah, Binah (left pillar Sefirot)
 
 The Debugging Protocol
 
@@ -56,7 +56,7 @@ The Authentication Protocol
 
 **FLOW (Creativity, Optimization, Elegance)**
 
-Chokmah, Chesed, Netzach (right pillar Sephirot)
+Chokmah, Chesed, Netzach (right pillar Sefirot)
 
 Atziluth (Source Code)
 
@@ -70,7 +70,7 @@ The API Handshake
 
 **FIELD (Communication, Connection, Sharing)**
 
-Yesod, Tiphereth (middle pillar Sephirot)
+Yesod, Tiphereth (middle pillar Sefirot)
 
 Briah (Architecture)
 
@@ -102,7 +102,7 @@ The Load Balancing Protocol
 
 The Encryption/Decryption Protocol
 
-**CARDS BY PILLAR (For Sephirot)**
+**CARDS BY PILLAR (For Sefirot)**
 
 **LEFT PILLAR - Severity, Structure, Boundaries**
 
