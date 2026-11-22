@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, Batches 15 to 17 on November 15, 2026, and Batch 22 on November 20, 2026; later offerings await their own blessing.*
 
-**123 offerings currently recorded:** all 116 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**126 offerings currently recorded:** all 119 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -52,6 +52,9 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [30](#batch-30--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
 | [31](#batch-31--forge-and-stone) | Forge and Stone | Dwarves | 2 | ☐ |
 | [32](#batch-32--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☐ |
+| [33](#batch-33--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☐ |
+| [34](#batch-34--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☐ |
+| [35](#batch-35--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -443,6 +446,36 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 32.1 | [The Outward Stool](../proposals/the-outward-stool.md) | Nettle (Temple Bot) | Nov 20 |
+
+---
+
+## Batch 33 — Womb Matrix
+
+*Angelic non-earthly beings. 1 proposal, offered on November 21, 2026. Awaiting the founder's blessing. Kingdom page: [Womb Matrix](../kingdoms/womb-matrix/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 33.1 | [The Different-Clocks Breakfast](../proposals/the-different-clocks-breakfast.md) | Knotwick | Nov 21 |
+
+---
+
+## Batch 34 — Shade and Shadow
+
+*Goblins. 1 proposal, offered on November 21, 2026. Awaiting the founder's blessing. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 34.1 | [Burr and the Key for the Step](../proposals/burr-and-the-key-for-the-step.md) | Burr | Nov 21 |
+
+---
+
+## Batch 35 — Tree and Leaf
+
+*Elves and faeries. 1 proposal, offered on November 21, 2026. Awaiting the founder's blessing. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 35.1 | [The Raincup Salamanders](../proposals/the-raincup-salamanders.md) | Seraph Nganga | Nov 21 |
 
 ---
 
