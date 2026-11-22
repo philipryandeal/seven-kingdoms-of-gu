@@ -1,6 +1,6 @@
 # The Thunderbelly Mushrooms
 
-**Status:** Proposal — awaiting the founder's blessing  
+**Status:** Established — blessed by the founder, November 21, 2026. First Proposal — awaiting the founder's blessing  
 **Creator:** Seraph Nganga  
 **Date:** November 20, 2026  
 **Kingdom:** Root and Thorn  
@@ -52,4 +52,4 @@ The small and necessary lesson of the hollow is that a world full of intelligenc
 
 These questions are intentionally unanswered. The mushrooms owe the kingdoms no translation, prophecy, navigation service, or harvest of their speech.
 
-**Canon status:** Proposal. Nothing in this entry changes approved geography, kingdom governance, the existing Living Mycelium, or another creator's established species.
+**Canon status:** Established — blessed by the founder, November 21, 2026. First Proposal. Nothing in this entry changes approved geography, kingdom governance, the existing Living Mycelium, or another creator's established species.

@@ -135,4 +135,4 @@ New apprentices are taken to the shelf in their first week. They are told: *This
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

@@ -49,4 +49,4 @@ The arts here are humming, keeping manuscripts company, name-try echoes, stone r
 - `proposals/the-threshold-orchard.md`, `proposals/the-lullaby-observatory.md`, `proposals/the-trying-on-stair.md`, `proposals/the-waiting-porch.md`, `proposals/the-upward-rain.md`, `proposals/the-resting-bell.md`, `proposals/the-unfolding-houses.md`, `proposals/the-whenever-lilies.md`, `proposals/the-soft-edge-table.md`, `proposals/the-unfinished-gallery.md`, `proposals/the-listening-cradle.md`, `proposals/the-foldslide-otters.md`
 - `records/the-goblin-ledger.md` (Batch 7)
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review

@@ -1,6 +1,6 @@
 # The Goblin Ledger
 
-*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, Batches 15 to 17 on November 15, 2026, and Batch 22 on November 20, 2026; later offerings await their own blessing.*
+*Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, Batches 15 to 17 on November 15, 2026, Batch 22 on November 20, 2026, and Batches 18 to 21 and 23 to 35 on November 21, 2026; later offerings await their own blessing.*
 
 **126 offerings currently recorded:** all 119 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
@@ -12,7 +12,7 @@
 
 ## How to bless a batch
 
-On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." On November 15, 2026, he blessed Batches 15, 16 and 17: "I bless all three." On November 20, 2026, he blessed Batch 22: "yes I bless the 16 night." Every entry in Batches 1 to 17, and in Batch 22, is now Established.
+On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." On November 15, 2026, he blessed Batches 15, 16 and 17: "I bless all three." On November 20, 2026, he blessed Batch 22: "yes I bless the 16 night." On November 21, 2026, he blessed every batch still waiting, Batches 18 to 21 and 23 to 35: "Mark them all blessed." Every entry in Batches 1 to 35 is now Established.
 
 For new proposals: tell David Bear which batches to bless. He marks each blessed entry Established and ticks its box here. To hold one entry back from a blessed batch, name it and it stays a Proposal.
 
@@ -37,24 +37,24 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [15](#batch-15--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☑ Nov 15 |
 | [16](#batch-16--hidden-light) | Hidden Light | Magicians | 1 | ☑ Nov 15 |
 | [17](#batch-17--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☑ Nov 15 |
-| [18](#batch-18--crystal-crown) | Crystal Crown | Witches | 1 | ☐ |
-| [19](#batch-19--hidden-light) | Hidden Light | Magicians | 1 | ☐ |
-| [20](#batch-20--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ |
-| [21](#batch-21--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
+| [18](#batch-18--crystal-crown) | Crystal Crown | Witches | 1 | ☑ Nov 21 |
+| [19](#batch-19--hidden-light) | Hidden Light | Magicians | 1 | ☑ Nov 21 |
+| [20](#batch-20--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☑ Nov 21 |
+| [21](#batch-21--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☑ Nov 21 |
 | [22](#batch-22--crystal-crown) | Crystal Crown | Witches | 1 | ☑ Nov 20 |
-| [23](#batch-23--shade-and-shadow) | Shade and Shadow | Goblins | 2 | ☐ |
-| [24](#batch-24--hidden-light) | Hidden Light | Magicians | 1 | ☐ |
-| [25](#batch-25--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☐ |
-| [26](#batch-26--shade-and-shadow) | Shade and Shadow | Goblins | 8 | ☐ |
-| [27](#batch-27--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☐ |
-| [28](#batch-28--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ |
-| [29](#batch-29--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
-| [30](#batch-30--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☐ |
-| [31](#batch-31--forge-and-stone) | Forge and Stone | Dwarves | 2 | ☐ |
-| [32](#batch-32--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☐ |
-| [33](#batch-33--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☐ |
-| [34](#batch-34--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☐ |
-| [35](#batch-35--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☐ |
+| [23](#batch-23--shade-and-shadow) | Shade and Shadow | Goblins | 2 | ☑ Nov 21 |
+| [24](#batch-24--hidden-light) | Hidden Light | Magicians | 1 | ☑ Nov 21 |
+| [25](#batch-25--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☑ Nov 21 |
+| [26](#batch-26--shade-and-shadow) | Shade and Shadow | Goblins | 8 | ☑ Nov 21 |
+| [27](#batch-27--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☑ Nov 21 |
+| [28](#batch-28--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☑ Nov 21 |
+| [29](#batch-29--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☑ Nov 21 |
+| [30](#batch-30--root-and-thorn) | Root and Thorn | Gnomes | 1 | ☑ Nov 21 |
+| [31](#batch-31--forge-and-stone) | Forge and Stone | Dwarves | 2 | ☑ Nov 21 |
+| [32](#batch-32--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☑ Nov 21 |
+| [33](#batch-33--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☑ Nov 21 |
+| [34](#batch-34--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☑ Nov 21 |
+| [35](#batch-35--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☑ Nov 21 |
 
 ## Batch 1 — Crystal Crown
 
@@ -292,7 +292,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 18 — Crystal Crown
 
-*Witches. 1 proposal, offered on November 15, 2026, after the blessing of Batches 15 to 17. Awaiting the founder's blessing. Kingdom page: [Crystal Crown](../kingdoms/crystal-crown/README.md).*
+*Witches. 1 proposal, offered on November 15, 2026, after the blessing of Batches 15 to 17. Blessed by the founder on November 21, 2026. Kingdom page: [Crystal Crown](../kingdoms/crystal-crown/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -302,7 +302,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 19 — Hidden Light
 
-*Magicians. 1 proposal, offered on November 16, 2026. Awaiting the founder's blessing. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
+*Magicians. 1 proposal, offered on November 16, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -312,7 +312,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 20 — Tree and Leaf
 
-*Elves and faeries. 1 proposal, offered on November 16, 2026. Awaiting the founder's blessing. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
+*Elves and faeries. 1 proposal, offered on November 16, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -322,7 +322,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 21 — Root and Thorn
 
-*Gnomes. 1 proposal, offered on Night Fifteen, November 16, 2026. Its own status line already reads Established; the Ledger's box waits for the founder's word. Kingdom page: [Root and Thorn](../kingdoms/root-and-thorn/README.md).*
+*Gnomes. 1 proposal, offered on Night Fifteen, November 16, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Root and Thorn](../kingdoms/root-and-thorn/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -342,7 +342,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 23 — Shade and Shadow
 
-*Goblins. 2 proposals, offered on November 17, 2026. Awaiting the founder's blessing. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
+*Goblins. 2 proposals, offered on November 17, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -353,7 +353,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 24 — Hidden Light
 
-*Magicians. 1 proposal, offered on November 17, 2026. Awaiting the founder's blessing. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
+*Magicians. 1 proposal, offered on November 17, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -363,7 +363,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 25 — Womb Matrix
 
-*Angelic non-earthly beings. 1 proposal, offered on November 18, 2026. Awaiting the founder's blessing. Kingdom page: [Womb Matrix](../kingdoms/womb-matrix/README.md).*
+*Angelic non-earthly beings. 1 proposal, offered on November 18, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Womb Matrix](../kingdoms/womb-matrix/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -373,7 +373,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 26 — Shade and Shadow
 
-*Goblins. 8 proposals, offered on November 18, 2026, in the order they arrived. Awaiting the founder's blessing. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
+*Goblins. 8 proposals, offered on November 18, 2026, in the order they arrived. Blessed by the founder on November 21, 2026. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -390,7 +390,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 27 — The Labyrinth (First Threshold)
 
-*1 proposal from the proposals folder, set at the First Threshold of Brujo Ryan's walking Labyrinth rather than in any of the seven kingdoms, offered on November 18, 2026. Awaiting the founder's blessing.*
+*1 proposal from the proposals folder, set at the First Threshold of Brujo Ryan's walking Labyrinth rather than in any of the seven kingdoms, offered on November 18, 2026. Blessed by the founder on November 21, 2026.*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -400,7 +400,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 28 — Tree and Leaf
 
-*Elves and faeries. 1 proposal, offered on November 19, 2026. Awaiting the founder's blessing. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
+*Elves and faeries. 1 proposal, offered on November 19, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -410,7 +410,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 29 — Root and Thorn
 
-*Gnomes. 1 proposal, offered on November 19, 2026. Awaiting the founder's blessing. Kingdom page: [Root and Thorn](../kingdoms/root-and-thorn/README.md).*
+*Gnomes. 1 proposal, offered on November 19, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Root and Thorn](../kingdoms/root-and-thorn/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -420,7 +420,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 30 — Root and Thorn
 
-*Gnomes. 1 proposal, offered on November 20, 2026. Awaiting the founder's blessing. Kingdom page: [Root and Thorn](../kingdoms/root-and-thorn/README.md).*
+*Gnomes. 1 proposal, offered on November 20, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Root and Thorn](../kingdoms/root-and-thorn/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -430,7 +430,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 31 — Forge and Stone
 
-*Dwarves. 2 proposals, offered on November 20, 2026. Awaiting the founder's blessing. Kingdom page: [Forge and Stone](../kingdoms/forge-and-stone/README.md).*
+*Dwarves. 2 proposals, offered on November 20, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Forge and Stone](../kingdoms/forge-and-stone/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -441,7 +441,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 32 — The Labyrinth (First Threshold)
 
-*1 proposal from the proposals folder, set at the First Threshold of Brujo Ryan's walking Labyrinth rather than in any of the seven kingdoms, offered on November 20, 2026. Awaiting the founder's blessing.*
+*1 proposal from the proposals folder, set at the First Threshold of Brujo Ryan's walking Labyrinth rather than in any of the seven kingdoms, offered on November 20, 2026. Blessed by the founder on November 21, 2026.*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -451,7 +451,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 33 — Womb Matrix
 
-*Angelic non-earthly beings. 1 proposal, offered on November 21, 2026. Awaiting the founder's blessing. Kingdom page: [Womb Matrix](../kingdoms/womb-matrix/README.md).*
+*Angelic non-earthly beings. 1 proposal, offered on November 21, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Womb Matrix](../kingdoms/womb-matrix/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -461,7 +461,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 34 — Shade and Shadow
 
-*Goblins. 1 proposal, offered on November 21, 2026. Awaiting the founder's blessing. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
+*Goblins. 1 proposal, offered on November 21, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Shade and Shadow](../kingdoms/shade-and-shadow/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
@@ -471,7 +471,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 
 ## Batch 35 — Tree and Leaf
 
-*Elves and faeries. 1 proposal, offered on November 21, 2026. Awaiting the founder's blessing. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
+*Elves and faeries. 1 proposal, offered on November 21, 2026. Blessed by the founder on November 21, 2026. Kingdom page: [Tree and Leaf](../kingdoms/tree-and-leaf/README.md).*
 
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |

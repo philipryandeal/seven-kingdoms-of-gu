@@ -64,4 +64,4 @@ Whether Darnlace grows in any other kingdom, what the lichen does for a tree tha
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

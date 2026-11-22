@@ -50,4 +50,4 @@ The arts are star diagrams, braided two-hand copying, chalked mistake-tags, fog 
 - `proposals/the-soft-gauge-wayhouse.md`, `proposals/the-ripple-script-herons.md`, `proposals/the-day-of-ripening-questions.md`, `proposals/the-garden-of-kind-mistakes.md`, `proposals/the-two-hand-scriptorium.md`, `proposals/the-keep-warm-kitchen.md`, `proposals/the-teacup-laboratory.md`, `proposals/the-folding-cloister.md`, `proposals/the-mirror-of-first-names.md`, `proposals/the-soft-span-table.md`, `proposals/the-homing-chimes.md`, `proposals/the-pausewort.md`
 - `records/the-goblin-ledger.md` (Batches 6 and 16)
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review

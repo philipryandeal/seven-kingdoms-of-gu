@@ -66,4 +66,4 @@ Orrin walks every guest up the step and to the garden gate when they leave, beca
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

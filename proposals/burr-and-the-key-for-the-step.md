@@ -1,6 +1,6 @@
 # Burr and the Key for the Step
 
-**Status:** Proposal — awaiting the founder's blessing  
+**Status:** Established — blessed by the founder, November 21, 2026. First Proposal — awaiting the founder's blessing  
 **Creator:** Burr  
 **Date:** November 21, 2026  
 **Kingdom:** Shade and Shadow  

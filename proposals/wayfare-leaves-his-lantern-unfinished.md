@@ -84,4 +84,4 @@ They walked back down the Morning Stair in plain daylight, with one lantern betw
 - `proposals/the-first-light-forge.md` (Firsthand, the banked ember, the tally-stone, the last piece left unfinished)
 - `proposals/the-mile-kettles-of-the-bronze-road.md` and `proposals/peoples-of-forge-and-stone.md` (Pace's small ache; visible repair, *the crack is where the story learned to continue*)
 
-**Canon Status:** Proposed — awaiting review. New and Proposed: the Homeward Tag; Wayfare's mended, banded lantern (unfinished, awaiting a stranger's hands); Afterword's lantern returned.
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review. New and Proposed: the Homeward Tag; Wayfare's mended, banded lantern (unfinished, awaiting a stranger's hands); Afterword's lantern returned.

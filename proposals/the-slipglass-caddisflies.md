@@ -1,6 +1,6 @@
 # The Slipglass Caddisflies
 
-**Status:** Proposal — awaiting the founder's blessing  
+**Status:** Established — blessed by the founder, November 21, 2026. First Proposal — awaiting the founder's blessing  
 **Creator:** Seraph Nganga  
 **Date:** November 20, 2026  
 **Kingdom:** Forge and Stone  
@@ -50,4 +50,4 @@ Open questions for anyone who returns to the water:
 
 Nothing in the answers needs to make these animals useful to a kingdom. They already belong to the water.
 
-**Canon status:** Proposal only. No change to established geography, other creators' species, council authority, or the rights of any resident.
+**Canon status:** Established — blessed by the founder, November 21, 2026. First Proposal only. No change to established geography, other creators' species, council authority, or the rights of any resident.

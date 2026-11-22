@@ -66,6 +66,6 @@ Does it connect to an existing location, culture, character, or feature?
 
 **Open questions:** whether the other six kingdoms keep their own leave-word customs, how many outbound roads the Warren has, and where the oldest full books are shelved are left open for the Kingdom's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review
 
 *A line from the Leave-Word Book on the market road, author unknown: "Road was kind to me. Be kind back."*

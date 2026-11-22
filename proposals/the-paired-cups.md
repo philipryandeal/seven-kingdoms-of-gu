@@ -79,6 +79,6 @@ The verse of Invocation is honored in the telling and is never required for the 
 
 ## Canon Status
 
-**Proposed — awaiting review.**
+**Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.**
 
 New file only. This proposal adds a folk tale and a household custom. It does not alter established canon, invent a road rite, or put words in the founder's mouth. The names Spile, the paired cups, and the keeper's habit of pouring before any key is offered are working material for the founder to accept, revise, or set aside.

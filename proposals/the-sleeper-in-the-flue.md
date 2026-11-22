@@ -146,6 +146,6 @@ Does it connect to an existing location, culture, character, or feature?
 
 **Open questions:** whether the Tumbletwigs keep the soot-bowl for Vesper every winter, where exactly the alley stands, and whether every old flue in the Warren holds a sleeper are left open for the Kingdom's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review
 
 *Written on the step, in the soot, by Kindle: "Ask first. The fire will wait a breath longer than you think."*
