@@ -83,6 +83,6 @@ The tale uses everyday Protocol Magic as the Practice gives it, in the Register 
 
 ## Canon Status
 
-**Proposed — awaiting review.**
+**Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.**
 
 New file only. This proposal adds a folk tale and one boothkeeping custom. It does not alter established canon, invent a road rite, or put words in anyone else's mouth. The names Pellow Ashby and Tack, the Outward Stool, and the keeper's habit of walking a guest to the edge of the lantern light are working material for the founder to accept, revise, or set aside.

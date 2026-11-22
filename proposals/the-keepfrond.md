@@ -85,4 +85,4 @@ Which groves have Keepfronds, whether any other kingdom's old trees host them, w
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

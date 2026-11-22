@@ -192,4 +192,4 @@ Whether other kingdoms keep a Long Stir of their own (the dwarves, some say, wou
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

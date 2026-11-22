@@ -186,4 +186,4 @@ Whether other households keep a one-knot threshold, whether Hasps and Hook are n
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

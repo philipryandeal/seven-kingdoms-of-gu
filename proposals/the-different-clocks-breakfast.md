@@ -287,4 +287,4 @@ Still open: what Oriel does in its long rests, which is Oriel's own; whether Pen
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

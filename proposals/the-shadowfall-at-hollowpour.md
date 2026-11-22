@@ -56,4 +56,4 @@ The hollow's keeper is an old goblin named **Pellby Fernhook**, a retired night-
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

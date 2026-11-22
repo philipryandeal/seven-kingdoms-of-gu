@@ -74,4 +74,4 @@ Whether other kingdoms keep sky gardens of their own, which station the ring was
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

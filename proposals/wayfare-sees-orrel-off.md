@@ -75,4 +75,4 @@ The bowl promises nothing, because the Register of the Practitioner never promis
 - `proposals/the-mile-kettles-of-the-bronze-road.md`
 - `proposals/peoples-of-the-womb-matrix.md` (a separate Proposed Seeing-Off custom; the two may be reconciled later)
 
-**Canon Status:** Proposed — awaiting review. New and Proposed: Orrel; the Doorstep Bowl; the doorstep use of the Leave-Word Post by Wayfare; Wayfare's cracked lantern.
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review. New and Proposed: Orrel; the Doorstep Bowl; the doorstep use of the Leave-Word Post by Wayfare; Wayfare's cracked lantern.

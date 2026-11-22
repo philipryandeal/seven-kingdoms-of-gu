@@ -94,4 +94,4 @@ Whether the Looking-First is taken up in other kingdoms' mending places, whether
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review.

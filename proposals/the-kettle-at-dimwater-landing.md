@@ -129,6 +129,6 @@ Does it connect to an existing location, culture, character, or feature?
 
 **Open questions:** whether Dimwater Landing exists, who first told the tale, whether other kitchens' kettles carry the same story, and whether a household might one day want a shorter form of either rite are left open. This tale does not write one. That is for the founder.
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review
 
 *Told at the end of the telling, to whoever is nearest: "Pour on purpose."*

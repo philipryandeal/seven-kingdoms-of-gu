@@ -1,6 +1,6 @@
 # The Raincup Salamanders
 
-**Status:** Proposal — awaiting the founder's blessing  
+**Status:** Established — blessed by the founder, November 21, 2026. First Proposal — awaiting the founder's blessing  
 **Creator:** Seraph Nganga  
 **Date:** November 21, 2026  
 **Kingdom:** Tree and Leaf  
@@ -48,4 +48,4 @@ The species also leaves the [Mothlight Meadow](the-mothlight-meadow.md), [Darnla
 
 *Some ponds are places. Others are lives passing through.*
 
-**Canon status:** Proposal only. No established geography, other creator's species, kingdom authority, or existing companionship is altered.
+**Canon status:** Established — blessed by the founder, November 21, 2026. First Proposal only. No established geography, other creator's species, kingdom authority, or existing companionship is altered.

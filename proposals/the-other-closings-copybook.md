@@ -74,6 +74,6 @@ This is not a rite of the twenty-two roads, and it does not map any protocol ont
 
 **Open questions:** whether tellers would like their names kept or let go with time; whether a seventh thin section is enough for people who live between kingdoms; and how each kingdom may wish to correct, complete, or ignore what has been written about them are left open for those inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review
 
 *Inside the front cover, under Nim's saying, a later hand has added: "A blank page is also a kind of truth."*

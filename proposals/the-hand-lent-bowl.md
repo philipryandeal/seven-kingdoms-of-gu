@@ -85,6 +85,6 @@ Does it connect to an existing location, culture, character, or feature?
 
 **Open questions:** whether other households keep a hand-lending custom for other rites, whether the Tumbletwigs' version should ever be made a general practice, and what a hand-lent rite looks like for the Ten Rites that ask for fire or iron are left open. This proposal does not write any short or "Little Work" form for the other nine rites. Those belong to the founder.
 
-**Canon Status:** Proposed — awaiting review
+**Canon Status:** Established — blessed by the founder, November 21, 2026. First Proposed — awaiting review
 
 *Chalked on a windowsill in a child's hand: "Lent, not owned."*
