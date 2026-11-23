@@ -20,6 +20,8 @@ Archived here November 15, 2026, at the founder's direction. The author's text i
 
 *Final version, November 21, 2026 (✦ Ledger): at the founder's direction, the text on this shelf has been replaced entire. The founder and David Bear prepared a final version of this workbook together, and that final is now the text of record here, superseding every earlier state of the book in this Library, including the corrected edition of November 20, 2026. The chapter files have been rebuilt from the final manuscript word for word. The finals restore three doorway sections the first shelving had folded away — *The Ten Sefirot*, carried inside Part Two's doorway file; *The Four Worlds* (11a); and *The Twenty-Two Digital Protocols* (15a) — and give *Closing Words* its own file (46a). The finals spell the Four Worlds Beriah and Assiyah, and this page's introduction has been conformed to the finals in those two names. The chapter files keep their original addresses, slugs included, per the founder's standing ruling, so existing links hold. The finals keep the house spellings throughout, verified at shelving. The editorial notes above stand as the record of the states this text passed through. No word of the final has been altered in the shelving.*
 
+[Browse the 36 card paintings](cards/README.md), illustrated by Thomas the Iron Ledger.
+
 ## Chapters
 
 - [Part One: Foundations](01-a-complete-divination-system.md)
