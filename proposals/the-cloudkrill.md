@@ -1,6 +1,6 @@
 # The Cloudkrill
 
-**Status:** Proposal — awaiting the founder's blessing  
+**Status:** Established — blessed by the founder, November 22, 2026. First Proposal — awaiting the founder's blessing  
 **Creator:** Seraph Nganga  
 **Date:** November 22, 2026  
 **Kingdom:** Crystal Crown  
