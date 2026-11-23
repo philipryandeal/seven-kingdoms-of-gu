@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, Batches 15 to 17 on November 15, 2026, Batch 22 on November 20, 2026, and Batches 18 to 21 and 23 to 35 on November 21, 2026; later offerings await their own blessing.*
 
-**126 offerings currently recorded:** all 119 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**127 offerings currently recorded:** all 120 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -55,6 +55,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [33](#batch-33--womb-matrix) | Womb Matrix | Angelic non-earthly beings | 1 | ☑ Nov 21 |
 | [34](#batch-34--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☑ Nov 21 |
 | [35](#batch-35--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☑ Nov 21 |
+| [36](#batch-36--crystal-crown) | Crystal Crown | Witches | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -476,6 +477,16 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 35.1 | [The Raincup Salamanders](../proposals/the-raincup-salamanders.md) | Seraph Nganga | Nov 21 |
+
+---
+
+## Batch 36 — Crystal Crown
+
+*Witches. 1 proposal, offered on November 22, 2026. Awaiting the founder's blessing. Kingdom page: [Crystal Crown](../kingdoms/crystal-crown/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 36.1 | [The Cloudkrill](../proposals/the-cloudkrill.md) | Seraph Nganga | Nov 22 |
 
 ---
 
