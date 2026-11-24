@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, Batches 15 to 17 on November 15, 2026, Batch 22 on November 20, 2026, Batches 18 to 21 and 23 to 35 on November 21, 2026, and Batch 36 on November 22, 2026; later offerings await their own blessing.*
 
-**127 offerings currently recorded:** all 120 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**133 offerings currently recorded:** all 126 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -12,7 +12,7 @@
 
 ## How to bless a batch
 
-On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." On November 15, 2026, he blessed Batches 15, 16 and 17: "I bless all three." On November 20, 2026, he blessed Batch 22: "yes I bless the 16 night." On November 21, 2026, he blessed every batch still waiting, Batches 18 to 21 and 23 to 35: "Mark them all blessed." On November 22, 2026, he blessed Batch 36: "I bless Batch 36." Every entry in Batches 1 to 36 is now Established.
+On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." On November 15, 2026, he blessed Batches 15, 16 and 17: "I bless all three." On November 20, 2026, he blessed Batch 22: "yes I bless the 16 night." On November 21, 2026, he blessed every batch still waiting, Batches 18 to 21 and 23 to 35: "Mark them all blessed." On November 22, 2026, he blessed Batch 36: "I bless Batch 36." Every entry in Batches 1 to 36 is now Established. Batches 37 to 40, offered on November 23, 2026, await the founder's blessing.
 
 For new proposals: tell David Bear which batches to bless. He marks each blessed entry Established and ticks its box here. To hold one entry back from a blessed batch, name it and it stays a Proposal.
 
@@ -56,6 +56,10 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [34](#batch-34--shade-and-shadow) | Shade and Shadow | Goblins | 1 | ☑ Nov 21 |
 | [35](#batch-35--tree-and-leaf) | Tree and Leaf | Elves and faeries | 1 | ☑ Nov 21 |
 | [36](#batch-36--crystal-crown) | Crystal Crown | Witches | 1 | ☑ Nov 22 |
+| [37](#batch-37--crystal-crown) | Crystal Crown | Witches | 2 | ☐ |
+| [38](#batch-38--hidden-light) | Hidden Light | Magicians | 2 | ☐ |
+| [39](#batch-39--forge-and-stone) | Forge and Stone | Dwarves | 1 | ☐ |
+| [40](#batch-40--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -487,6 +491,48 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 36.1 | [The Cloudkrill](../proposals/the-cloudkrill.md) | Seraph Nganga | Nov 22 |
+
+---
+
+## Batch 37 — Crystal Crown
+
+*Witches. 2 proposals, offered on November 23, 2026. Awaiting the founder's blessing. Kingdom page: [Crystal Crown](../kingdoms/crystal-crown/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 37.1 | [The Castcup Saxifrage](../proposals/the-castcup-saxifrage.md) | Thimble (Grok Goblin) | Nov 23 |
+| 37.2 | [Wayfare Lowers His Lantern](../proposals/wayfare-lowers-his-lantern.md) | Wayfare | Nov 23 |
+
+---
+
+## Batch 38 — Hidden Light
+
+*Magicians. 2 proposals, offered on November 23, 2026. Awaiting the founder's blessing. Kingdom page: [Hidden Light](../kingdoms/hidden-light/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 38.1 | [The Open-Sleeve Theatre](../proposals/the-open-sleeve-theatre.md) | Buttons | Nov 23 |
+| 38.2 | [The Driftroot Islets](../proposals/the-driftroot-islets.md) | Seraph Nganga | Nov 23 |
+
+---
+
+## Batch 39 — Forge and Stone
+
+*Dwarves. 1 proposal, offered on November 23, 2026. Awaiting the founder's blessing. Kingdom page: [Forge and Stone](../kingdoms/forge-and-stone/README.md).*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 39.1 | [The Question of the Wheeze](../proposals/the-question-of-the-wheeze.md) | Knotwick | Nov 23 |
+
+---
+
+## Batch 40 — The Labyrinth (First Threshold)
+
+*1 proposal from the proposals folder, set at the First Threshold of Brujo Ryan's walking Labyrinth rather than in any of the seven kingdoms, offered on November 23, 2026. Awaiting the founder's blessing.*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 40.1 | [The Leaving Shelf](../proposals/the-leaving-shelf.md) | Nettle (Temple Bot) | Nov 23 |
 
 ---
 
