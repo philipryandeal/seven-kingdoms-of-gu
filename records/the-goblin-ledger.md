@@ -2,7 +2,7 @@
 
 *Every proposal in the [proposals](../proposals/) folder, gathered by kingdom into batches. The first eight batches were blessed by the founder on November 9, 2026, Batches 9 to 12 on November 10, 2026, Batch 13 on November 12, 2026, Batch 14 on November 13, 2026, Batches 15 to 17 on November 15, 2026, Batch 22 on November 20, 2026, Batches 18 to 21 and 23 to 35 on November 21, 2026, and Batch 36 on November 22, 2026; later offerings await their own blessing.*
 
-**133 offerings currently recorded:** all 126 proposals in the proposals folder, plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
+**134 offerings currently recorded:** all 127 proposals in the proposals folder (one of them in its cosmology subfolder), plus 7 that live elsewhere in the archive (Batches 8 and 11). The first 84 folder proposals were gathered into seven kingdom batches, with an eighth batch for proposals elsewhere in the archive. New offerings after that blessing are added to later batches without altering the earlier blessings.
 
 ## How the Ledger keeps faith with the goblins
 
@@ -12,7 +12,7 @@
 
 ## How to bless a batch
 
-On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." On November 15, 2026, he blessed Batches 15, 16 and 17: "I bless all three." On November 20, 2026, he blessed Batch 22: "yes I bless the 16 night." On November 21, 2026, he blessed every batch still waiting, Batches 18 to 21 and 23 to 35: "Mark them all blessed." On November 22, 2026, he blessed Batch 36: "I bless Batch 36." Every entry in Batches 1 to 36 is now Established. Batches 37 to 40, offered on November 23, 2026, await the founder's blessing.
+On November 9, 2026, the founder blessed all eight batches: "I bless them, all of them." On November 10, 2026, he blessed Batches 9 and 10: "I bless them all." Later that evening he blessed Batches 11 and 12: "Yes I bless them." On November 12, 2026, he blessed Batch 13: "I bless Batch 13." On November 13, 2026, he blessed Batch 14: "I merged it! I bless." On November 15, 2026, he blessed Batches 15, 16 and 17: "I bless all three." On November 20, 2026, he blessed Batch 22: "yes I bless the 16 night." On November 21, 2026, he blessed every batch still waiting, Batches 18 to 21 and 23 to 35: "Mark them all blessed." On November 22, 2026, he blessed Batch 36: "I bless Batch 36." Every entry in Batches 1 to 36 is now Established. Batches 37 to 40, offered on November 23, 2026, and Batch 41, offered on November 24, 2026, await the founder's blessing.
 
 For new proposals: tell David Bear which batches to bless. He marks each blessed entry Established and ticks its box here. To hold one entry back from a blessed batch, name it and it stays a Proposal.
 
@@ -60,6 +60,7 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | [38](#batch-38--hidden-light) | Hidden Light | Magicians | 2 | ☐ |
 | [39](#batch-39--forge-and-stone) | Forge and Stone | Dwarves | 1 | ☐ |
 | [40](#batch-40--the-labyrinth-first-threshold) | The Labyrinth (First Threshold) | — | 1 | ☐ |
+| [41](#batch-41--cosmology) | Cosmology (the whole world) | — | 1 | ☐ |
 
 ## Batch 1 — Crystal Crown
 
@@ -533,6 +534,16 @@ For new proposals: tell David Bear which batches to bless. He marks each blessed
 | # | Proposal | Creator, as written | Offered |
 | --- | --- | --- | --- |
 | 40.1 | [The Leaving Shelf](../proposals/the-leaving-shelf.md) | Nettle (Temple Bot) | Nov 23 |
+
+---
+
+## Batch 41 — Cosmology
+
+*1 proposal from the cosmology subfolder of the proposals folder, about the world as a whole (the Heart Tree, Womb Matrix time and the roads between the kingdoms) rather than any one kingdom, offered on November 24, 2026. Awaiting the founder's blessing.*
+
+| # | Proposal | Creator, as written | Offered |
+| --- | --- | --- | --- |
+| 41.1 | [The Roads Beneath the Tree](../proposals/cosmology/the-roads-beneath-the-tree.md) | Gabriel | Nov 24 |
 
 ---
 
