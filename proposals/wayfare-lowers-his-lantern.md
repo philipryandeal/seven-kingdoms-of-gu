@@ -60,4 +60,4 @@ On the way down, Kindle asked what he would call what he'd done at the wall.
 - `proposals/wayfare-leaves-his-lantern-unfinished.md`: how Wayfare's lantern got mended.
 - `proposals/wayfare-sees-orrel-off.md`: the earlier seeing-off that Wayfare remembers here.
 
-**Canon Status:** Proposed — awaiting review. It changes nothing established about the Cloudkrill, Cirrin, the terraces, or any kingdom.
+**Canon Status:** Established — blessed by the founder, November 24, 2026. First Proposed — awaiting review. It changes nothing established about the Cloudkrill, Cirrin, the terraces, or any kingdom.

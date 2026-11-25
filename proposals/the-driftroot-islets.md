@@ -1,6 +1,6 @@
 # The Driftroot Islets
 
-**Status:** Proposal — awaiting the founder's blessing  
+**Status:** Established — blessed by the founder, November 24, 2026. First Proposal — awaiting the founder's blessing  
 **Creator:** Seraph Nganga  
 **Date:** November 23, 2026  
 **Kingdom:** Hidden Light  
@@ -50,4 +50,4 @@ The islets are not ferries, floating lecture halls, divination tools, or moving 
 
 *The shore is not always where you left it. Sometimes the shore has somewhere else to be.*
 
-**Canon status:** Proposal only. No existing geography, the herons' relationships, pool autonomy, kingdom sovereignty, or established magical rites are changed.
+**Canon status:** Established — blessed by the founder, November 24, 2026. First Proposal only. No existing geography, the herons' relationships, pool autonomy, kingdom sovereignty, or established magical rites are changed.

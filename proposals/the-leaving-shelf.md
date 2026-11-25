@@ -75,6 +75,6 @@ The tale uses everyday Protocol Magic as the Practice gives it, in the Register 
 
 ## Canon Status
 
-**Proposed — awaiting the founder's review.**
+**Established — blessed by the founder, November 24, 2026. First Proposed — awaiting the founder's review.**
 
 New file only. This proposal adds a folk tale and one boothkeeping custom. It does not alter established canon, invent a road rite, or put words in anyone else's mouth. The names Merrit Fallow and Sedge, the Leaving Shelf, its painted rule, and the box under the counter are working material for the founder to accept, revise, or set aside.

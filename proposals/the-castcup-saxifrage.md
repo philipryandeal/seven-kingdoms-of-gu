@@ -46,4 +46,4 @@ Which other small lives share the shed shells, how a Castcup's seed finds a shel
 
 ## Canon Status
 
-Proposed — awaiting review. Existing geography, the Cloudkrill and their autonomy, the consent of clouds, established species, and all kingdom sovereignties remain unchanged.
+Established — blessed by the founder, November 24, 2026. First Proposed — awaiting review. Existing geography, the Cloudkrill and their autonomy, the consent of clouds, established species, and all kingdom sovereignties remain unchanged.
