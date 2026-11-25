@@ -131,4 +131,4 @@ Still open: where Cinderstep Row stands in the kingdom; how long Sough has lived
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 24, 2026. First Proposed — awaiting review.

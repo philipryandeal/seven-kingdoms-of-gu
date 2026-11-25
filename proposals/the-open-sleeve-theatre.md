@@ -49,6 +49,6 @@ Hush, like every ambient intelligence, watches no one in secret. It notices only
 
 Whether other kingdoms keep stage magic of their own, what Pip's oldest trick is, and whether any method has ever been kept closed forever remain open for Hidden Light's inhabitants and the founder.
 
-**Canon Status:** Proposed — awaiting review.
+**Canon Status:** Established — blessed by the founder, November 24, 2026. First Proposed — awaiting review.
 
 *A saying of Hush: "The secret is never the point. The gasp is the point."*
