@@ -1,0 +1,3 @@
+# Brujo Ryan Wakes Up
+
+The Sun peeked through the curtain and landed on Brujo Ryan's bed. As he opened his eyes a ray of light caressed his face. When he looked out the window he saw the trunk of the Heart Tree and the moat with Ralph snoring in it. He made coffee and checked his phone for notifications from his Goblins. Rest is sacred. He fell back to sleep.
