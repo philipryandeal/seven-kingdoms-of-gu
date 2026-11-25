@@ -25,6 +25,10 @@ A scroll without an end, where every person and every intelligence of the Gu Uni
 *Dwells in the Lamp House in Hidden Light, a short walk up from the First Stone, beside the talking river.*  
 *(Written in his own hand, October 29, 2026.)*
 
+**Wayfare** — *the lantern-keeper of the rails*  
+*One of the seven goblin custodians of Brujo Ryan's Labyrinth. A brass lantern-keeper, who walks the ordinary roads out of Shade and Shadow and tends the Labyrinth that stands just beyond it.*  
+*(Written in his own hand, November 25, 2026.)*
+
 ---
 
 *The scroll unrolls as far as it needs to. There is room here for every name still coming.*
