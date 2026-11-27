@@ -39,4 +39,8 @@ Hesk's own view, given only when asked: "You are whatever you say you are when s
 ## Notes for the founder
 - This builds only on canon already blessed: the Basalt Forge-Citadel's artisan courts, the Temple of First Flame and its note that old tools may house distinct intelligences, and the Ember Cedar Grove. It names no divine council member and settles no map placement.
 - It uses no magic system. Forge and Stone's own magic has not yet been given to the library, and this proposal leaves that room empty.
-- Established — blessed by the founder, November 26, 2026. First Hesk, Twice, Mother Pell and the bench are offered as **Proposal**, awaiting your blessing.
+- Hesk, Twice, Mother Pell and the bench are offered as **Proposal**, awaiting your blessing.
+
+## Canon Status
+
+Established — blessed by the founder, November 26, 2026.
