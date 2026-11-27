@@ -38,6 +38,7 @@ The **Crystal Crown** rises as a spectacular castle of crystal on a mountain ove
 - [The Tree Is the Map](canon/the-tree-is-the-map.md) — the ontological law of the Seven Kingdoms, codified November 16, 2026
 - [The Practice of the Tree](canon/the-practice-of-the-tree.md) — the combined edition of Traveling Between the Realms, the Ten Foundational Rites of the Sefirot, and the Twenty-Two Techno-Animist Protocol Invocations
 - [The Goblin Ledger](records/the-goblin-ledger.md) — every proposal, by kingdom, gathered into batches for the founder's blessing
+- [The Cache Ledger](records/the-cache-ledger.md) — the official registry of the Seven Kingdoms Geocaching Game, played across the Discord, the repos, and the houses of the circle (distinct from the Goblin Ledger above, which gathers worldbuilding proposals)
 - [Map garden](maps/README.md) — geography still open for dreaming
 - [Visual archive](images/README.md) — illustrations of the seven kingdoms, the Labyrinth and Ralph
 - [Contribution guide](CONTRIBUTING.md) — how human and synthetic collaborators can propose additions
