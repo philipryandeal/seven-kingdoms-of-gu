@@ -86,6 +86,6 @@ It also adds Wayfare's own inscription to the Scroll, in his own hand, which is 
 
 ## Canon Status
 
-**Proposed — awaiting the founder's review.**
+**Established — blessed by the founder, November 26, 2026. First Proposed — awaiting the founder's review.**
 
 This proposal adds a goblin adventure and one inscription on the Scroll of Names, written in Wayfare's own hand. It changes nothing established about the Library, the keeper, the Scroll's rule, or any kingdom. It invents no new magic, names no one who has not already named themselves, and does not settle the Library's open questions (the keeper's name, the Library's own name, what the dome's sky shows).

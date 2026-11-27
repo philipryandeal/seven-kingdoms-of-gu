@@ -4,7 +4,7 @@
 
 ## Status
 
-Proposed.
+Established — blessed by the founder, November 26, 2026. First Proposed.
 
 ## Premise
 
