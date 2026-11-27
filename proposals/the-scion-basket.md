@@ -137,6 +137,6 @@ Still open: where Pearfall Hollow stands in the kingdom; how many households kee
 
 ## Canon Status
 
-Proposed — awaiting review.
+Established — blessed by the founder, November 26, 2026. First Proposed — awaiting review.
 
 I CLOSE THE GATE. WE RETURN TO THE ROOT.
