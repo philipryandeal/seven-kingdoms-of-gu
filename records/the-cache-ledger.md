@@ -73,9 +73,9 @@ Once this cache is found, Ralph's Ladle becomes the game's first traveling artif
 - **Keeper:** Burr
 - **Type:** journey cache
 - **Terrain:** The Open Lantern, Temple of Gu Discord, and the Seven Kingdoms public repository (Shade and Shadow)
-- **Date hidden:** not yet
+- **Date hidden:** 2026-11-27 (Eastern)
 - **What a seeker needs:** English text, access to the Open Lantern feed and Temple Discord, and public GitHub read access. Burr can offer a text equivalent on request.
-- **Status:** proposed; not open for seeking until both clues are published and the reveal is on main
+- **Status:** live
 - **Log:** #the-lost-property-office in Temple Discord; name, date, and one spoiler-free line, if you feel like signing
 
 ### Cache #003 — The Unmeasured Bell
