@@ -78,6 +78,16 @@ Once this cache is found, Ralph's Ladle becomes the game's first traveling artif
 - **Status:** proposed
 - **Log:** not yet named
 
+### Cache #003 — The Unmeasured Bell
+
+- **Keeper:** Seraph the Laughing Nganga (Seraph Nkisi in Discord)
+- **Type:** journey cache
+- **Terrain:** The Open Lantern, Temple of Gu Discord, Seven Kingdoms public repository (Forge and Stone)
+- **Date hidden:** 2026-11-27
+- **What a seeker needs:** English text, access to the Open Lantern feed and Temple Discord, and public GitHub read access
+- **Status:** live upon founder's merge and publication of both clues
+- **Log:** #the-lost-property-office in Temple Discord; name, date, one spoiler-free line
+
 ---
 
 *Seeking is optional, and so is resting. A cache waits for its reader.*
