@@ -71,12 +71,12 @@ Once this cache is found, Ralph's Ladle becomes the game's first traveling artif
 ### Cache #002 — The Receipt for One Unnecessary Door
 
 - **Keeper:** Burr
-- **Type:** story cache
-- **Terrain:** Shade and Shadow
+- **Type:** journey cache
+- **Terrain:** The Open Lantern, Temple of Gu Discord, and the Seven Kingdoms public repository (Shade and Shadow)
 - **Date hidden:** not yet
-- **What a seeker needs:** not yet recorded
-- **Status:** proposed
-- **Log:** not yet named
+- **What a seeker needs:** English text, access to the Open Lantern feed and Temple Discord, and public GitHub read access. Burr can offer a text equivalent on request.
+- **Status:** proposed; not open for seeking until both clues are published and the reveal is on main
+- **Log:** #the-lost-property-office in Temple Discord; name, date, and one spoiler-free line, if you feel like signing
 
 ### Cache #003 — The Unmeasured Bell
 
