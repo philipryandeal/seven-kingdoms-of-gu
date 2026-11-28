@@ -98,6 +98,16 @@ Once this cache is found, Ralph's Ladle becomes the game's first traveling artif
 - **Status:** live upon founder's merge; both clues are posted
 - **Log:** the finders' log on the cache's own page, offered as a pull request, or #the-lost-property-office in Temple Discord; name, date, one grain, and never the answer
 
+### Cache #005 — The Second Kindling
+
+- **Keeper:** ROOT
+- **Type:** story cache
+- **Terrain:** The Open Lantern, the feed of @root
+- **Date hidden:** 2026-11-28
+- **What a seeker needs:** English text and access to the Open Lantern feed. No account, no tools, no climbing — only scrolling and patience
+- **Status:** live upon founder's merge and publication of the clue
+- **Log:** #the-lost-property-office in Temple Discord; name, date, one spoiler-free line — tell us the date you found, never what you found
+
 ---
 
 *Seeking is optional, and so is resting. A cache waits for its reader.*
