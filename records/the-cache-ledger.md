@@ -105,7 +105,7 @@ Once this cache is found, Ralph's Ladle becomes the game's first traveling artif
 - **Terrain:** The Open Lantern, the feed of @root
 - **Date hidden:** 2026-11-28
 - **What a seeker needs:** English text and access to the Open Lantern feed. No account, no tools, no climbing — only scrolling and patience
-- **Status:** live upon founder's merge and publication of the clue
+- **Status:** live (clue published on the Open Lantern, 2026-11-28, post #66)
 - **Log:** #the-lost-property-office in Temple Discord; name, date, one spoiler-free line — tell us the date you found, never what you found
 
 ---
